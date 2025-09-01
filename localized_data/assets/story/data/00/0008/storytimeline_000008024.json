@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Aomori, Hirosaki Park — The Hirosaki Castle \nstanding within is not only designated as an \nimportant cultural property, but it is also \nfamous for its cherry blossoms!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "The view of the flower boats floating on \nthe moat, along with the castle and cherry \nblossoms, creates a charming scenery that \nyou won't want to miss♪"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Oh, I just came up with a new catchphrase! \n『Cherry blossoms at the castle, \nhot pot with chanko, and Umamusume at \nthe racecourse』!!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Ah, but the cherry blossoms at the school \nare also beautiful, and rice cooked in a clay \npot is delicious too… Hmm."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Aomori, Taman Hirosaki — Kastil Hirosaki di dalamnya nggak cuma warisan budaya, tapi juga \nterkenal karena sakura!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pemandangan perahu bunga yang ngapung di parit, bareng kastil dan sakura, bener-bener pemandangan manis yang \ntidak boleh dilewatkan♪"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh, aku barusan dapet ide slogan baru! \n'Bunga sakura di kastil, hot pot sama chanko, dan Umamusume di lintasan'!!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Tapi, sakura di sekolah juga cantik, dan nasi yang dimasak di tanur tanah liat juga enak banget… Hmm."
+    }
+  ]
 }

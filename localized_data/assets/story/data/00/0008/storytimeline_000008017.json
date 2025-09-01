@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Laurel",
-            "text": "Narita Airport… If I ever go to the \n\"Prix de l'Arc de Triomphe\" race in France, \nthis is the airport I'll be leaving from."
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "Hehe, I guess it wouldn't hurt to start \nimagining and getting a feel for what it'll be \nlike, huh?"
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "I'll make sure to arrive at the airport with \nplenty of time to spare and make all \nnecessary arrangements… to ensure that I'll \nhave a smooth and stress-free journey――"
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "Oh, I almost forgot - I should do a quick \ncheck of all my things before I leave. I \ndefinitely don't want to forget anything \nimportant, do I?"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Laurel",
+      "text": "Bandara Narita… Kalau aku pernah ikut lomba 'Prix de l'Arc de Triomphe' di Prancis, \nini bandara yang bakal aku berangkat dari sini."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Hehe, nggak ada salahnya mulai ngebayangin dan ngerasain gimana rasanya, kan?"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Aku bakal pastiin tiba di bandara dengan waktu lebih supaya semua urusan beres… biar perjalanan lancar tanpa stres—"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Oh iya aku hampir lupa - aku harus cek barang-barang sebelum berangkat. \nGak mau lupa barang penting, kan?"
+    }
+  ]
 }

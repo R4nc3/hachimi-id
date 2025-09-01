@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "When speaking of Niigata, of course \none must mention the 1000m straight!!!!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It's the only such course in Japan, \nand the pride of this Niigata racetrack!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "The straight view of the goal is so refreshing!! \nWhy, it's just like me! How wonderful!! \nMy feet are itching to start running!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I can't not bakushin here!! \nBakushiiiin!!!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Kalau ngomongin Niigata, pasti harus \nsebutin 1000m lurusannya!!!!!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ini satu-satunya lintasan kayak gitu di Jepang, \ndan kebanggaan sirkuit Niigata!!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Pemandangan lurus hingga garis finish itu nyegerin!! \nKayak aku deh! Keren banget!! \nKakinya pengen cepet-cepat lari!!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Gak bisa nggak bakushin di sini!! \nBakushiiiin!!!"
+    }
+  ]
 }
