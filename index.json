@@ -1,7 +1,7 @@
 {
-  "base_url": "https://raw.githubusercontent.com/FahriAdison/hachimi-id/release/localized_data",
-  "zip_url": "https://codeload.github.com/FahriAdison/hachimi-id/zip/refs/heads/release",
-  "zip_dir": "hachimi-id-release/localized_data",
+  "base_url": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/localized_data",
+  "zip_url": "https://codeload.github.com/UmaTL/hachimi-tl-en/zip/refs/heads/release",
+  "zip_dir": "hachimi-tl-en-release/localized_data",
   "files": [
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
@@ -6142,6 +6142,11 @@
       "path": "assets/story/data/09/0040/storytimeline_090040008.json",
       "hash": "e9d85bc201abfc9d9962d43ff8551f4e188339a20f974e8316e9bcb92c93b008",
       "size": 7407
+    },
+    {
+      "path": "assets/story/data/09/0047/placeholder",
+      "hash": "295192ea1ec8566d563b1a7587e5f0198580cdbd043842f5090a4c197c20c67a",
+      "size": 1
     },
     {
       "path": "assets/story/data/10/0000/storytimeline_100000001.json",
