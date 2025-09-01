@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Here we are! Miho no Matsubara! \nOho, look at this bakushining view of Mt. Fuji!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "And… could that be the pine tree where \nthe celestial maiden is said to have hung \nher feathered robe?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I see! It does look like a great place \nfor drying laundry!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "— By the way, <i>Mihono Matsubara</i>… \nHow's this place related to Bourbon, I wonder?"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ini dia! Miho no Matsubara! \nWah, lihat pemandangan Mt. Fuji yang bakushin banget!!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Dan… apa itu pohon pinus tempat \nyang katanya dewi gantung jubah bulunya?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Keren! Kayaknya tempat ini cocok banget \nbuat menjemur pakaian!!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ngomong-ngomong, <i>Mihono Matsubara</i>… \nApa hubungannya tempat ini sama Bourbon, ya?"
+    }
+  ]
 }

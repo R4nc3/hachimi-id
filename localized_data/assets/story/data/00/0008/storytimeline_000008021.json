@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "And here we are, \nin Sapporo City! Hokkaido! At Odori Park!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Wow, I can't believe there's such a vast park \nin the middle of the city! The scale of the \nnorthern land is truly impressive!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "That being said, this park stretches straight \non for a long way, doesn't it… I wonder if it's \nas long as a racetrack?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…Hmm, I'm starting to feel like doing \nsomething bakushin here. \nAre there any races held in this park?!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Dan kita sampai, \nDi Kota Sapporo! Hokkaido! Di Odori Park!!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Wah, nggak nyangka ada taman sebesar ini di tengah kota! Skala tanah utara emang luar biasa!!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Tapi, taman ini memanjang cukup jauh, nih, aku penasaran apa kayak lintasan balap?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "…Hmm, mulai pengen bakushin di sini. \nAda lomba yang diadain di taman ini nggak, ya?!"
+    }
+  ]
 }

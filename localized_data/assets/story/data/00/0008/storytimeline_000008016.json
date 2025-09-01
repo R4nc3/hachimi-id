@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Laurel",
-            "text": "In Fukushima, there is a rehabilitation \ncenter for injured Uma Musume."
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "The hot springs there are famous, and \neveryone who has been there says they're \nreally relaxing and feel great."
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "Oh, and they also provide these cute ear \ncovers as amenities. I've seen them before, \nand they had hot spring marks on them. \nThey're really adorable♪"
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "I'm thinking about visiting the place and \nchecking it out for myself. I have a feeling \nthat there's a lot more to learn and discover \nthere besides the hot springs♪"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Laurel",
+      "text": "Di Fukushima ada pusat rehabilitasi \nuntuk Uma Musume yang cedera."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Sumber air panasku terkenal di sana, \ndan semua yang pernah ke sana bilang rasanya \nnyaman banget dan relax."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Oh, dan mereka juga nyediain penutup telinga yang \nimut sebagai fasilitas. Aku pernah liat, \ndan ada tanda pemandian panasnya. \nLucu banget♪"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Aku lagi kepikiran buat main ke sana \ndan cek sendiri. Kayaknya banyak hal yang \nharus ku pelajari selain soal pemandian panas♪"
+    }
+  ]
 }

@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Laurel",
-            "text": "『Naritasan Fudoson』…… \nI don't know why, but it's a place \nI had in my mind for a long time."
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "Naritasan… Narita…… Narita……"
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "Ah, yes. I should buy some souvenir \nfor Brianchan♪"
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "If I remember correctly, this place \nis famous for receiving blessings for \ntraffic safety… \nI wonder if it applies to racing as well?"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Laurel",
+      "text": "'Naritasan Fudoson'… \nEntah kenapa, tempat ini udah lama ada di pikiranku."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Naritasan… Narita… Narita…"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Oh iya. Aku harus beliin suvenir buat Brianchan♪"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Kalau nggak salah tempat ini terkenal buat doain keselamatan lalu lintas… \nKayaknya cocok juga buat balapan ya?"
+    }
+  ]
 }
