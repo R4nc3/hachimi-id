@@ -1,5 +1,5 @@
 # Terjemahan Bahasa Indonesia Umamusume 
-[![Discord](https://img.shields.io/discord/980222697151807488?logo=discord&logoColor=4bba35&label=Discord)](https://discord.gg/RKcrW7j8)
+[![Discord](https://img.shields.io/discord/980222697151807488?logo=discord&logoColor=4bba35&label=Discord)](https://discord.gg/Hx8FpDwRjw)
 
 Ini adalah *repository* untuk proyek terjemahan fan ke bahasa Indonesia buat game Umamusume: Pretty Derby.
 Proyek ini merupakan fork dari terjemahan [UmaTL] yang diubah menjadi bahasa indonesia dan bisa dipakai bareng *patch* [Hachimi].
