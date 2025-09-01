@@ -13,7 +13,7 @@ Terjemahan-terjemahan di sini berasal dari [sumber-sumber ini](#translation-sour
 > Untuk *patch* Legacy IndoTL, jalankan `update.bat` dulu untuk mendapatkan perbaikan *uninstall* terbaru, baru setelah itu jalankan `uninstall.bat`.
 
 1.  Unduh dan pasang [Hachimi].
-2.  Unduh [konfigurasi UmaTL](../../releases/tag/config) dan masukkan ke folder Hachimi (detail lebih lanjut ada di tautan).
+2.  Unduh config.json atau konfigurasi nya dan masukkan ke folder Hachimi
 3.  Jalankan game-nya dan unduh *update* yang tersedia.
     *   Kalau tidak ada *update* yang muncul, buka menu Hachimi (standarnya pakai tombol `panah kanan`) lalu jalankan `first time setup` lagi.
 
