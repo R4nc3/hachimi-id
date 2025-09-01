@@ -1,50 +1,50 @@
-# Umamusume English Translations
-[![Discord](https://img.shields.io/discord/980222697151807488?logo=discord&logoColor=4bba35&label=Discord)](https://discord.gg/xBMgwh6hHY)
+# Terjemahan Bahasa Indonesia Umamusume 
+[![Discord](https://img.shields.io/discord/980222697151807488?logo=discord&logoColor=4bba35&label=Discord)](https://discord.gg/Hx8FpDwRjw)
 
-English fan translation repository for the Umamusume: Pretty Derby game.
-This is a continuation of the [UmaTL] project's translations for use with the [Hachimi] patch.
+Ini adalah *repository* untuk proyek terjemahan fan ke bahasa Indonesia buat game Umamusume: Pretty Derby.
+Proyek ini merupakan fork dari terjemahan [UmaTL] yang diubah menjadi bahasa indonesia dan bisa dipakai bareng *patch* [Hachimi].
 
-Translations provided by [these sources](#translation-sources).  
-Please support my (UmaTL's) own translations & related work through [![Patreon](https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20trainers&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&style=flat-square&logo=patreon&logoColor=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
+Terjemahan-terjemahan di sini berasal dari [sumber-sumber ini](#translation-sources).
 
+# Cara Pasang / Pakai 
 
-# Install / Use
 > [!IMPORTANT]
-> Uninstall any outdated translation patches you still have (Legacy UmaTL, Carotene).
-> For the Legacy UmaTL patch, run update.bat first to get the latest uninstall improvements, followed by uninstall.bat
+> Pastikan kamu sudah mencopot *patch* terjemahan lama yang mungkin masih terpasang (misalnya Legacy UmaTL, Carotene).
+> Untuk *patch* Legacy IndoTL, jalankan `update.bat` dulu untuk mendapatkan perbaikan *uninstall* terbaru, baru setelah itu jalankan `uninstall.bat`.
 
-1. Download and install [Hachimi].
-1. Download [the UmaTL config](../../releases/tag/config) and put it in the hachimi folder (details in link).
-1. Run the game and download the update.
-    - If no update is offered, open the Hachimi menu (default: `right arrow` key) and re-run the `first time setup`.
+1.  Unduh dan pasang [Hachimi].
+2.  Unduh config.json atau konfigurasi nya dan masukkan ke folder Hachimi
+3.  Jalankan game-nya dan unduh *update* yang tersedia.
+    *   Kalau tidak ada *update* yang muncul, buka menu Hachimi (standarnya pakai tombol `panah kanan`) lalu jalankan `first time setup` lagi.
 
-# Versions
-In addition to the normal translations, 2 alternate versions are provided:
+# Versi yang Tersedia
+Selain terjemahan normal, ada 2 versi alternatif lainnya:
 
-1. UmaTL + Skill data. Replaces skill descriptions with converted raw data, otherwise the same.
-1. Skill data only. Does the same, but includes no translations. For users preferring Japanese.
+1.  Indonesia + Data Skill. Ini akan mengganti deskripsi skill dengan data mentah yang sudah dikonversi, selebihnya sama persis.
+2.  Data Skill Saja. Ini melakukan hal yang sama, tapi tanpa terjemahan apa pun. Cocok buat kamu yang lebih suka versi Jepang.
 
 > [!WARNING]
-> These versions might lag slightly behind the normal version.  
-> Skill data only should NOT be used on Global due to many skill effects differing.
+> Versi-versi ini mungkin agak sedikit ketinggalan dibanding versi normal.
+> Versi "Data Skill Saja" sangat TIDAK disarankan untuk dipakai di *server* Global karena banyak efek *skill* yang berbeda.
 
-# Updating
-Hachimi will automatically check for updates when you start the game. If an update is available, you'll be asked if you want to download it and it will be applied immediately, no restart required.
+# Cara Update
+Hachimi bakal otomatis ngecek *update* pas kamu mulai game. Kalau ada *update* baru, kamu akan ditanya apakah mau mengunduhnya, dan *update* itu akan langsung diterapkan tanpa perlu *restart* game.
 
-# Philosophy
-UmaTL tries to maintain natural, accurate, and complete translations for even less common parts of the game. It is less concerned with long-term and historical community usage. While long-term stability is still an ideal goal, UmaTL will not shy away from changing existing or even established terms to improve its translations. This is also why UmaTL uses many of its own translations. Official terms might be picked up if they contribute to this philosophy.
-For game usage, UmaTL includes a modified version of the original font, with edits for English usage, formatting, and optimization of the limited space.
+# Filosofi Kami
+kami berusaha memberikan terjemahan yang natural, akurat, dan lengkap, bahkan untuk bagian-bagian game yang jarang diakses. Kami tidak terlalu memusingkan penggunaan istilah yang sudah lama atau historis di komunitas. Meskipun stabilitas jangka panjang tetap jadi tujuan ideal, kami tidak akan ragu mengubah istilah yang sudah ada atau bahkan yang sudah mapan demi meningkatkan kualitas terjemahan kami. Itu juga kenapa kami banyak menggunakan terjemahannya sendiri. Istilah resmi bisa saja kami pakai kalau memang mendukung filosofi ini.
+Untuk pengalaman bermain, kami menyertakan versi modifikasi dari font asli game, dengan beberapa penyesuaian untuk penggunaan bahasa indonesia, format, dan optimasi ruang yang terbatas.
 
-# Translation sources
-UmaTL does many of its own translations and is an original source. The remaining translations are sourced from various members & projects of the fan community.
-Check [in-depth credits on the wiki](../../wiki/Translation-Progress) and support the contributors if you can!
+# Sumber Terjemahan
+Kami banyak melakukan terjemahannya sendiri dan merupakan sumber orisinal. Sisa terjemahan lainnya berasal dari berbagai anggota & proyek komunitas fan.
+Cek [kredit lengkapnya di wiki](../../wiki/Translation-Progress) dan dukung para kontributornya kalau kamu bisa!
 
-UmaTL is the original full game translation project, lending its translations to many other projects over the years. 
-This includes Hachimi: its default translations are mostly imported from older UmaTL material. 
+UmaTL adalah proyek terjemahan game secara penuh yang pertama, dan terjemahannya sudah banyak dipinjam oleh proyek-proyek lain selama bertahun-tahun.
+Ini termasuk Hachimi: terjemahan bawaannya sebagian besar diimpor dari materi UmaTL yang lebih lama.
 
-# Contributing translations
-Use the [UmaTL] tools and contribute them there (I will take care of transferring them), or use [Carotene] or [ZokuZoku] and contribute the Hachimi format files here as a PR. Join our Discord or open an Issue for further discussion or help.
+# Berkontribusi Terjemahan
+Gunakan *tools* [IndoTL] dan kontribusikan terjemahan di sana (nanti saya yang akan mengurus pemindahannya), atau pakai [Carotene] atau [ZokuZoku] atau [UmaTL] dan kontribusikan berkas format Hachimi di sini sebagai PR (Pull Request). Bergabunglah ke Discord kami atau buka *Issue* untuk diskusi lebih lanjut atau bantuan.
 
+[IndoTL] : https://github.com/FahriAdison/hachimi-id
 [UmaTL]: https://github.com/noccu/umamusu-translate
 [Hachimi]: https://hachimi.leadrdrk.com/
 [ZokuZoku]: https://marketplace.visualstudio.com/items?itemName=LeadRDRK.zokuzoku
