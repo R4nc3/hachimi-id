@@ -1,7 +1,7 @@
 {
-  "base_url": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/localized_data",
-  "zip_url": "https://codeload.github.com/UmaTL/hachimi-tl-en/zip/refs/heads/release",
-  "zip_dir": "hachimi-tl-en-release/localized_data",
+  "base_url": "https://raw.githubusercontent.com/FahriAdison/hachimi-id/release/localized_data",
+  "zip_url": "https://codeload.github.com/FahriAdison/hachimi-id/zip/refs/heads/release",
+  "zip_dir": "hachimi-id-release/localized_data",
   "files": [
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
@@ -1850,73 +1850,73 @@
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001011.json",
-      "hash": "6444bc6658389c9f2ee017589178cea1dfa1e263a3215e7a2121a1f62483c44e",
-      "size": 7235
+      "hash": "49b385c1a7b4445f53bc4b8908a4f5445f76fc5716239fa414bd09a1000f65c2",
+      "size": 7471
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001021.json",
-      "hash": "05feb0afd185411917a410172efb28767d9b536fdef2fcaaaa88d7e8bfaa95f7",
-      "size": 8815
+      "hash": "1ee592b7e58e47d7dabdc12bf4a47f9171fad057d0aa03d405020a710512a942",
+      "size": 8974
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001031.json",
-      "hash": "9d4d4d4861662da388dc150d642dddfee8e66fe8db600b3204bc69a2fd3d2949",
-      "size": 8671
+      "hash": "661bfbf9dbac38ce6fe2cf45b8f5bbd5f565a2089e53f1d890b9fbb9fbcc378d",
+      "size": 8824
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001041.json",
-      "hash": "245cfae4312910dbdb2871423ce9b242045096cd17cb781b189feebfb8244ae0",
-      "size": 7044
+      "hash": "fd3f9b9cdfd715f603fa0b076a36ac0ce57e5aa78bdc191ef770fe76e44c6b22",
+      "size": 7056
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001051.json",
-      "hash": "2a10a25b4e76e197ed1a0e1561c72684c3ca42386c5646bf802f93c27959c3b9",
-      "size": 5182
+      "hash": "c3359fc67d9c67fc788f692b643ab475f59a24cfe6a6f62361ee8fde3967a8ce",
+      "size": 5250
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001053.json",
-      "hash": "b00e7f0374f052631e762b3916113db00361b4a1ad5f9a63628ba45d07dd0037",
-      "size": 2186
+      "hash": "079bb76c617e25b811517694b278d620db7e655c5fe845bf19a4f7d9cc1bd2b5",
+      "size": 2218
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001061.json",
-      "hash": "3ed20b88422d5f8108463961840d18069a548b8139d26296e50ea1a1e97684f6",
-      "size": 8534
+      "hash": "00a0d099f0d937158c8f691d70e824adeb7fb8f122c01d9e9ed42e38c4e29092",
+      "size": 8548
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001071.json",
-      "hash": "b55a8c387ceb7a3bb9d19b8f02920d8190aad7c7535a23429ac4634ba7c75183",
-      "size": 8461
+      "hash": "09dcb90825e8cf890fc8e35864c7c56c33f9980ddb2331fdf97efdbc602bd055",
+      "size": 8459
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001081.json",
-      "hash": "7aff92173958a46a8aeaced9eb0e3c0507b5f06f78c1ab570d796c1332625c0b",
-      "size": 7769
+      "hash": "d6bf5a9cac86cf669c58c44ad27c66672213c66709e2b7761fe6e417fc2b12a5",
+      "size": 7912
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001091.json",
-      "hash": "aba2b1f45353943a0f0da227cea79fb279ec3674ff760f4c4792076384d1445f",
-      "size": 9040
+      "hash": "07d20356ce77d60fe2e9776f8e8337d22fcddfcd89aeb761a33bd011cde6581e",
+      "size": 9161
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001101.json",
-      "hash": "2055e753ba09d3c57a7bf9af7af589491b04e3ccc00f6253ff29088541b9ef91",
-      "size": 9710
+      "hash": "ed68612f14e9a4cb68c097bc292fd5a0dc01d701c6ed7156de644ae57dfcce8c",
+      "size": 10132
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001111.json",
-      "hash": "7682cfe57257e7d37e21b32cbf0f92229fe9c9d3e145b90e897609830580556e",
-      "size": 9141
+      "hash": "507649ad5488d6e97589df9cf688c1a09da5558235e324073a22530e7b8e4a98",
+      "size": 9420
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001121.json",
-      "hash": "e013d5c831ebdd99c7aedb7e1ea3b6fd3045ad713b895c59c17fde53a0871fb0",
-      "size": 9629
+      "hash": "c1216b5f6037759d4b2925ca4cddd75c64340d41b6c1d01e2d8ca20d8a304404",
+      "size": 9774
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001131.json",
-      "hash": "56c6fed35b3f569a65c7f63324747997a5e555f9765c651e8301d674884d47d8",
-      "size": 7950
+      "hash": "ba6608b6dd19aed22da0624f9845f4663f228725f2a855af2dc07eb99abc64ab",
+      "size": 8084
     },
     {
       "path": "assets/story/data/02/0002/storytimeline_020002011.json",
