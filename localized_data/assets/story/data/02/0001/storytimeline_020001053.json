@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "McQueen, congratulations! \nThat race…! It was amazing!"
+            "text": "McQueen, selamat! Balapan itu…! Luar biasa!"
         },
         {
             "name": "Mejiro McQueen",
@@ -13,50 +13,50 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I did it!!"
+            "text": "Aku berhasil!!"
         },
         {
             "text": "Uwaah!?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I finally won the Tennō Shō!! Now I can show \nthis plaque to the Mejiro Family!!"
+            "text": "Aku akhirnya memenangkan Tennō Shō!! Sekarang aku bisa menunjukkan plakat ini kepada Keluarga Mejiro!!"
         },
         {
-            "text": "I was shocked by \nMejiro McQueen's display of joy."
+            "text": "Aku terkejut melihat luapan kebahagiaan Mejiro McQueen."
         },
         {
-            "text": "I guess it's because the immense amount of pressure that she had \non her to win has finally been lifted."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I'm sorry, I may have gotten a little carried away. \nBut I'm just so happy."
+            "text": "Kurasa itu karena tekanan besar yang dia rasakan untuk menang akhirnya terangkat."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "And the only reason I was able to achieve \nthis was because of you, Trainer-san."
+            "text": "Maaf, aku mungkin sedikit terbawa suasana. Tapi aku sangat bahagia."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "You devoted everything for me, \nand for that I am grateful."
+            "text": "Dan satu-satunya alasan aku bisa mencapai ini adalah karena kamu, Trainer-san."
         },
         {
-            "text": "I should be thanking you. Despite being inexperienced, you still \nfollowed my orders. And in the end, you gave me the best present \npossible, this amazing victory."
+            "name": "Mejiro McQueen",
+            "text": "Kamu mendedikasikan segalanya untukku, dan untuk itu aku berterima kasih."
         },
         {
-            "text": "…But if I were to say that, she'd get upset and say “please \nhave a bit more confidence in yourself.”",
-            "choice_data_list": [
-                "Our reborn Sirius will continue to win!",
-                "Our reborn Sirius will continue to win!"
+            "text": "Seharusnya aku yang berterima kasih padamu. Meskipun belum berpengalaman, kamu tetap mengikuti perintahku. Dan pada akhirnya, kamu memberiku hadiah terbaik, kemenangan luar biasa ini."
+        },
+        {
+            "text": "…Tapi jika aku mengatakan itu, dia akan kesal dan berkata “tolong lebih percaya diri.”"
+            ,"choice_data_list": [
+                "Sirius yang terlahir kembali akan terus menang!",
+                "Sirius yang terlahir kembali akan terus menang!"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Hehe, we'll have many more \nvictories from now on, I'm sure of it!"
+            "text": "Hehe, kita akan meraih lebih banyak kemenangan mulai sekarang, aku yakin itu!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Well, it's almost time for the Winning Live. I need to show my \nappreciation to everyone that came out to support me!"
+            "text": "Baiklah, sudah hampir waktunya untuk Winning Live. Aku harus menunjukkan apresiasiku kepada semua orang yang datang mendukungku!"
         }
     ]
 }

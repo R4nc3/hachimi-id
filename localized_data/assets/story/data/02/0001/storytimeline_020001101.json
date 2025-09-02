@@ -3,199 +3,199 @@
     "text_block_list": [
         {
             "name": "Announcer",
-            "text": "The winner of the race, Mejiro McQueen, unfortunately blocked the \nUma Musume behind her from progressing through the course…"
+            "text": "Pemenang balapan, Mejiro McQueen, sayangnya menghalangi Uma Musume di belakangnya untuk maju melalui lintasan…"
         },
         {
             "name": "Announcer",
-            "text": "Therefore, we will be lowering her placement to 18th place."
+            "text": "Oleh karena itu, kami akan menurunkan posisinya ke peringkat 18."
         },
         {
-            "text": "On that day, Mejiro Mcqueen had an amazing start and rushed into \nthe inside of the track to ensure she'd be able to stay in a \ngood position moving forward in the race."
+            "text": "Pada hari itu, Mejiro McQueen memiliki awal yang luar biasa dan melaju ke bagian dalam lintasan untuk memastikan dia bisa tetap berada di posisi yang baik di balapan selanjutnya."
         },
         {
-            "text": "However, doing this left the Uma Musume behind her with nowhere \nto go, putting them at risk of toppling over."
+            "text": "Namun, melakukan ini membuat Uma Musume di belakangnya tidak punya jalan keluar, menempatkan mereka pada risiko terjatuh."
         },
         {
-            "text": "This devastating incident was the result of the Uma Musume that \nwas most favored to win, Mejiro McQueen. As such, her actions \nwere widely reported in the media."
+            "text": "Insiden yang menghancurkan ini adalah akibat dari Uma Musume yang paling diunggulkan untuk menang, Mejiro McQueen. Oleh karena itu, tindakannya banyak diberitakan di media."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "McQueen… Are you okay?"
+            "text": "McQueen… Kamu baik-baik saja?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Eh!? Oh, of course I am."
+            "text": "Eh!? Oh, tentu saja aku baik-baik saja."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "While it is true that I was unable to live up \nto my fan's expectations, and that I put the other \nUma Musume in that race in danger…"
+            "text": "Meskipun benar bahwa aku tidak dapat memenuhi harapan para penggemar, dan bahwa aku membahayakan Uma Musume lain di balapan itu…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "That is exactly why I mustn't feel dejected."
+            "text": "Justru karena itulah aku tidak boleh merasa sedih."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I will make up for my blunder during that race."
+            "text": "Aku akan menebus kesalahanku selama balapan itu."
         },
         {
             "name": "Mejiro Dober",
-            "text": "You're beating yourself up over this, aren't you? Please don't \nblame yourself more than necessary."
+            "text": "Kamu menyalahkan dirimu sendiri tentang ini, kan? Tolong jangan terlalu menyalahkan dirimu sendiri."
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
-            "text": "I agree! You're going to do great in the next race, I know it!"
+            "text": "Aku setuju! Kamu akan tampil hebat di balapan berikutnya, aku tahu itu!"
         },
         {
             "name": "Droopy-eyed Horsegirl",
-            "text": "You can do it, McQueen-san!",
-            "choice_data_list": [
-                "Let's use this as a learning experience."
+            "text": "Kamu bisa melakukannya, McQueen-san!"
+            ,"choice_data_list": [
+                "Mari kita jadikan ini sebagai pengalaman belajar."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Yes, of course I will."
+            "text": "Ya, tentu saja."
         },
         {
             "name": "Gold Ship",
-            "text": "Oye, I'm back!"
+            "text": "Oye, aku kembali!"
         },
         {
             "name": "Gold Ship",
-            "text": "There were some people out there with cameras and stuff. Don't \nworry though, I caused a scene by calling ‘em degenerates for ya!"
+            "text": "Ada beberapa orang di luar sana dengan kamera dan sebagainya. Jangan khawatir, aku membuat keributan dengan menyebut mereka orang bejat untukmu!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Those were reporters… weren't they?"
+            "text": "Itu reporter… kan?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "They must have been waiting outside to interview me."
+            "text": "Mereka pasti menunggu di luar untuk mewawancaraiku."
         },
         {
             "name": "Gold Ship",
-            "text": "Hmm? Isn't it better this way then? To come this far into campus \nwithout being a student, there's no doubt they were scoundrels."
+            "text": "Hmm? Bukankah lebih baik begini? Datang sejauh ini ke kampus tanpa menjadi mahasiswa, tidak diragukan lagi mereka adalah penjahat."
         },
         {
-            "text": "I'd imagine they'd leave soon enough, but maybe we should call \noff training for today since they're here…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I don't mind if they're here. In fact, if they have any questions \nI would be happy to answer them with sincerity."
+            "text": "Aku membayangkan mereka akan segera pergi, tapi mungkin kita harus membatalkan latihan hari ini karena mereka ada di sini…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Moreover, I need to make sure that I win my next race so that we \ncan have some favorable news coverage."
+            "text": "Aku tidak keberatan jika mereka ada di sini. Bahkan, jika mereka punya pertanyaan, aku akan senang menjawabnya dengan tulus."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Now then, I've gotten myself all excited for some \nexercise. I'm heading out, Trainer-san!"
-        },
-        {
-            "text": "Ah… okay…"
-        },
-        {
-            "text": "Ah… okay…"
+            "text": "Terlebih lagi, aku harus memastikan bahwa aku memenangkan balapan berikutnya agar kami bisa mendapatkan liputan berita yang menguntungkan."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "The dormitory is right there, you know? I won't \nget lost, so you don't need to walk me back…"
+            "text": "Nah, kalau begitu, aku sudah bersemangat untuk berolahraga. Aku pergi, Trainer-san!"
         },
         {
-            "text": "But I'm sure the reporters will by lying in wait for you."
+            "text": "Ah… oke…"
+        },
+        {
+            "text": "Ah… oke…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I told you that I didn't mind answering them though…"
+            "text": "Asrama ada di sana, tahu? Aku tidak akan tersesat, jadi kamu tidak perlu mengantarku pulang…"
+        },
+        {
+            "text": "Tapi aku yakin para reporter akan menunggumu."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku sudah bilang kalau aku tidak keberatan menjawab mereka, kok…"
         },
         {
             "name": "Reporter A",
-            "text": "Ah, McQueen-san! Do you have a comment regarding \nwhat happened durin the Spring Tenno Sho?"
+            "text": "Ah, McQueen-san! Apakah Anda punya komentar mengenai apa yang terjadi selama Spring Tenno Sho?"
         },
         {
             "name": "Reporter B",
-            "text": "Why did you run in such a dangerous manner!?"
+            "text": "Mengapa Anda berlari dengan cara yang berbahaya seperti itu!?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I apologize immensely for any inconvenience my actions may have \ncaused to the other individuals participating in that race."
+            "text": "Saya sangat meminta maaf atas ketidaknyamanan yang mungkin ditimbulkan oleh tindakan saya kepada individu lain yang berpartisipasi dalam balapan itu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I lacked experience, and as such was not conscious of those \naround me, which led to that incident occurring."
+            "text": "Saya kurang pengalaman, dan karena itu tidak menyadari orang-orang di sekitar saya, yang menyebabkan insiden itu terjadi."
         },
         {
             "name": "Reporter A",
-            "text": "What have you done to appease those that \nyou have hindered with your actions?"
+            "text": "Apa yang telah Anda lakukan untuk menenangkan mereka yang telah Anda rugikan dengan tindakan Anda?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I have apologized to each and every one of them."
+            "text": "Saya sudah meminta maaf kepada mereka masing-masing."
         },
         {
             "name": "Reporter B",
-            "text": "Is it true that your trainer instructed you to force \nyour way into the inside of the course?"
+            "text": "Benarkah pelatih Anda menginstruksikan Anda untuk memaksakan diri masuk ke bagian dalam lintasan?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Trainer-san instructed me to do that!? I \ncan assure you that is not the case!!"
+            "text": "Trainer-san menginstruksikan saya untuk melakukan itu!? Saya dapat meyakinkan Anda bahwa itu tidak benar!!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "My actions were purely based on my own judgement! Trainer-san has \nnothing to do with what happened!"
+            "text": "Tindakan saya murni berdasarkan penilaian saya sendiri! Trainer-san tidak ada hubungannya dengan apa yang terjadi!"
         },
         {
-            "text": "Until now, all of Mejiro McQueen's answers were filled with \ncomposure. However, that all changed in an instant."
+            "text": "Sampai sekarang, semua jawaban Mejiro McQueen dipenuhi dengan ketenangan. Namun, itu semua berubah dalam sekejap."
         },
         {
-            "text": "She said that she “would be happy to answer them with sincerity.” \nIf this is what she believes is the right thing to do then it \nisn't my place to interfere."
+            "text": "Dia bilang dia “akan senang menjawabnya dengan tulus.” Jika ini yang dia yakini sebagai hal yang benar untuk dilakukan maka bukan tempatku untuk ikut campur."
         },
         {
-            "text": "That being said, I can't just stand here quietly as she attempts \nto put all of the blame onto herself.",
-            "choice_data_list": [
-                "McQueen, let's go."
+            "text": "Meskipun begitu, aku tidak bisa hanya berdiri di sini diam-diam saat dia mencoba menimpakan semua kesalahan pada dirinya sendiri."
+            ,"choice_data_list": [
+                "McQueen, ayo pergi."
             ]
         },
         {
-            "text": "That being said, I can't just stand here quietly as she attempts \nto put all of the blame onto herself.",
-            "choice_data_list": [
-                "McQueen, let's go."
+            "text": "Meskipun begitu, aku tidak bisa hanya berdiri di sini diam-diam saat dia mencoba menimpakan semua kesalahan pada dirinya sendiri."
+            ,"choice_data_list": [
+                "McQueen, ayo pergi."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "But if we do that, they'll think that \nyou're to blame for what I did…!"
+            "text": "Tapi jika kita melakukan itu, mereka akan berpikir bahwa kamu yang harus disalahkan atas apa yang kulakukan…!"
         },
         {
-            "text": "Regardless of what I instructed her to do, the \nresponsibility lies with me since I am her trainer. \nFor that, I too apologize."
+            "text": "Terlepas dari apa yang kuperintahkan kepadanya, tanggung jawab ada padaku karena aku adalah pelatihnya. Untuk itu, aku juga meminta maaf."
         },
         {
             "name": "Mejiro McQueen",
             "text": "Trainer-san!!"
         },
         {
-            "text": "Now let's go, McQueen."
+            "text": "Ayo pergi sekarang, McQueen."
         },
         {
             "name": "Mejiro McQueen",
             "text": "…"
         },
         {
-            "text": "Don't worry about what happened, McQueen. You gave it your all in \nthat race, so there's no need to beat yourself up over it."
+            "text": "Jangan khawatir tentang apa yang terjadi, McQueen. Kamu sudah memberikan yang terbaik di balapan itu, jadi tidak perlu menyalahkan dirimu sendiri."
         },
         {
-            "text": "Don't worry about what happened, McQueen. You gave it your all in \nthat race, so there's no need to beat yourself up over it."
+            "text": "Jangan khawatir tentang apa yang terjadi, McQueen. Kamu sudah memberikan yang terbaik di balapan itu, jadi tidak perlu menyalahkan dirimu sendiri."
         },
         {
-            "text": "You don't plan on feeling dejected, right? Then let's \nconcentrate on the upcoming race instead."
+            "text": "Kamu tidak berencana untuk merasa sedih, kan? Kalau begitu mari kita fokus pada balapan berikutnya saja."
         },
         {
-            "text": "You don't plan on feeling dejected, right? Then let's \nconcentrate on the upcoming race instead."
+            "text": "Kamu tidak berencana untuk merasa sedih, kan? Kalau begitu mari kita fokus pada balapan berikutnya saja."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Understood…"
+            "text": "Dimengerti…"
         },
         {
             "name": "Mejiro McQueen",
@@ -203,43 +203,43 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I know that we had planned for the Arima Kinen to be my next \nrace, but I would like to race in the Japan Cup before that."
+            "text": "Aku tahu kita telah merencanakan Arima Kinen sebagai balapan berikutnya, tetapi aku ingin balapan di Japan Cup sebelum itu."
         },
         {
-            "text": "Are you sure? You're probably still \nfatigued from your previous race…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Don't worry about that. I'm already ready for another race."
+            "text": "Kamu yakin? Kamu mungkin masih kelelahan dari balapan sebelumnya…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "So please allow me to race in the Japan Cup."
+            "text": "Jangan khawatir tentang itu. Aku sudah siap untuk balapan lain."
         },
         {
-            "text": "Mejiro McQueen likely wanted to make up for her blunder at the \nSpring Tenno Sho as soon as possible by entering the Japan Cup."
+            "name": "Mejiro McQueen",
+            "text": "Jadi, izinkan aku untuk balapan di Japan Cup."
         },
         {
-            "text": "She would use this race as a way to atone for what she did to \nappease those who had put their faith in her, and to appease \nthose who she had inconvenienced.",
-            "choice_data_list": [
-                "Fine… You can race in the Japan Cup next.",
-                "Fine… You can race in the Japan Cup next."
+            "text": "Mejiro McQueen kemungkinan ingin menebus kesalahannya di Spring Tenno Sho secepat mungkin dengan mengikuti Japan Cup."
+        },
+        {
+            "text": "Dia akan menggunakan balapan ini sebagai cara untuk menebus apa yang dia lakukan untuk menenangkan mereka yang telah menaruh kepercayaan padanya, dan untuk menenangkan mereka yang telah dia rugikan."
+            ,"choice_data_list": [
+                "Baiklah… Kamu bisa balapan di Japan Cup berikutnya.",
+                "Baiklah… Kamu bisa balapan di Japan Cup berikutnya."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Thank you. I will… I will definitely win this race."
+            "text": "Terima kasih. Aku akan… Aku pasti akan memenangkan balapan ini."
         },
         {
             "text": "(Wooooooaaaaah!!)"
         },
         {
             "name": "Commentator",
-            "text": "McQueen is struggling to bridge the gap! In fact, the gap between \nher and first place is only widening!"
+            "text": "McQueen kesulitan mempersempit jarak! Bahkan, jarak antara dia dan posisi pertama hanya semakin lebar!"
         },
         {
             "name": "Commentator",
-            "text": "The favorite to win, Mejiro McQueen, has finished in 4th place!"
+            "text": "Unggulan untuk menang, Mejiro McQueen, finis di posisi ke-4!"
         }
     ]
 }

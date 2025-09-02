@@ -2,215 +2,215 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Since that day, McQueen and I \nhave spent our days training and recruiting."
+            "text": "Sejak hari itu, McQueen dan aku menghabiskan hari-hari kami untuk berlatih dan merekrut."
         },
         {
-            "text": "Since that day, McQueen and I \nhave spent our days training and recruiting."
+            "text": "Sejak hari itu, McQueen dan aku menghabiskan hari-hari kami untuk berlatih dan merekrut."
         },
         {
-            "text": "However, our recruiting efforts have not been successful. Mejiro \nMcQueen is still the only member of the team."
+            "text": "Namun, upaya perekrutan kami belum berhasil. Mejiro McQueen masih menjadi satu-satunya anggota tim."
         },
         {
-            "text": "Well, while our lack of members is a problem, \nthe more pressing issue is…"
+            "text": "Yah, meskipun kurangnya anggota adalah masalah, masalah yang lebih mendesak adalah…"
         },
         {
             "name": "Mejiro McQueen",
             "text": "Hah… Haaa… Ha…"
         },
         {
-            "text": "There was Mejiro McQueen, training alone, on \nan empty track, in the middle of the night."
+            "text": "Ada Mejiro McQueen, berlatih sendirian, di lintasan kosong, di tengah malam."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I need to become faster!"
+            "text": "Aku harus menjadi lebih cepat!"
         },
         {
-            "text": "As I thought, my training regimen is not enough for her. \nShe's been doing this every day since then."
+            "text": "Seperti yang kupikirkan, rejimen latihanku tidak cukup baginya. Dia melakukan ini setiap hari sejak saat itu."
         },
         {
-            "text": "As I thought, my training regimen is not enough for her. \nShe's been doing this every day since then."
+            "text": "Seperti yang kupikirkan, rejimen latihanku tidak cukup baginya. Dia melakukan ini setiap hari sejak saat itu."
         },
         {
-            "text": "I understand that you're trying to solidify your \nfoundation before the Spring Tennō Shō…"
+            "text": "Aku mengerti bahwa kamu mencoba memperkuat fondasimu sebelum Spring Tennō Shō…"
         },
         {
-            "text": "But if you try too hard, the risk of you getting hurt will only \nincrease… Should I tell her to stop being so selfish? Or should \nI change the training regimen to what she wants?"
+            "text": "Tapi jika kamu berusaha terlalu keras, risiko kamu cedera hanya akan meningkat… Haruskah aku menyuruhnya berhenti bersikap egois? Atau haruskah aku mengubah rejimen latihan sesuai keinginannya?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I absolutely must win the Spring Tennō Shō!"
+            "text": "Aku benar-benar harus memenangkan Spring Tennō Shō!"
         },
         {
-            "text": "What's the best way to achieve that? \nIf Sensei were here, he'd know what to do… \n…My worries were endless."
+            "text": "Apa cara terbaik untuk mencapai itu? Jika Sensei ada di sini, dia pasti tahu apa yang harus dilakukan… Kecemasanku tidak ada habisnya."
         },
         {
-            "text": "The following day, I went to my office to prepare for another \nday of training. However, as I entered I noticed Mejiro McQueen \nand an Uma Musume that I had never met before."
+            "text": "Keesokan harinya, aku pergi ke kantorku untuk bersiap-siap untuk latihan hari lain. Namun, saat aku masuk, aku melihat Mejiro McQueen dan seorang Uma Musume yang belum pernah kutemui sebelumnya."
         },
         {
             "name": "???",
-            "text": "Hello, Trainer-san! \nSorry to bother you!",
-            "choice_data_list": [
-                "Are you… here to join the team!?",
-                "Are you… here to join the team!?"
+            "text": "Halo, Trainer-san! Maaf mengganggumu!"
+            ,"choice_data_list": [
+                "Apakah kamu… di sini untuk bergabung dengan tim!?",
+                "Apakah kamu… di sini untuk bergabung dengan tim!?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Incorrect. Her name is Mejiro Ryan. She's a \npart of the Mejiro family, just like me."
+            "text": "Salah. Namanya Mejiro Ryan. Dia adalah bagian dari keluarga Mejiro, sama sepertiku."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "She mentioned she had something to talk to \nyou about, so I simply brought her here."
+            "text": "Dia bilang dia punya sesuatu untuk dibicarakan denganmu, jadi aku hanya membawanya ke sini."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Nice to meet you! I really wanted to talk \nto you, so I asked her to introduce me."
+            "text": "Senang bertemu denganmu! Aku sangat ingin berbicara denganmu, jadi aku memintanya untuk memperkenalkanku."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Well then, I'm going to go and \ntry to recruit some new members."
+            "text": "Kalau begitu, aku akan pergi dan mencoba merekrut anggota baru."
         },
         {
-            "text": "Hmm? McQueen, you're not \ngoing to stay here with us?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Well, you see, Ryan wanted to have a secret \nconversation between the two of you."
+            "text": "Hmm? McQueen, kamu tidak akan tinggal di sini bersama kami?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Nuisances should leave immediately, right? \nAnd I'm a nuisance, right?",
-            "choice_data_list": [
-                "Are you… upset…?"
+            "text": "Yah, begini, Ryan ingin berbicara secara rahasia antara kalian berdua."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Pengganggu harus segera pergi, kan? Dan aku pengganggu, kan?"
+            ,"choice_data_list": [
+                "Apakah kamu… kesal…?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No, I'm not mad. Whatever secrets you two \nmay have doesn't concern me, after all."
+            "text": "Tidak, aku tidak marah. Rahasia apa pun yang kalian berdua miliki tidak ada hubungannya denganku, lagipula."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "So, I hope you two enjoy yourselves!"
+            "text": "Jadi, kuharap kalian berdua bersenang-senang!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ahaha, she's so cute when she's jealous. Trust me, I'm not trying \nto steal your trainer away from you."
+            "text": "Ahaha, dia sangat imut saat cemburu. Percayalah, aku tidak mencoba merebut pelatihmu darimu."
         },
         {
-            "text": "So, what was it you needed to talk about?"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "It's about McQueen."
+            "text": "Jadi, apa yang ingin kamu bicarakan?"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "You've probably noticed already, \nbut she's pushing herself way too hard.",
-            "choice_data_list": [
-                "Like her independent training?"
+            "text": "Ini tentang McQueen."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Kamu mungkin sudah menyadarinya, tapi dia terlalu memaksakan diri."
+            ,"choice_data_list": [
+                "Seperti latihan mandirinya?"
             ]
         },
         {
             "name": "Mejiro Ryan",
-            "text": "You really did notice, huh? \nYou're just like McQueen said you'd be."
+            "text": "Kamu benar-benar menyadarinya, ya? Kamu persis seperti yang McQueen katakan."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "“She can be unreliable at times, but she is always sincere and \nthinking about what's best for us Uma Musume.”"
+            "text": "“Dia terkadang tidak bisa diandalkan, tapi dia selalu tulus dan memikirkan apa yang terbaik untuk kami para Uma Musume.”"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "McQueen is always talking \nabout you in a good light."
+            "text": "McQueen selalu membicarakanmu dengan baik."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "“And that's why, no matter what happens, I will be \nwith her until the end.” Those were her words."
+            "text": "“Dan itulah mengapa, apa pun yang terjadi, aku akan bersamanya sampai akhir.” Itulah kata-katanya."
         },
         {
-            "text": "She really said those things…? \nI thought she didn't trust me…"
+            "text": "Dia benar-benar mengatakan hal itu…? Kukira dia tidak mempercayaiku…"
         },
         {
-            "text": "She really said those things…? \nI thought she didn't trust me…"
+            "text": "Dia benar-benar mengatakan hal itu…? Kukira dia tidak mempercayaiku…"
         },
         {
-            "text": "I figured that was the case because, no matter how unsatisfied \nshe was with my training regimen, she wouldn't say anything. \nInstead, she would do her own independent training…"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "No way, she has absolute faith in you."
+            "text": "Kupikir begitu karena, betapapun tidak puasnya dia dengan rejimen latihanku, dia tidak akan mengatakan apa-apa. Sebaliknya, dia akan melakukan latihan mandirinya sendiri…"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "However, there is a reason she's been pushing herself \nso hard. It's because of the Tennō Shō."
+            "text": "Tidak mungkin, dia punya kepercayaan mutlak padamu."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "You see, us members of the Mejiro Family are expected to compete \nin certain races based on our aptitudes…"
+            "text": "Namun, ada alasan dia memaksakan diri begitu keras. Itu karena Tennō Shō."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "For example, I'm expected to win the Classic while she's expected \nto win the Tennō Shō due to her ability as a stayer."
+            "text": "Begini, kami anggota Keluarga Mejiro diharapkan untuk berkompetisi di balapan tertentu berdasarkan bakat kami…"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "And winning the Tennō Shō is a staple of the Mejiro Family, and a \nvery important race for our Grandmother and Grandfather…"
+            "text": "Misalnya, aku diharapkan memenangkan Classic sementara dia diharapkan memenangkan Tennō Shō karena kemampuannya sebagai stayer."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ever since she was a child, McQueen has been expected to win the \nTennō Shō, and for that reason she's been carrying the weight of \nthat responsibility alone for so long."
-        },
-        {
-            "text": "So that's why she's been doing \nher independent training every night?"
-        },
-        {
-            "text": "So that's why she's been doing \nher independent training every night?"
+            "text": "Dan memenangkan Tennō Shō adalah tradisi Keluarga Mejiro, dan balapan yang sangat penting bagi Nenek dan Kakek kami…"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "She's probably anxious. Not only does she have the pressure of \nhaving to win the Tennō Shō, your team has also had its own \nproblems lately, right?"
+            "text": "Sejak kecil, McQueen sudah diharapkan untuk memenangkan Tennō Shō, dan karena alasan itu dia telah memikul beban tanggung jawab itu sendirian begitu lama."
+        },
+        {
+            "text": "Jadi itu sebabnya dia melakukan latihan mandirinya setiap malam?"
+        },
+        {
+            "text": "Jadi itu sebabnya dia melakukan latihan mandirinya setiap malam?"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "McQueen is a very serious person, so she \nprobably feels a responsibility to fix this. So…"
-        },
-        {
-            "text": "It seems like McQueen is just acting tough, while deep down she's \nincredibly anxious. She probably uses her independent training \nas a means to distract her from that anxiety."
+            "text": "Dia mungkin cemas. Dia tidak hanya memiliki tekanan harus memenangkan Tennō Shō, timmu juga mengalami masalah akhir-akhir ini, kan?"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "So I need you to stop her \nbefore she pushes herself too hard."
+            "text": "McQueen adalah orang yang sangat serius, jadi dia mungkin merasa bertanggung jawab untuk memperbaiki ini. Jadi…"
+        },
+        {
+            "text": "Sepertinya McQueen hanya berpura-pura tangguh, padahal jauh di lubuk hatinya dia sangat cemas. Dia mungkin menggunakan latihan mandirinya sebagai cara untuk mengalihkan perhatiannya dari kecemasan itu."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "I think that if you talk to her \nabout this she'll be sure to listen.",
-            "choice_data_list": [
-                "Ah, I see",
-                "Ah, I see"
+            "text": "Jadi aku butuh kamu untuk menghentikannya sebelum dia terlalu memaksakan diri."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Aku pikir jika kamu berbicara dengannya tentang ini dia pasti akan mendengarkan."
+            ,"choice_data_list": [
+                "Ah, begitu",
+                "Ah, begitu"
             ]
         },
         {
-            "text": "Damn it, what have I been doing?"
+            "text": "Sialan, apa yang sudah kulakukan?"
         },
         {
-            "text": "Damn it, what have I been doing?"
+            "text": "Sialan, apa yang sudah kulakukan?"
         },
         {
-            "text": "I was so focused on what was going on around me, I failed to see \nwhat was happening to Mejiro McQueen right in front of me."
+            "text": "Aku begitu fokus pada apa yang terjadi di sekitarku, aku gagal melihat apa yang terjadi pada Mejiro McQueen tepat di depanku."
         },
         {
-            "text": "…Thank you, Ryan. \nYou've taught me some very important things."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Ehehe, you're welcome!"
+            "text": "…Terima kasih, Ryan. Kamu telah mengajariku beberapa hal yang sangat penting."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "After all, she's like a little sister to me. \nAnd a treasured rival."
+            "text": "Ehehe, sama-sama!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "So I leave the rest to you!"
+            "text": "Lagipula, dia seperti adik perempuan bagiku. Dan saingan yang berharga."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Jadi sisanya kuserahkan padamu!"
         }
     ]
 }

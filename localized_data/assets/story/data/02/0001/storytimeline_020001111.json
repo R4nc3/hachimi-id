@@ -3,230 +3,230 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "I'm so sorry everyone. I've shown you all something so shameful…"
+            "text": "Maafkan aku semuanya. Aku sudah menunjukkan sesuatu yang begitu memalukan…"
         },
         {
             "name": "Gold Ship",
-            "text": "Oye, oye, why're you apologizing? You didn't \ncause any issues for us, ya know?"
+            "text": "Oye, oye, kenapa kamu minta maaf? Kamu tidak menimbulkan masalah bagi kami, tahu?"
         },
         {
             "name": "Gold Ship",
-            "text": "Plus the Japan Cup has some pretty amazing racers from around the \nglobe in it. Coming in 4th ain't that bad."
+            "text": "Lagipula Japan Cup punya pembalap-pembalap yang cukup luar biasa dari seluruh dunia. Finis di posisi ke-4 tidak terlalu buruk."
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
-            "text": "Y-Yeah! The way you ran today was just as \nmesmerizing as usual, McQueen-san!"
+            "text": "Y-Ya! Caramu berlari hari ini sama memukau seperti biasanya, McQueen-san!"
         },
         {
             "name": "Gold Ship",
-            "text": "Anyways, now that the race is over why don't \nwe have Trainer treat us to something yummy? \nThat won't be a problem, will it Trainer?"
+            "text": "Ngomong-ngomong, sekarang setelah balapan selesai kenapa kita tidak minta Pelatih mentraktir kita sesuatu yang enak? Itu tidak masalah, kan Pelatih?"
         },
         {
-            "text": "N-Nope! Not a problem at all! McQueen, feel free to eat as much \nas you want now that the Japan Cup is over!"
+            "text": "T-Tidak! Sama sekali tidak masalah! McQueen, silakan makan sebanyak yang kamu mau sekarang setelah Japan Cup selesai!"
         },
         {
-            "text": "N-Nope! Not a problem at all! McQueen, feel free to eat as much \nas you want now that the Japan Cup is over!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I'm… going to have to refuse."
+            "text": "T-Tidak! Sama sekali tidak masalah! McQueen, silakan makan sebanyak yang kamu mau sekarang setelah Japan Cup selesai!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I have to prepare for the Arima Kinen and I just \nfinished that race, so I'm not hungry."
+            "text": "Aku… harus menolak."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ah, I have to call Grandmother as well. \nI'll be taking my leave then."
+            "text": "Aku harus mempersiapkan Arima Kinen dan aku baru saja menyelesaikan balapan itu, jadi aku tidak lapar."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Everyone, I'm… I'm so sorry for today…",
-            "choice_data_list": [
+            "text": "Ah, aku juga harus menelepon Nenek. Aku akan pergi kalau begitu."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Semuanya, aku… aku sangat menyesal untuk hari ini…"
+            ,"choice_data_list": [
                 "Ah, McQueen!"
             ]
         },
         {
             "name": "Gold Ship",
-            "text": "That felt real forced… Anyways, you're \nreal bad at acting, ya know?"
+            "text": "Itu terasa sangat dipaksakan… Ngomong-ngomong, kamu sangat buruk dalam berakting, tahu?"
         },
         {
-            "text": "I'm sorry. I tried my best, but…"
+            "text": "Maafkan aku. Aku sudah mencoba yang terbaik, tapi…"
         },
         {
-            "text": "I'm sorry. I tried my best, but…"
+            "text": "Maafkan aku. Aku sudah mencoba yang terbaik, tapi…"
         },
         {
-            "text": "I was upset with myself for being unsure whether or not I should \ncall out to her or just leave her alone for a while."
+            "text": "Aku kesal pada diriku sendiri karena tidak yakin apakah aku harus memanggilnya atau membiarkannya sendirian untuk sementara waktu."
         },
         {
             "name": "Oguri Cap",
-            "text": "I apologize for the intrusion."
+            "text": "Maaf mengganggu."
         },
         {
             "name": "Gold Ship",
-            "text": "Ohh! If it isn't Oguri! Did you come to cheer on McQueen!?"
+            "text": "Ohh! Kalau bukan Oguri! Apa kamu datang untuk menyemangati McQueen!?"
         },
         {
             "name": "Oguri Cap",
-            "text": "I came to see how the members of my former team were doing."
+            "text": "Aku datang untuk melihat kabar anggota tim lamaku."
         },
         {
             "name": "Oguri Cap",
-            "text": "But it doesn't seem like the star of the show is here.",
-            "choice_data_list": [
-                "Um, well…"
+            "text": "Tapi sepertinya bintang acaranya tidak ada di sini."
+            ,"choice_data_list": [
+                "Um, begini…"
             ]
         },
         {
             "name": "Oguri Cap",
-            "text": "Hmm… it seems like something happened. So what is it?"
+            "text": "Hmm… sepertinya ada sesuatu yang terjadi. Jadi, apa itu?"
         },
         {
-            "text": "I decided to tell Oguri Cap everything that had happened."
+            "text": "Aku memutuskan untuk menceritakan semua yang terjadi kepada Oguri Cap."
         },
         {
-            "text": "I decided to tell Oguri Cap everything that had happened."
+            "text": "Aku memutuskan untuk menceritakan semua yang terjadi kepada Oguri Cap."
         },
         {
-            "text": "It began with the danger of our team being dissolved, and how we \novercame that, which also brought in more members."
+            "text": "Dimulai dengan bahaya pembubaran tim kami, dan bagaimana kami mengatasinya, yang juga membawa lebih banyak anggota."
         },
         {
-            "text": "Due to the lowering of her placement in the much anticipated \nSpring Tenno Sho, she thought that this race was her chance to \nredeem herself. However, she ended up finishing in 4th place."
+            "text": "Karena penurunannya di Spring Tenno Sho yang sangat dinantikan, dia berpikir bahwa balapan ini adalah kesempatannya untuk menebus diri. Namun, dia akhirnya finis di posisi ke-4."
         },
         {
-            "text": "Currently, Mejiro McQueen is like a machine \nwith cogs that don't work together."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "I see… I think I understand how McQueen is feeling."
+            "text": "Saat ini, Mejiro McQueen seperti mesin dengan roda gigi yang tidak bekerja sama."
         },
         {
             "name": "Oguri Cap",
-            "text": "She is probably thinking that she has to live up \nto all of the expectations placed on her."
-        },
-        {
-            "text": "Live up to all of the expectations…?"
+            "text": "Begitu… Kurasa aku mengerti bagaimana perasaan McQueen."
         },
         {
             "name": "Oguri Cap",
-            "text": "I have been there myself."
+            "text": "Dia mungkin berpikir bahwa dia harus memenuhi semua harapan yang diletakkan padanya."
+        },
+        {
+            "text": "Memenuhi semua harapan…?"
         },
         {
             "name": "Oguri Cap",
-            "text": "Having good results in your races breeds high expectations. \nInevitably, you end up being tied down by said expectations…"
+            "text": "Aku pernah mengalaminya sendiri."
         },
         {
             "name": "Oguri Cap",
-            "text": "And as these expectations grow they start feeling \nlike obstacles to forward progress."
-        },
-        {
-            "text": "These expectations begin feeling like obstacles…"
-        },
-        {
-            "text": "The only reason that this team is here today \nis thanks to Mejiro McQueen's efforts."
-        },
-        {
-            "text": "Every member of our team joined because of Mejiro McQueen's \nsuccesses, and the only reason that they continue to run is \nbecause of their admiration for her."
-        },
-        {
-            "text": "And it isn't only the team members. I too was delighted by Mejiro \nMcQueen's performance in her races, and because of that I've \nalways had high expectations of her."
-        },
-        {
-            "text": "And it isn't only the team members. I too was delighted by Mejiro \nMcQueen's performance in her races, and because of that I've \nalways had high expectations of her."
-        },
-        {
-            "text": "Mejiro McQueen understood all of this, and as such struggled to \nlive up to these expectations, alone."
+            "text": "Memiliki hasil bagus dalam balapanmu akan menimbulkan harapan tinggi. Tak pelak, kamu akhirnya terikat oleh harapan tersebut…"
         },
         {
             "name": "Oguri Cap",
-            "text": "During times like this it's your job as a trainer to turn these \nexpectations into strength, not into obstacles."
+            "text": "Dan seiring bertambahnya harapan ini, mereka mulai terasa seperti hambatan untuk maju."
         },
         {
-            "text": "Turn these expectations into strength…"
+            "text": "Harapan-harapan ini mulai terasa seperti hambatan…"
         },
         {
-            "text": "Oguri… How did you turn expectations into \nstrength? What did Sensei do to help?"
+            "text": "Satu-satunya alasan tim ini ada hari ini adalah berkat upaya Mejiro McQueen."
         },
         {
-            "text": "Oguri… How did you turn expectations into \nstrength? What did Sensei do to help?"
+            "text": "Setiap anggota tim kami bergabung karena keberhasilan Mejiro McQueen, dan satu-satunya alasan mereka terus berlari adalah karena kekaguman mereka padanya."
+        },
+        {
+            "text": "Dan itu bukan hanya anggota tim. Aku pun senang dengan penampilan Mejiro McQueen di balapannya, dan karena itu aku selalu memiliki harapan tinggi padanya."
+        },
+        {
+            "text": "Dan itu bukan hanya anggota tim. Aku pun senang dengan penampilan Mejiro McQueen di balapannya, dan karena itu aku selalu memiliki harapan tinggi padanya."
+        },
+        {
+            "text": "Mejiro McQueen memahami semua ini, dan karena itu berjuang untuk memenuhi harapan-harapan ini, sendirian."
         },
         {
             "name": "Oguri Cap",
-            "text": "Hmm, while I wouldn't mind telling you…"
+            "text": "Pada saat-saat seperti ini, tugasmu sebagai pelatih adalah mengubah harapan-harapan ini menjadi kekuatan, bukan menjadi hambatan."
+        },
+        {
+            "text": "Mengubah harapan-harapan ini menjadi kekuatan…"
+        },
+        {
+            "text": "Oguri… Bagaimana kamu mengubah harapan menjadi kekuatan? Apa yang Sensei lakukan untuk membantu?"
+        },
+        {
+            "text": "Oguri… Bagaimana kamu mengubah harapan menjadi kekuatan? Apa yang Sensei lakukan untuk membantu?"
         },
         {
             "name": "Oguri Cap",
-            "text": "You and McQueen have a relationship that is unique to you two."
+            "text": "Hmm, meskipun aku tidak keberatan memberitahumu…"
         },
         {
             "name": "Oguri Cap",
-            "text": "Doing it the same way we did would have no meaning \nto it… or at least that's what I think…"
+            "text": "Kamu dan McQueen memiliki hubungan yang unik untuk kalian berdua."
         },
         {
-            "text": "A relationship… that is unique to us…"
+            "name": "Oguri Cap",
+            "text": "Melakukannya dengan cara yang sama seperti kami tidak akan ada artinya… atau setidaknya begitulah menurutku…"
         },
         {
-            "text": "A relationship… that is unique to us…"
+            "text": "Sebuah hubungan… yang unik bagi kami…"
         },
         {
-            "text": "While I lack the experience and skill that Sensei had, Mejiro \nMcQueen has always respected me as her trainer. "
+            "text": "Sebuah hubungan… yang unik bagi kami…"
         },
         {
-            "text": "While I lack the experience and skill that Sensei had, Mejiro \nMcQueen has always respected me as her trainer. "
+            "text": "Meskipun aku kurang pengalaman dan keterampilan yang dimiliki Sensei, Mejiro McQueen selalu menghormatiku sebagai pelatihnya."
         },
         {
-            "text": "Why does Mejiro McQueen have so much faith \nin me? And what can I do for her…?"
+            "text": "Meskipun aku kurang pengalaman dan keterampilan yang dimiliki Sensei, Mejiro McQueen selalu menghormatiku sebagai pelatihnya."
         },
         {
-            "text": "Why does Mejiro McQueen have so much faith \nin me? And what can I do for her…?"
+            "text": "Mengapa Mejiro McQueen begitu percaya padaku? Dan apa yang bisa kulakukan untuknya…?"
+        },
+        {
+            "text": "Mengapa Mejiro McQueen begitu percaya padaku? Dan apa yang bisa kulakukan untuknya…?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Hehe, that immediate reply… You really haven't \nchanged since your days as a sub-trainer."
+            "text": "Hehe, jawaban spontan itu… Kamu benar-benar tidak berubah sejak kamu masih menjadi asisten pelatih."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "You've always put us before yourself."
+            "text": "Kamu selalu mendahulukan kami daripada dirimu sendiri."
         },
         {
-            "text": "I see. That's all I can do. Staying by her side, believing in \nher, and supporting her no matter what happens is all I can do!",
-            "choice_data_list": [
-                "I'm going to go look for McQueen!"
+            "text": "Begitu. Hanya itu yang bisa kulakukan. Tetap di sisinya, memercayainya, dan mendukungnya apa pun yang terjadi adalah semua yang bisa kulakukan!"
+            ,"choice_data_list": [
+                "Aku akan mencari McQueen!"
             ]
         },
         {
-            "text": "I see. That's all I can do. Staying by her side, believing in \nher, and supporting her no matter what happens is all I can do!",
-            "choice_data_list": [
-                "I'm going to go look for McQueen!",
-                "I'm off to find McQueen!"
+            "text": "Begitu. Hanya itu yang bisa kulakukan. Tetap di sisinya, memercayainya, dan mendukungnya apa pun yang terjadi adalah semua yang bisa kulakukan!"
+            ,"choice_data_list": [
+                "Aku akan mencari McQueen!",
+                "Aku pergi mencari McQueen!"
             ]
         },
         {
             "name": "Gold Ship",
-            "text": "Hmm… Guess I'll take a look around the shopping district, the \nroad to campus, and in front of the train station."
+            "text": "Hmm… Kurasa aku akan melihat-lihat area perbelanjaan, jalan menuju kampus, dan di depan stasiun kereta."
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
-            "text": "I'll go check if McQueen-san is somewhere on campus!"
+            "text": "Aku akan memeriksa apakah McQueen-san ada di suatu tempat di kampus!"
         },
         {
             "name": "Droopy-eyed Horsegirl",
-            "text": "I'll go and check around the race course!"
+            "text": "Aku akan pergi dan memeriksa sekitar lapangan balap!"
         },
         {
             "name": "Horsegirl with Black Bob-cut",
-            "text": "Then I'll go and check around the shrine.",
-            "choice_data_list": [
-                "Everyone… Alright, let's go!",
-                "You girls… Alright, let's go!"
+            "text": "Kalau begitu aku akan pergi dan memeriksa sekitar kuil."
+            ,"choice_data_list": [
+                "Semuanya… Baiklah, ayo pergi!",
+                "Kalian… Baiklah, ayo pergi!"
             ]
         },
         {
-            "text": "This time, our team's ace will rely on us!"
+            "text": "Kali ini, ace tim kami akan mengandalkan kami!"
         },
         {
-            "text": "This time, our team's ace will rely on us!"
+            "text": "Kali ini, ace tim kami akan mengandalkan kami!"
         }
     ]
 }

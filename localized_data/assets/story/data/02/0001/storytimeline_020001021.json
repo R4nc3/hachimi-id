@@ -2,213 +2,213 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The morning after the emotional Arima Kinen, \nTeam Sirius embarks on a new chapter…"
+            "text": "Pagi setelah Arima Kinen yang penuh emosi, Tim Sirius memulai babak baru…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "What do you mean the team is going to be disbanded!?"
+            "text": "Apa maksudmu tim akan dibubarkan!?"
         },
         {
-            "text": "It started with a scream from Mejiro McQueen."
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "The truth of the matter is, all of the other members have \ntransferred to different teams. McQueen-san, you're the only \none left on this team."
+            "text": "Dimulai dengan teriakan dari Mejiro McQueen."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "This team unfortunately doesn't have the minimum \nrequired number of members anymore."
+            "text": "Sejujurnya, semua anggota lain telah pindah ke tim yang berbeda. McQueen-san, kamu satu-satunya yang tersisa di tim ini."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "So unless more members join, \nthis team will have to be disbanded."
+            "text": "Tim ini sayangnya tidak lagi memiliki jumlah anggota minimum yang diperlukan."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Jadi, kecuali ada anggota baru yang bergabung, tim ini harus dibubarkan."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I can't believe that, in one night, our team became a shell of \nits former self! You are all so heartless!",
-            "choice_data_list": [
-                "Hey, first let's try to calm down",
-                "Hey, first let's try to calm down"
+            "text": "Aku tidak percaya, dalam satu malam, tim kita menjadi kosong! Kalian semua tidak punya hati!"
+            ,"choice_data_list": [
+                "Hei, pertama mari kita coba tenang",
+                "Hei, pertama mari kita coba tenang"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "How can you be so calm?"
+            "text": "Bagaimana kamu bisa begitu tenang?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Despite the fact that the team \nyou inherited may be disbanded!"
+            "text": "Meskipun tim yang kamu warisi ini mungkin akan dibubarkan!"
         },
         {
-            "text": "Tazuna-san, will our team be disbanded immediately?"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "No, since this is the first time something like this has \nhappened, we wouldn't suddenly force you to disband…"
+            "text": "Tazuna-san, apakah tim kami akan langsung dibubarkan?"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "That being said, this is only a temporary postponement. I don't \nknow how much time you have, but I'll be speaking with the \nschool's management about it.",
-            "choice_data_list": [
-                "So, regardless, we need to hurry, huh?"
+            "text": "Tidak, karena ini pertama kalinya hal seperti ini terjadi, kami tidak akan tiba-tiba memaksamu untuk membubarkan tim…"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Meskipun begitu, ini hanya penundaan sementara. Aku tidak tahu berapa banyak waktu yang kamu miliki, tapi aku akan berbicara dengan manajemen sekolah tentang hal itu."
+            ,"choice_data_list": [
+                "Jadi, bagaimanapun juga, kita harus cepat, ya?"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "That's correct. I know it must be hard to be put in this kind of \nsituation immediately after inheriting the team…"
+            "text": "Benar. Aku tahu pasti sulit berada dalam situasi seperti ini segera setelah mewarisi tim…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Hmph! You'll see! I'll find more \nteam members in no time!"
+            "text": "Hmph! Kamu akan lihat! Aku akan menemukan lebih banyak anggota tim dalam waktu singkat!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I'm an Uma Musume of the Mejiro family. Taking care of something \nlike this will be a piece of cake!"
+            "text": "Aku adalah Uma Musume dari Keluarga Mejiro. Mengurus hal seperti ini akan semudah membalik telapak tangan!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "We're currently recruiting new members! \nLet's work hard together!"
+            "text": "Kami sedang merekrut anggota baru! Mari kita bekerja keras bersama!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Even those that have yet to win races are welcome! \nOur team is like a second family!"
+            "text": "Bahkan mereka yang belum memenangkan balapan pun diterima! Tim kami seperti keluarga kedua!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Freshly harvested carrots at a bargain price! \nThey're quite cheap!"
+            "text": "Wortel segar dengan harga murah! Mereka cukup murah!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "And if you act now, you can become \na member of Team Sirius as a bonus! \nHey, you over there! Are you interested!?"
+            "text": "Dan jika kamu bergabung sekarang, kamu bisa menjadi anggota Tim Sirius sebagai bonus! Hei, kamu di sana! Apa kamu tertarik!?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Why is it that, despite someone such as I doing the recruiting, \nnot a single person has shown any interest!?"
+            "text": "Kenapa, meskipun seseorang sepertiku yang melakukan perekrutan, tidak ada satu pun orang yang menunjukkan minat!?"
         },
         {
-            "text": "To be fair, I don't think people would want to join a team with \nan inexperienced trainer. Especially when almost all of that \nteam's members left at once."
+            "text": "Sejujurnya, kurasa orang-orang tidak akan mau bergabung dengan tim yang pelatihnya belum berpengalaman. Apalagi ketika hampir semua anggota tim itu pergi sekaligus."
         },
         {
-            "text": "To be fair, I don't think people would want to join a team with \nan inexperienced trainer. Especially when almost all of that \nteam's members left at once."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Why are you standing there and analyzing this \nso calmly!? Have a sense of urgency!"
-        },
-        {
-            "text": "Trust me, I'm worried too."
-        },
-        {
-            "text": "Trust me, I'm worried too."
-        },
-        {
-            "text": "He believed in me and entrusted this team \nto me. I can't betray his expectations."
-        },
-        {
-            "text": "He believed in me and entrusted this team \nto me. I can't betray his expectations."
-        },
-        {
-            "text": "That being said, if we continue to recruit while Team \nSirius is in such a sorry state, I don't think we'll \nbe able to get any new members to join."
-        },
-        {
-            "text": "We have to think of a new strategy that'll \nentice Uma Musume to join our team…"
-        },
-        {
-            "text": "Well anyways, I think we should call \nit a day here and begin our training."
-        },
-        {
-            "text": "Well anyways, I think we should call \nit a day here and begin our training."
+            "text": "Sejujurnya, kurasa orang-orang tidak akan mau bergabung dengan tim yang pelatihnya belum berpengalaman. Apalagi ketika hampir semua anggota tim itu pergi sekaligus."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "…You're right."
+            "text": "Kenapa kamu berdiri di sana dan menganalisis ini dengan begitu tenang!? Punya sedikit urgensi!"
+        },
+        {
+            "text": "Percayalah padaku, aku juga khawatir."
+        },
+        {
+            "text": "Percayalah padaku, aku juga khawatir."
+        },
+        {
+            "text": "Dia percaya padaku dan mempercayakan tim ini padaku. Aku tidak bisa mengkhianati harapannya."
+        },
+        {
+            "text": "Dia percaya padaku dan mempercayakan tim ini padaku. Aku tidak bisa mengkhianati harapannya."
+        },
+        {
+            "text": "Meskipun begitu, jika kita terus merekrut saat Tim Sirius dalam keadaan menyedihkan seperti ini, kurasa kita tidak akan bisa mendapatkan anggota baru untuk bergabung."
+        },
+        {
+            "text": "Kita harus memikirkan strategi baru yang akan menarik Uma Musume untuk bergabung dengan tim kita…"
+        },
+        {
+            "text": "Baiklah, kurasa kita harus mengakhiri hari ini di sini dan memulai latihan kita."
+        },
+        {
+            "text": "Baiklah, kurasa kita harus mengakhiri hari ini di sini dan memulai latihan kita."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I've been prioritizing the wrong things by focusing \non recruitment. I'll go get ready!"
+            "text": "…Kamu benar."
         },
         {
-            "text": "Our next race is happening at the end of April. It will be the \nSpring Tennō Shō, a 3200 meter long distance race."
+            "name": "Mejiro McQueen",
+            "text": "Aku telah memprioritaskan hal yang salah dengan fokus pada perekrutan. Aku akan bersiap-siap!"
         },
         {
-            "text": "Our next race is happening at the end of April. It will be the \nSpring Tennō Shō, a 3200 meter long distance race."
+            "text": "Balapan kita berikutnya akan berlangsung pada akhir April. Itu akan menjadi Spring Tennō Shō, balapan jarak jauh sepanjang 3200 meter."
         },
         {
-            "text": "Since this race will be an incredible test of endurance, I \nrecommended that she work on her form."
+            "text": "Balapan kita berikutnya akan berlangsung pada akhir April. Itu akan menjadi Spring Tennō Shō, balapan jarak jauh sepanjang 3200 meter."
         },
         {
-            "text": "Since this race will be an incredible test of endurance, I \nrecommended that she work on her form."
+            "text": "Karena balapan ini akan menjadi ujian ketahanan yang luar biasa, aku merekomendasikan agar dia melatih bentuk lariannya."
+        },
+        {
+            "text": "Karena balapan ini akan menjadi ujian ketahanan yang luar biasa, aku merekomendasikan agar dia melatih bentuk lariannya."
         },
         {
             "name": "Mejiro McQueen",
             "text": "Hah… Ha… Ueh…"
         },
         {
-            "text": "At the end of the corner, make sure to be conscious of which foot \nyou're kicking off with. You should be kicking off harder with \nyour left foot, rather than your right."
+            "text": "Di akhir tikungan, pastikan kamu sadar kaki mana yang kamu gunakan untuk mendorong. Kamu seharusnya mendorong lebih keras dengan kaki kirimu, daripada kananmu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Okay, understood."
+            "text": "Oke, mengerti."
         },
         {
-            "text": "Okay, do 3 more laps around the track, \nthen we can call it a day."
+            "text": "Oke, lakukan 3 putaran lagi di lintasan, lalu kita bisa mengakhiri hari ini."
         },
         {
-            "text": "Okay, do 3 more laps around the track, \nthen we can call it a day."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…Only 3 more laps?"
-        },
-        {
-            "text": "You're still working on your form, so I'm worried that it might \nbe putting a heavy strain on your body and mind. We need to make \nsure you aren't pushing yourself too hard."
-        },
-        {
-            "text": "You're still working on your form, so I'm worried that it might \nbe putting a heavy strain on your body and mind. We need to make \nsure you aren't pushing yourself too hard."
+            "text": "Oke, lakukan 3 putaran lagi di lintasan, lalu kita bisa mengakhiri hari ini."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "…I see. I didn't think about that."
+            "text": "…Hanya 3 putaran lagi?"
         },
         {
-            "text": "If you're unsatisfied, please let me know. \nI wouldn't want to push anything onto you after all."
+            "text": "Kamu masih melatih bentuk larianmu, jadi aku khawatir itu bisa memberikan beban berat pada tubuh dan pikiranmu. Kita harus memastikan kamu tidak terlalu memaksakan diri."
         },
         {
-            "text": "If you're unsatisfied, please let me know. \nI wouldn't want to push anything onto you after all."
+            "text": "Kamu masih melatih bentuk larianmu, jadi aku khawatir itu bisa memberikan beban berat pada tubuh dan pikiranmu. Kita harus memastikan kamu tidak terlalu memaksakan diri."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No, what you said makes sense. \nSo I have no complaints."
+            "text": "…Begitu. Aku tidak memikirkan itu."
         },
         {
-            "text": "With that, she went back to the track."
+            "text": "Jika kamu tidak puas, tolong beritahu aku. Aku tidak ingin memaksakan apa pun padamu."
         },
         {
-            "text": "As I watched her, she seemed to be a \nlittle bit upset with only doing 3 laps."
+            "text": "Jika kamu tidak puas, tolong beritahu aku. Aku tidak ingin memaksakan apa pun padamu."
         },
         {
-            "text": "I guess she really wasn't convinced, huh?"
+            "name": "Mejiro McQueen",
+            "text": "Tidak, apa yang kamu katakan masuk akal. Jadi aku tidak ada keluhan."
         },
         {
-            "text": "When compared to Sensei's training, mine is probably \nlacking somewhere… Or maybe her and I have yet \nto build a trusting relationship…"
+            "text": "Dengan itu, dia kembali ke lintasan."
         },
         {
-            "text": "My ability to manage a team is still lacking, and it would be \ngreat if we could find more members.",
-            "choice_data_list": [
-                "But we'll definitely get through this!"
+            "text": "Saat aku mengawasinya, dia tampak sedikit kesal karena hanya melakukan 3 putaran."
+        },
+        {
+            "text": "Kurasa dia benar-benar tidak yakin, ya?"
+        },
+        {
+            "text": "Dibandingkan dengan latihan Sensei, latihan dariku mungkin kurang di suatu tempat… Atau mungkin dia dan aku belum membangun hubungan yang saling percaya…"
+        },
+        {
+            "text": "Kemampuanku mengelola tim masih kurang, dan akan sangat bagus jika kita bisa menemukan lebih banyak anggota."
+            ,"choice_data_list": [
+                "Tapi kita pasti akan melewati ini!"
             ]
         },
         {
-            "text": "My ability to manage a team is still lacking, and it would be \ngreat if we could find more members.",
-            "choice_data_list": [
-                "But we'll definitely get through this!"
+            "text": "Kemampuanku mengelola tim masih kurang, dan akan sangat bagus jika kita bisa menemukan lebih banyak anggota."
+            ,"choice_data_list": [
+                "Tapi kita pasti akan melewati ini!"
             ]
         },
         {
-            "text": "Thinking about this got me fired up."
+            "text": "Memikirkan ini membuatku bersemangat."
         },
         {
-            "text": "Thinking about this got me fired up."
+            "text": "Memikirkan ini membuatku bersemangat."
         }
     ]
 }

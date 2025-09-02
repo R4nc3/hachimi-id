@@ -3,223 +3,223 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "That's it over there. That island is \nhome to the Mejiro Family's villa."
+            "text": "Itu di sana. Pulau itu adalah rumah bagi vila Keluarga Mejiro."
         },
         {
             "name": "Gold Ship",
-            "text": "That island's full of villas! You know what that means, we can \ndig up some treasure under there!"
+            "text": "Pulau itu penuh vila! Kamu tahu artinya itu, kita bisa menggali harta karun di sana!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Please do not destroy the island!"
+            "text": "Tolong jangan hancurkan pulau itu!"
         },
         {
-            "text": "The members of Team Sirius decided to host a training \ncamp during their summer vacation."
+            "text": "Para anggota Tim Sirius memutuskan untuk mengadakan kamp pelatihan selama liburan musim panas mereka."
         },
         {
-            "text": "Since it was for the team, Mejiro McQueen allowed us to use the \nMejiro Family's villa. However…"
+            "text": "Karena ini untuk tim, Mejiro McQueen mengizinkan kami menggunakan vila Keluarga Mejiro. Namun…"
         },
         {
             "name": "Gold Ship",
-            "text": "Yahoo!! This island's entirely deserted! Now \nwe can have as much fun as we want!"
+            "text": "Yahoo!! Pulau ini benar-benar sepi! Sekarang kita bisa bersenang-senang sebanyak yang kita mau!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Jeez, we didn't come here to mess around you know."
+            "text": "Astaga, kita tidak datang ke sini untuk bermain-main, tahu."
         },
         {
-            "text": "I guess she can't help but get excited…",
-            "choice_data_list": [
-                "Since it's the first day, let's just take it easy.",
-                "Since it's the first day, let's just take it easy."
+            "text": "Kurasa dia tidak bisa menahan diri untuk tidak bersemangat…"
+            ,"choice_data_list": [
+                "Karena ini hari pertama, mari kita santai saja.",
+                "Karena ini hari pertama, mari kita santai saja."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Haa… Trainer-san, even you're saying things like that?"
+            "text": "Haa… Trainer-san, bahkan kamu mengatakan hal seperti itu?"
         },
         {
             "name": "Mejiro Dober",
-            "text": "Hey, is it really okay for us to have come along? \nWe aren't a part of your team after all…"
+            "text": "Hei, apa benar kita boleh ikut? Kita bukan bagian dari timmu, lagipula…"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "McQueen and Trainer-san invited us, so it won't be a problem!"
+            "text": "McQueen dan Trainer-san mengundang kami, jadi tidak masalah!"
         },
         {
-            "text": "I figured it would be more fun if more people tagged \nalong, so you're both more than welcome."
+            "text": "Aku pikir akan lebih menyenangkan jika lebih banyak orang ikut, jadi kalian berdua sangat diterima."
         },
         {
-            "text": "I figured it would be more fun if more people tagged \nalong, so you're both more than welcome."
+            "text": "Aku pikir akan lebih menyenangkan jika lebih banyak orang ikut, jadi kalian berdua sangat diterima."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Thank you very much!"
+            "text": "Terima kasih banyak!"
         },
         {
-            "text": "And thus began the start of Team Sirius' training camp, including \ntwo members of the Mejiro Family."
+            "text": "Dan dimulailah kamp pelatihan Tim Sirius, termasuk dua anggota Keluarga Mejiro."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Okay everyone, let's do one more lap!"
+            "text": "Oke semuanya, mari kita lakukan satu putaran lagi!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "McQueen, if you don't pick up the pace I'm going to overtake you!"
+            "text": "McQueen, kalau kamu tidak mempercepat langkah, aku akan menyusulmu!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Huh!? It's my job to lead the way though!"
+            "text": "Hah!? Tugasku untuk memimpin, lho!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Hey now, Dober, you need to pick up the pace too!"
+            "text": "Hei, Dober, kamu juga harus mempercepat langkah!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "B-But I can't really focus on running \nright now… everyone's staring…"
+            "text": "T-Tapi aku tidak bisa fokus berlari sekarang… semua orang menatap…"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Dober, there's nothing to worry about! \nYou're really cute after all!"
+            "text": "Dober, tidak ada yang perlu dikhawatirkan! Kamu sangat imut, lagipula!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "P-Please don't try and compliment me! I know \nbetter than anyone else that I'm not cute!"
+            "text": "T-Tolong jangan mencoba memujiku! Aku tahu lebih dari siapa pun bahwa aku tidak imut!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Gold Ship-san! What on Earth are you doing!?"
+            "text": "Gold Ship-san! Apa yang sedang kamu lakukan!?"
         },
         {
             "name": "Gold Ship",
-            "text": "When training at the beach you've gotta \ndress the part, doncha think?"
+            "text": "Saat berlatih di pantai, kamu harus berpakaian yang sesuai, tidakkah kamu pikir begitu?"
         },
         {
             "name": "Gold Ship",
-            "text": "We don't often get to train at the beach so this \nis the perfect time for some intense training!"
+            "text": "Kita tidak sering berlatih di pantai, jadi ini waktu yang tepat untuk latihan intensif!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "All I can see is that you're trying to do some intense playing!"
+            "text": "Yang kulihat hanyalah kamu mencoba bermain intensif!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "All right, it's time for me to accelerate!"
+            "text": "Baiklah, saatnya aku mempercepat!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "W-Wait up! You're running too fast!!"
+            "text": "T-Tunggu! Kamu berlari terlalu cepat!!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Haa… Haa… Haa…",
-            "choice_data_list": [
-                "Good work, everyone."
+            "text": "Haa… Haa… Haa…"
+            ,"choice_data_list": [
+                "Kerja bagus, semuanya."
             ]
         },
         {
             "name": "Mejiro Ryan",
-            "text": "I think we may have gone a bit too hard. \nIt is only the first day after all."
+            "text": "Kurasa kita mungkin terlalu memaksakan diri. Ini baru hari pertama, lagipula."
         },
         {
             "name": "Mejiro Dober",
-            "text": "That being said, McQueen is truly amazing, isn't she? She managed \nto keep up with your sudden spurt easily."
+            "text": "Meskipun begitu, McQueen benar-benar luar biasa, kan? Dia berhasil mengimbangi ledakan kecepatanmu dengan mudah."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I can't lose to Ryan again. She already beat \nme in the Takarazuka Kinen after all."
+            "text": "Aku tidak bisa kalah dari Ryan lagi. Dia sudah mengalahkanku di Takarazuka Kinen, lagipula."
         },
         {
-            "text": "For context, prior to this summer camp Mejiro McQueen came into \nthe Takarazuka Kinen, the race that closes off the first half of \nthe year, as the most likely to win."
+            "text": "Sebagai konteks, sebelum kamp musim panas ini Mejiro McQueen masuk ke Takarazuka Kinen, balapan yang menutup paruh pertama tahun ini, sebagai yang paling mungkin menang."
         },
         {
-            "text": "However, she was unable to fend off Mejiro \nRyan and ended up coming in second."
+            "text": "Namun, dia tidak mampu menahan Mejiro Ryan dan akhirnya finis di posisi kedua."
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
-            "text": "McQueen's running never ceases to amaze me! Whether \nit be during training or during races!"
+            "text": "Larian McQueen tidak pernah berhenti membuatku kagum! Baik saat latihan maupun saat balapan!"
         },
         {
             "name": "Droopy-eyed Horsegirl",
-            "text": "Well she is the reason we joined this team～"
+            "text": "Yah, dia adalah alasan kami bergabung dengan tim ini~"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ugh… How long is this going to last?"
+            "text": "Ugh… Sampai kapan ini akan berlangsung?"
         },
         {
             "name": "Mejiro Dober",
-            "text": "There's a reason that they love you so much. It's \nsomething you can be proud of, you know?"
+            "text": "Ada alasan kenapa mereka sangat menyukaimu. Itu adalah sesuatu yang bisa kamu banggakan, tahu?"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "That's right, you're truly incredible. It makes \nme so happy when people praise you."
+            "text": "Itu benar, kamu benar-benar luar biasa. Aku sangat senang ketika orang-orang memujimu."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Okay then, I'm going to go for another run so I can make sure to \ndefeat the super popular McQueen once again!"
+            "text": "Oke kalau begitu, aku akan lari lagi agar aku bisa mengalahkan McQueen yang super populer sekali lagi!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ah, don't go on without me! I'm going for a run too!"
+            "text": "Ah, jangan pergi tanpaku! Aku juga akan lari!"
         },
         {
-            "text": "The sun began to set, and that's when we realized just how late \nit had gotten. Time truly flies when one is having fun."
+            "text": "Matahari mulai terbenam, dan saat itulah kami menyadari betapa larutnya waktu. Waktu benar-benar berlalu cepat saat bersenang-senang."
         },
         {
             "name": "Mejiro McQueen",
             "text": "…"
         },
         {
-            "text": "Is everything alright? Everyone's already \nheaded back to the villa."
+            "text": "Semuanya baik-baik saja? Semua orang sudah kembali ke vila."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ah… I'm fine. I was just thinking about our team's members."
+            "text": "Ah… Aku baik-baik saja. Aku hanya memikirkan anggota tim kita."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Just a little while ago we were a shell of our \nformer selves, but now we have new members."
+            "text": "Beberapa waktu yang lalu kami hanya tinggal kulitnya saja, tapi sekarang kami punya anggota baru."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "They all saw how I ran, and that made \nthem want to run alongside me."
+            "text": "Mereka semua melihat bagaimana aku berlari, dan itu membuat mereka ingin berlari bersamaku."
         },
         {
-            "text": "They were all moved by you. Just like \nwe were moved by Oguri's race."
+            "text": "Mereka semua tergerak olehmu. Sama seperti kami tergerak oleh balapan Oguri."
         },
         {
-            "text": "They were all moved by you. Just like \nwe were moved by Oguri's race."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "When I think about it I get mixed feelings. \nOn one hand I'm incredibly proud, but on the \nother hand it's quite embarrassing."
+            "text": "Mereka semua tergerak olehmu. Sama seperti kami tergerak oleh balapan Oguri."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "We were able to win the Spring Tenno Sho \nand preserve the team, however…"
+            "text": "Ketika aku memikirkannya, aku merasa campur aduk. Di satu sisi aku sangat bangga, tapi di sisi lain itu cukup memalukan."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Trainer-san, there is still something that I need to do.",
-            "choice_data_list": [
-                "And what would that be?"
+            "text": "Kami berhasil memenangkan Spring Tenno Sho dan mempertahankan tim, namun…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer-san, masih ada sesuatu yang perlu kulakukan."
+            ,"choice_data_list": [
+                "Apa itu?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I need to continue running so as not to betray the \nexpectations that everyone else has of me."
+            "text": "Aku harus terus berlari agar tidak mengkhianati harapan yang dimiliki orang lain padaku."
         },
         {
-            "text": "The expression on Mejiro McQueen's face, which was smiling yet \nexuding confidence, reassured me.",
-            "choice_data_list": [
-                "McQueen, I believe in you."
+            "text": "Ekspresi wajah Mejiro McQueen, yang tersenyum namun memancarkan kepercayaan diri, membuatku yakin."
+            ,"choice_data_list": [
+                "McQueen, aku percaya padamu."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Of course, you can count on me."
+            "text": "Tentu saja, kamu bisa mengandalkanku."
         }
     ]
 }
