@@ -2,88 +2,88 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Our training for the \nSpring Tennō Shō has begun in earnest."
+            "text": "Latihan kami untuk Spring Tennō Shō telah dimulai dengan sungguh-sungguh."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Controlling my breathing \nhas gotten much easier."
+            "text": "Mengontrol napasku menjadi jauh lebih mudah."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Now that we've finished today's regimen, \nwhat do we do now?"
+            "text": "Sekarang setelah kita menyelesaikan rejimen hari ini, apa yang kita lakukan sekarang?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "If it's okay with you, \nI'd like to continue running."
+            "text": "Jika kamu tidak keberatan, aku ingin terus berlari."
         },
         {
-            "text": "Hmm, there doesn't seem to be any harm in it, \nand she looks like she really wants to…",
-            "choice_data_list": [
-                "Okay, one more lap!"
+            "text": "Hmm, sepertinya tidak ada salahnya, dan dia terlihat sangat ingin…"
+            ,"choice_data_list": [
+                "Oke, satu putaran lagi!"
             ]
         },
         {
-            "text": "Hmm, there doesn't seem to be any harm in it, \nand she looks like she really wants to…",
-            "choice_data_list": [
-                "Okay, one more lap!"
+            "text": "Hmm, sepertinya tidak ada salahnya, dan dia terlihat sangat ingin…"
+            ,"choice_data_list": [
+                "Oke, satu putaran lagi!"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Hehe, thank you. \nI could never be satisfied with that amount of training."
+            "text": "Hehe, terima kasih. Aku tidak akan pernah puas dengan jumlah latihan segitu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Here I go!"
+            "text": "Ini dia!"
         },
         {
-            "text": "It feels as though this is the first time I've truly trained with \nMejiro McQueen since inheriting this team."
+            "text": "Rasanya ini pertama kalinya aku benar-benar berlatih dengan Mejiro McQueen sejak mewarisi tim ini."
         },
         {
-            "text": "I guess this is because we finally have a \ngoal we're striving towards, together."
+            "text": "Kurasa ini karena kita akhirnya memiliki tujuan yang kita perjuangkan, bersama."
         },
         {
-            "text": "I guess this is because we finally have a \ngoal we're striving towards, together."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Trainer-san, hello! \nMcQueen is looking great!"
-        },
-        {
-            "text": "Oh, hey Ryan."
-        },
-        {
-            "text": "Oh, hey Ryan."
-        },
-        {
-            "text": "Mejiro Ryan looked so happy for her."
-        },
-        {
-            "text": "The only reason that Mejiro McQueen was able to recover was \nbecause of the advice you gave me, Mejiro Ryan."
+            "text": "Kurasa ini karena kita akhirnya memiliki tujuan yang kita perjuangkan, bersama."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Now that my rival is back in form, I have to do my best to try \nand win the Spring Tennō Shō as well!",
-            "choice_data_list": [
-                "Ryan, thank you."
+            "text": "Trainer-san, halo! McQueen terlihat hebat!"
+        },
+        {
+            "text": "Oh, hai Ryan."
+        },
+        {
+            "text": "Oh, hai Ryan."
+        },
+        {
+            "text": "Mejiro Ryan terlihat sangat bahagia untuknya."
+        },
+        {
+            "text": "Satu-satunya alasan Mejiro McQueen bisa pulih adalah karena saran yang kamu berikan padaku, Mejiro Ryan."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Sekarang setelah sainganku kembali dalam kondisi terbaik, aku harus melakukan yang terbaik untuk mencoba memenangkan Spring Tennō Shō juga!"
+            ,"choice_data_list": [
+                "Ryan, terima kasih."
             ]
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ehehe, thank you too. \nI'm so glad I talked you."
+            "text": "Ehehe, terima kasih juga. Aku sangat senang aku berbicara denganmu."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "This race is getting exciting, huh? \nEven though I'll be the one winning it!"
+            "text": "Balapan ini semakin seru, ya? Meskipun aku yang akan memenangkannya!"
         },
         {
-            "text": "In order to win the Spring Tennō Shō, we need to make sure that \nMejiro McQueen is in top condition."
+            "text": "Untuk memenangkan Spring Tennō Shō, kita harus memastikan Mejiro McQueen berada dalam kondisi prima."
         },
         {
-            "text": "In order to win the Spring Tennō Shō, we need to make sure that \nMejiro McQueen is in top condition."
+            "text": "Untuk memenangkan Spring Tennō Shō, kita harus memastikan Mejiro McQueen berada dalam kondisi prima."
         },
         {
-            "text": "A few days later… the day that Mejiro McQueen had been longing \nfor finally arrived, the Spring Tennō Shō."
+            "text": "Beberapa hari kemudian… hari yang telah lama dinantikan Mejiro McQueen akhirnya tiba, Spring Tennō Shō."
         },
         {
             "name": "Mejiro McQueen",
@@ -93,14 +93,14 @@
             "text": "…"
         },
         {
-            "text": "So what do you want to eat after the race?"
+            "text": "Jadi, apa yang ingin kamu makan setelah balapan?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Eh…? Err, well… We are in Kyoto, \nso how about some local cuisine?"
+            "text": "Eh…? Err, baiklah… Kita ada di Kyoto, jadi bagaimana kalau masakan lokal?"
         },
         {
-            "text": "Okay…"
+            "text": "Oke…"
         },
         {
             "name": "Mejiro McQueen",
@@ -108,48 +108,48 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Um… that was an awful \nattempt at relieving the tension."
+            "text": "Um… itu adalah upaya yang buruk untuk meredakan ketegangan."
         },
         {
-            "text": "Seems so…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Jeez, get it together. Keeping calm is an \nimportant skill for trainers you know."
+            "text": "Sepertinya begitu…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I'm worried that you've already \nlost all of your motivation."
+            "text": "Astaga, sadarilah. Tetap tenang adalah keterampilan penting bagi pelatih, kamu tahu."
         },
         {
-            "text": "It's times like this that make \nme envy Sensei's sociable nature."
+            "name": "Mejiro McQueen",
+            "text": "Aku khawatir kamu sudah kehilangan semua motivasimu."
         },
         {
-            "text": "Unlike Sensei, I'm unable to put on a \ncheerful facade to help her relax. But…",
-            "choice_data_list": [
-                "I'll be cheering you on instead!"
+            "text": "Saat-saat seperti ini yang membuatku iri dengan sifat ramah Sensei."
+        },
+        {
+            "text": "Tidak seperti Sensei, aku tidak bisa memasang wajah ceria untuk membantunya rileks. Tapi…"
+            ,"choice_data_list": [
+                "Aku akan menyemangatimu sebagai gantinya!"
             ]
         },
         {
-            "text": "Unlike Sensei, I'm unable to put on a \ncheerful facade to help her relax. But…",
-            "choice_data_list": [
-                "I'll be cheering you on instead!"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…Hehe. Please do."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "My dream is finally within my grasp. \nNow I just need to reach out and grab it.",
-            "choice_data_list": [
-                "You can do it, McQueen!"
+            "text": "Tidak seperti Sensei, aku tidak bisa memasang wajah ceria untuk membantunya rileks. Tapi…"
+            ,"choice_data_list": [
+                "Aku akan menyemangatimu sebagai gantinya!"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I'll definitely win, just you wait!"
+            "text": "…Hehe. Silakan."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Impianku akhirnya dalam genggamanku. Sekarang aku hanya perlu meraihnya."
+            ,"choice_data_list": [
+                "Kamu bisa melakukannya, McQueen!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku pasti akan menang, tunggu saja!"
         }
     ]
 }
