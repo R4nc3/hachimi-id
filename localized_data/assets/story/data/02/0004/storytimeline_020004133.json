@@ -2,47 +2,47 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Congratulations, Brian. It was a good run."
+            "text": "Selamat, Brian. Itu lari yang bagus."
         },
         {
-            "text": "Congratulations, Brian. It was a good run."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…You're right. From all the races I've run \nso far, this may have been my No. 1."
+            "text": "Selamat, Brian. Itu lari yang bagus."
         },
         {
             "name": "Narita Brian",
-            "text": "After all, it was the first time I was able \nto live my feelings for victory so far"
-        },
-        {
-            "text": "So this 1-in-1 race that you won was that meaningful to you."
-        },
-        {
-            "text": "So this 1-in-1 race that you won was that meaningful to you."
+            "text": "…Kau benar. Dari semua balapan yang sudah kuikuti sejauh ini, ini mungkin yang nomor 1 bagiku."
         },
         {
             "name": "Narita Brian",
-            "text": "However, I'm not going to be satisfied with just this. The desire \nto run still keeps me moving forward."
+            "text": "Bagaimanapun juga, ini pertama kalinya aku bisa menghayati perasaanku untuk kemenangan sejauh ini."
+        },
+        {
+            "text": "Jadi balapan 1 lawan 1 yang kau menangkan itu sangat berarti bagimu."
+        },
+        {
+            "text": "Jadi balapan 1 lawan 1 yang kau menangkan itu sangat berarti bagimu."
         },
         {
             "name": "Narita Brian",
-            "text": "There are still opponents who I want to overtakeー My Big-sister's \nback is waiting for me."
+            "text": "Namun, aku tidak akan puas hanya dengan ini. Keinginan untuk berlari masih terus mendorongku maju."
         },
         {
-            "text": "That's right, in Narita Brian's eyes, there \nis something that shines strongly.",
+            "name": "Narita Brian",
+            "text": "Masih ada lawan yang ingin kususul—Punggung kakakku menungguku."
+        },
+        {
+            "text": "Benar, di mata Narita Brian, ada sesuatu yang bersinar kuat.",
             "choice_data_list": [
-                "Keep running, Brian!",
-                "Keep running, Brian!"
+                "Teruslah berlari, Brian!",
+                "Teruslah berlari, Brian!"
             ]
         },
         {
             "name": "Narita Brian",
-            "text": "…Needless to say."
+            "text": "…Tidak perlu dikatakan lagi."
         },
         {
             "name": "Narita Brian",
-            "text": "Now, the next race… not yet!"
+            "text": "Sekarang, balapan berikutnya… belum…!"
         }
     ]
 }

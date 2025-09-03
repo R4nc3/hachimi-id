@@ -3,15 +3,15 @@
     "text_block_list": [
         {
             "name": "Commentator",
-            "text": "It was a tough high-pace for the Horse Girls running in the \nfront, it was a tough battle, but only one of them, Narita Brian, \nescaped and took the victory!"
+            "text": "Itu adalah kecepatan tinggi yang sulit bagi *Horse Girl* yang berlari di depan, itu adalah pertarungan yang sulit, tapi hanya satu dari mereka, Narita Brian, lolos dan meraih kemenangan!"
         },
         {
             "name": "Commentator",
-            "text": "What's more, look at the time, not only beating the “SatsukiShou” \nrecord, but Nakayama's 2000m course record!!"
+            "text": "Terlebih lagi, lihat waktunya, tidak hanya mengalahkan rekor “SatsukiShou”, tapi rekor lintasan 2000m Nakayama!!"
         },
         {
             "name": "Commentator",
-            "text": "What an overwhelming run! The loud cheers \nfrom the stands are not stopping!"
+            "text": "Sungguh lari yang luar biasa! Sorakan keras dari tribun tidak berhenti!"
         },
         {
             "name": "Narita Brian",
@@ -19,25 +19,25 @@
         },
         {
             "name": "Spectator A",
-            "text": "W-What is with that straight line stretching!!"
+            "text": "A-apa-apaan *straight line stretching* itu!!"
         },
         {
             "name": "Spectator B",
-            "text": "Even though you are a G1, you're treating other racers like \nchildren!? Just how strong are you, Narita Brian!"
+            "text": "Meskipun kau seorang G1, kau memperlakukan pembalap lain seperti anak-anak!? Seberapa kuat kau, Narita Brian!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "3 lengths difference of overwhelming victory, plus \ncourse record. Even after achieving all that in a race, \nyou still don't have the face of a runner…"
+            "text": "Selisih 3 panjang kemenangan telak, ditambah rekor lintasan. Bahkan setelah mencapai semua itu dalam balapan, kau masih tidak menunjukkan wajah seorang pembalap…"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Brian, you're such a selfish little sister."
+            "text": "Brian, kau adik kecil yang egois."
         },
         {
-            "text": "The classic race, an overwhelming victory on the grand stageー"
+            "text": "Balapan klasik, kemenangan telak di panggung besar—"
         },
         {
-            "text": "This was the trigger that got her the \ntitle of “The strongest Horse Girl”."
+            "text": "Ini adalah pemicu yang memberinya gelar “*Horse Girl* terkuat”."
         },
         {
             "name": "Narita Brian",
@@ -49,81 +49,81 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Woah, Brian is amazing… She's been updating \nher time many times since a while ago."
+            "text": "Woah, Brian luar biasa… Dia sudah memperbarui waktunya berkali-kali sejak tadi."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Even though she did so much running at the “SatsukiShou”, she \nstill seems to be gaining strength."
+            "text": "Meskipun dia sudah berlari sangat banyak di “SatsukiShou”, dia masih terlihat semakin kuat."
         },
         {
             "name": "Gold Ship",
-            "text": "Look at that, the guys who are crazy around \nyou are also choking their mouths."
+            "text": "Lihat itu, orang-orang yang gila di sekitarmu juga tersedak mulut mereka."
         },
         {
-            "text": "It's something that goes beyond our expectations every time she \nruns. I've had to rework my training menu multiple times already."
+            "text": "Itu adalah sesuatu yang melampaui ekspektasi kami setiap kali dia berlari. Aku sudah harus mengerjakan ulang menu latihanku berkali-kali."
         },
         {
             "name": "Narita Brian",
             "text": "…Phew."
         },
         {
-            "text": "That was a good run, Brian. It seems that your running is \nbecoming more and more steady ."
+            "text": "Itu lari yang bagus, Brian. Sepertinya larimu semakin mantap."
         },
         {
             "name": "Gold Ship",
-            "text": "Running with a low center of gravity, right? When we scouted \nBrian, Trainer and I created this tactic together."
+            "text": "Berlari dengan pusat gravitasi rendah, kan? Saat kami me-*scout* Brian, Trainer dan aku menciptakan taktik ini bersama."
         },
         {
-            "text": "I only gave some advice, but it was Brian who actually did it. I \nwas really surprised when I saw that run."
+            "text": "Aku hanya memberikan beberapa saran, tapi Brian-lah yang benar-benar melakukannya. Aku benar-benar terkejut saat melihat lari itu."
         },
         {
-            "text": "I only gave some advice, but it was Brian who actually did it. I \nwas really surprised when I saw that run."
+            "text": "Aku hanya memberikan beberapa saran, tapi Brian-lah yang benar-benar melakukannya. Aku benar-benar terkejut saat melihat lari itu."
         },
         {
-            "text": "Well, then let's finish with 1 more run at the end."
+            "text": "Baiklah, kalau begitu mari kita akhiri dengan 1 lari lagi di akhir."
         },
         {
             "name": "Narita Brian",
-            "text": "It's over… If so, I will run seriously. Please measure my time."
+            "text": "Sudah selesai… Kalau begitu, aku akan berlari serius. Tolong ukur waktuku."
         },
         {
             "name": "Gold Ship",
-            "text": "Huh…? So until now you haven't been serious!?"
+            "text": "Hah…? Jadi sampai sekarang kau belum serius!?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "…Trainer-san, it seems we need to review the training menu again."
+            "text": "…Trainer-san, sepertinya kita perlu meninjau ulang menu latihan lagi."
         },
         {
-            "text": "Sounds like it…"
-        },
-        {
-            "name": "Reporter A",
-            "text": "Excuse me, Brian-san! I would like to interview you!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Ahh, What is it!? In the middle of training, you're such a jerk!!"
+            "text": "Sepertinya begitu…"
         },
         {
             "name": "Reporter A",
-            "text": "I'm fully aware it's rude, but I can't catch you at all, so I \ncame at the training time and the car…!"
+            "text": "Permisi, Brian-san! Aku ingin mewawancaraimu!!"
         },
         {
             "name": "Gold Ship",
-            "text": "If you don't have a choice, how about you interview me instead?"
+            "text": "Ahh, Apa ini!? Di tengah latihan, kau sangat menyebalkan!!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Aku sepenuhnya sadar itu tidak sopan, tapi aku sama sekali tidak bisa menangkapmu, jadi aku datang saat latihan dan mobil…!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Jika kau tidak punya pilihan, bagaimana kalau kau mewawancaraiku saja?"
         },
         {
             "name": "Narita Brian",
-            "text": "Golshi and Trainer, I'll leave the rest \nto you. I'll continue running."
+            "text": "Golshi dan Trainer, sisanya kuserahkan padamu. Aku akan terus berlari."
         },
         {
             "name": "Reporter A",
-            "text": "Ahh～, Please wait! At least one word!!"
+            "text": "Ahh～, Tolong tunggu! Setidaknya satu kata!!"
         },
         {
             "name": "Reporter A",
-            "text": "The “SatsukiShou” was a stunning victory, but \nis your goal ahead after all, to become the 5th \n“Triple Crown Horse Girl” in history?"
+            "text": "“SatsukiShou” adalah kemenangan yang menakjubkan, tapi apakah tujuanmu setelah itu, untuk menjadi “Triple Crown Horse Girl” ke-5 dalam sejarah?"
         },
         {
             "name": "Narita Brian",
@@ -131,59 +131,59 @@
         },
         {
             "name": "Narita Brian",
-            "text": "…That is just a “Passing Point”."
+            "text": "…Itu hanyalah “Titik Lewat”."
         },
         {
             "name": "Reporter A",
-            "text": "…Passing Point? I-In what sense do you mean?"
+            "text": "…Titik Lewat? D-Dalam arti apa maksudmu?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "It means what it is."
+            "text": "Itu berarti apa adanya."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "When you win the triple crown, your \ndesire for racing doesn't subside…"
+            "text": "Ketika kau memenangkan *Triple Crown*, keinginanmu untuk balapan tidak mereda…"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I knew you would be here."
+            "text": "Aku tahu kau akan ada di sini."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "The school is like a mountain of reporters \naiming for you at the end of training."
+            "text": "Sekolah ini seperti gunung reporter yang mengincarmu di akhir latihan."
         },
         {
             "name": "Narita Brian",
-            "text": "Big-sister…"
+            "text": "Kakak…"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "In the “SatsukiShou” if you follow such a high-pace flow, it is \nnatural that you run out of power in the last straight line."
+            "text": "Di “SatsukiShou” jika kau mengikuti aliran kecepatan tinggi seperti itu, wajar jika tenagamu habis di *straight line* terakhir."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "In spite of that, you got along with the development \nand while all around you ran out of power, you were \nthe only person who escaped and won."
+            "text": "Meskipun begitu, kau berhasil mengikuti perkembangan dan sementara semua orang di sekitarmu kehabisan tenaga, kau adalah satu-satunya orang yang lolos dan menang."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "If you are shown such a thing, it is natural \nthat the world is in uproar."
+            "text": "Jika kau menunjukkan hal seperti itu, wajar jika dunia gempar."
         },
         {
             "name": "Narita Brian",
-            "text": "…I didn't really intend to do anything special. Even that pace \ndidn't really feel that fast."
+            "text": "…Aku sebenarnya tidak bermaksud melakukan sesuatu yang istimewa. Bahkan kecepatan itu tidak terasa terlalu cepat."
         },
         {
             "name": "Narita Brian",
-            "text": "I know very well that there are Horse Girls who run faster."
+            "text": "Aku tahu betul bahwa ada *Horse Girl* yang berlari lebih cepat."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "…Even when you make this much uproar in the world in a \nspectacular race, you still don't show any sign of being filled ."
+            "text": "…Bahkan ketika kau membuat keributan sebesar ini di dunia dalam balapan spektakuler, kau masih tidak menunjukkan tanda-tanda puas."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I wonder when the day will come when it will be filled."
+            "text": "Aku bertanya-tanya kapan hari itu akan tiba ketika itu akan terpenuhi."
         },
         {
             "name": "Narita Brian",
@@ -191,19 +191,19 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "…When you return you should use the back \ngate, there is no reporters there."
+            "text": "…Ketika kau kembali, sebaiknya gunakan gerbang belakang, tidak ada reporter di sana."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You're in a good team, your results prove it. I'll be sure to see \nwhat you can do in the future."
+            "text": "Kau di tim yang bagus, hasilmu membuktikannya. Aku pasti akan melihat apa yang bisa kau lakukan di masa depan."
         },
         {
             "name": "Narita Brian",
-            "text": "When will the day come when it will be filled… That's what \nbig-sister should know the most, right?"
+            "text": "Kapan hari itu akan tiba ketika itu akan terpenuhi… Itu yang paling harus diketahui kakak, kan?"
         },
         {
             "name": "Narita Brian",
-            "text": "It is when I overtake your back."
+            "text": "Itu adalah saat aku menyalip punggungmu."
         }
     ]
 }
