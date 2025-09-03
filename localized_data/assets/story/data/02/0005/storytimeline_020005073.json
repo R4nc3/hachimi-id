@@ -2,89 +2,89 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "(Knock knock knock)"
+            "text": "(Tok tok tok)"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Trainer-san, pardon the intrusion."
+            "text": "Trainer-san, maaf mengganggu."
         },
         {
-            "text": "Coming in at this time, is something wrong? \nYou're probably tired from the race, is it something urgent?"
+            "text": "Datang jam segini, ada yang salah? \nKamu pasti capek habis balapan, apa ada hal yang mendesak?"
         },
         {
-            "text": "Coming in at this time, is something wrong? \nYou're probably tired from the race, is it something urgent?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "I don't really know if it would be considered urgent, \nbut I just wanted to tell you as soon as possible."
+            "text": "Datang jam segini, ada yang salah? \nKamu pasti capek habis balapan, apa ada hal yang mendesak?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "With today's victory, I realized something. \nAfter all this, I haven't really thanked Trainer-san properly."
-        },
-        {
-            "text": "Thanked me…?"
+            "text": "Aku enggak tahu apa ini bisa dibilang mendesak, \ntapi aku cuma mau ngasih tahu kamu secepatnya."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Even though I wasn't on your team, \nTrainer-san kindly listened to my worries."
+            "text": "Dengan kemenangan hari ini, aku menyadari sesuatu. \nSelama ini, aku belum benar-benar berterima kasih sama Trainer-san dengan layak."
+        },
+        {
+            "text": "Berterima kasih...?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "And when I selfishly asked to transfer to your team, \nTrainer-san accepted."
-        },
-        {
-            "text": "If it's that… on the other hand, normally, it wouldn't be \nstrange to say I was being meddlesome with another team."
+            "text": "Meskipun aku enggak di tim kamu, \nTrainer-san dengan baik hati dengerin kekhawatiranku."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Fufuu…"
+            "text": "Dan saat aku egois minta pindah ke tim kamu, \nTrainer-san menerima."
+        },
+        {
+            "text": "Kalau itu sih... justru, biasanya, enggak aneh kalau dibilang aku ikut campur \nurusan tim lain."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Since joining <Sirius>, by just looking at the other members I can tell \nwhat kind of person Trainer-san is."
+            "text": "Fufuu..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "You're someone who believes in and kindly supports us."
+            "text": "Sejak gabung <Sirius>, cuma dengan lihat anggota lain aja aku bisa tahu \nkaya gimana sih orangnya Trainer-san."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Thinking that, I wanted to properly thank you, but… \ndo you think you can wait just a little bit longer?"
-        },
-        {
-            "text": "Don't talk about waiting, you don't really need to thank me…"
+            "text": "Kamu itu orang yang percaya dan dengan baik hati mendukung kami."
         },
         {
             "name": "Silence Suzuka",
-            "text": "No, I need to properly thank you."
+            "text": "Mikirin itu, aku jadi pengen bener-bener berterima kasih, tapi... \napa kamu bisa nunggu sebentar lagi?"
+        },
+        {
+            "text": "Jangan ngomongin nunggu, kamu enggak perlu berterima kasih kok..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "…from now on, let's see that \"scenery\" together, how's that?"
+            "text": "Enggak, aku harus berterima kasih dengan benar."
         },
         {
-            "text": "Saying that, the expression on Silence Suzuka's face was just as \ngentle, and filled with joy, as when she was running."
+            "name": "Silence Suzuka",
+            "text": "...mulai sekarang, ayo kita lihat \"pemandangan\" itu bareng-bareng, gimana?"
         },
         {
-            "text": "…If it's that kind of gratitude, then that's another story. \nI'll definitely accept that kind of gratitude.",
+            "text": "Ngomong gitu, ekspresi di wajah Silence Suzuka itu sama \nlembutnya, dan penuh kebahagiaan, kaya waktu dia lari."
+        },
+        {
+            "text": "...Kalau rasa terima kasihnya kaya gitu, itu lain cerita. \nAku pasti terima rasa terima kasih yang kaya gitu.",
             "choice_data_list": [
-                "Let's continue to look for that \"scenery\"!",
-                "Let's continue to look for that \"scenery\"!"
+                "Ayo kita terus cari \"pemandangan\" itu!",
+                "Ayo kita terus cari \"pemandangan\" itu!"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Yes…!"
+            "text": "Iya...!"
         },
         {
-            "text": "Running as she desired, \nSilence Suzuka achieved her first victory as a member of <Sirius>."
+            "text": "Lari sesuai keinginannya, \nSilence Suzuka meraih kemenangan pertamanya sebagai anggota <Sirius>."
         },
         {
-            "text": "With her in good condition and high spirits, \nwhat kind of \"scenery\" will she show me from now on?"
+            "text": "Dengan kondisinya yang bagus dan semangat yang tinggi, \npemandangan\" seperti apa ya yang akan dia tunjukin ke aku mulai sekarang?"
         },
         {
-            "text": "With the way she is now, I believe her dreams will continue to \noverflow with these joyful emotions."
+            "text": "Dengan keadaannya yang sekarang, aku yakin mimpinya akan terus \nmeluap dengan emosi bahagia ini."
         }
     ]
 }
