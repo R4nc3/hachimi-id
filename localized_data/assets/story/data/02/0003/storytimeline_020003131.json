@@ -2,95 +2,95 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day of Winning Ticket's longing has come. On the day of the \nDerby, she entrusted all her feelings."
+            "text": "Hari yang didambakan Winning Ticket telah tiba. Pada hari Derby, dia menyerahkan semua perasaannya."
         },
         {
             "name": "Winning Ticket",
             "text": "Heh…"
         },
         {
-            "text": "Winning Ticket took a deep breath and put her hand on her chest. \nOpened her eyes slowly, staring at the turf ahead of the light."
+            "text": "Winning Ticket menarik napas dalam-dalam dan meletakkan tangannya di dada. Membuka matanya perlahan, menatap lintasan di depan cahaya."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ticket-san, you are more focused than \never. I can see it from your back."
+            "text": "Ticket-san, kau lebih fokus dari sebelumnya. Aku bisa melihatnya dari punggungmu."
         },
         {
             "name": "Gold Ship",
-            "text": "I usually hear a loud voice that the voice echoes."
+            "text": "Aku biasanya mendengar suara keras yang menggema."
         },
         {
             "name": "Rice Shower",
-            "text": "Ahh～… Rice is getting nervous too…"
+            "text": "Ahh～… Rice juga jadi gugup…"
         },
         {
-            "text": "Team <Sirius> members also stayed up all night, watching the \nbrave back of Winning Ticket… But it is."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Hmm… Hmmm～!! It's no use!! it's itchy!"
+            "text": "Anggota tim <Sirius> juga begadang semalaman, menyaksikan punggung berani Winning Ticket… Tapi begitulah."
         },
         {
             "name": "Winning Ticket",
-            "text": "When I try to focus I get nervous! \nWhen I get nervous I get itchy～!!"
+            "text": "Hmm… Hmmm～!! Tidak ada gunanya!! Gatal!"
         },
         {
-            "text": "After all, it's the usual Tickezou."
+            "name": "Winning Ticket",
+            "text": "Saat aku mencoba fokus, aku jadi gugup! Saat aku gugup, aku jadi gatal～!!"
         },
         {
-            "text": "After all, it's the usual Tickezou."
+            "text": "Bagaimanapun, itu Tickezou yang biasa."
+        },
+        {
+            "text": "Bagaimanapun, itu Tickezou yang biasa."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "If your usual method isn't working out, \nwe'll send you out in a special way."
+            "text": "Jika metode biasamu tidak berhasil, kami akan mengirimmu dengan cara khusus."
         },
         {
             "name": "Winning Ticket",
-            "text": "Special way?"
+            "text": "Cara khusus?"
         },
         {
-            "text": "Mejiro Mcqueen then signaled to the Sirius members, all of them \nspreading their palms behind Winning Ticketー"
+            "text": "Mejiro McQueen kemudian memberi isyarat kepada anggota Sirius, semua dari mereka merentangkan telapak tangan di belakang Winning Ticket—"
         },
         {
             "name": "Rice Shower",
-            "text": "O-One-two!"
+            "text": "S-Satu-dua!"
         },
         {
             "name": "Everyone",
-            "text": "See you later!!"
+            "text": "Sampai jumpa nanti!!"
         },
         {
-            "text": "(Slap!)"
+            "text": "(Plak!)"
         },
         {
-            "text": "ーAnd hit Winning Ticket on the back."
+            "text": "—Dan menampar punggung Winning Ticket."
         },
         {
             "name": "Winning Ticket",
-            "text": "Kyaa～～!! It's to strong～～!!"
+            "text": "Kyaa～～!! Terlalu kuat～～!!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "With that you're alright now! Ticket-san, \nshow us the best Derby ever!"
+            "text": "Dengan begitu kau baik-baik saja sekarang! Ticket-san, tunjukkan pada kami Derby terbaik yang pernah ada!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Of course! I'll run with all my might!"
+            "text": "Tentu saja! Aku akan berlari dengan segenap kekuatanku!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Until now, Derby was just excitement and \nlonging, but now I'm on that stage…"
+            "text": "Sampai sekarang, Derby hanyalah kegembiraan dan kerinduan, tapi sekarang aku ada di panggung itu…"
         },
         {
             "name": "Winning Ticket",
-            "text": "There are rivals. there is everyone on the team and Trainer-san \nis here… This is my Derby!",
+            "text": "Ada rival. ada semua orang di tim dan Trainer-san ada di sini… Ini Derby-ku!",
             "choice_data_list": [
-                "Let's take hold of the dream!"
+                "Ayo raih impian itu!"
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "Yeah, I'm going!!"
+            "text": "Ya, aku berangkat!!"
         }
     ]
 }

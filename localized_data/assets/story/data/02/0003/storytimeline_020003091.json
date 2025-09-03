@@ -3,43 +3,43 @@
     "text_block_list": [
         {
             "name": "Narita Taishin",
-            "text": "heh… heh… heh… heh…"
+            "text": "Heh… heh… heh… heh…"
         },
         {
             "name": "Narita Taishin",
-            "text": "hah～…hah… hah…"
+            "text": "Hah～…hah… hah…"
         },
         {
             "name": "Other School Girl A",
-            "text": "Huh…? Taishin-chan."
+            "text": "Hah…? Taishin-chan."
         },
         {
             "name": "Other School Girl B",
-            "text": "It's true, she is as small as ever～"
+            "text": "Benar, dia kecil seperti biasanya～"
         },
         {
             "name": "Narita Taishin",
-            "text": "You guys."
+            "text": "Kalian."
         },
         {
             "name": "Other School Girl A",
-            "text": "Eh～, this uniform… so you enrolled in Tracen Academy ."
+            "text": "Eh～, seragam ini… jadi kau mendaftar di Tracen Academy."
         },
         {
             "name": "Other School Girl B",
-            "text": "Isn't it too tough for Taishin-chan? To \nrun as a Horse Girl of Tracen Academy."
+            "text": "Bukankah terlalu berat untuk Taishin-chan? Berlari sebagai *Horse Girl* Tracen Academy."
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh…?"
+            "text": "Hah…?"
         },
         {
             "name": "Other School Girl B",
-            "text": "Well, We're not even Horse Girls, but it looks like we can even \nwin against Taishin-chan if we run!"
+            "text": "Yah, kami bahkan bukan *Horse Girl*, tapi sepertinya kami bahkan bisa mengalahkan Taishin-chan kalau kami berlari!"
         },
         {
             "name": "Other School A",
-            "text": "Ehehe, maybe we should enroll in Tracen Academy too."
+            "text": "Ehehe, mungkin kami juga harus mendaftar di Tracen Academy."
         },
         {
             "name": "Narita Taishin",
@@ -47,122 +47,122 @@
         },
         {
             "name": "Other School Girl A",
-            "text": "Ugh～, that face is still the same as ever. Boring girl… let's go."
+            "text": "Ugh～, wajah itu masih sama seperti biasanya. Gadis membosankan… ayo pergi."
         },
         {
             "name": "Other School Girl B",
-            "text": "See ya～."
+            "text": "Sampai jumpa～."
         },
         {
             "name": "Narita Taishin",
-            "text": "…Tch!"
+            "text": "…Cih!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Taishin, thanks for waiting! I bought the taiyaki, Ta-iy-a-ki!"
+            "text": "Taishin, terima kasih sudah menunggu! Aku beli taiyaki, Ta-iy-a-ki!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Huh, what? Are you in a bad mood?"
+            "text": "Hah, apa? Apa kau sedang *bad mood*?"
         },
         {
             "name": "Narita Taishin",
-            "text": "… Not really."
+            "text": "…Tidak juga."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It was probably because Ticket took too much time to shop."
+            "text": "Mungkin karena Ticket terlalu lama belanja."
         },
         {
             "name": "Winning Ticket",
-            "text": "Because Taishin said “anything is fine”, so I \nhad trouble deciding whether to buy crepes or \nice cream or whatever, I was troubled～!"
+            "text": "Karena Taishin bilang “apa saja boleh”, jadi aku kesulitan memutuskan apakah akan beli *crepe* atau es krim atau apa, aku bingung～!"
         },
         {
             "name": "Winning Ticket",
-            "text": "So, to make Taishin grow taller and bigger, \nI bought extra-large taiyaki!"
+            "text": "Jadi, untuk membuat Taishin tumbuh lebih tinggi dan besar, aku beli taiyaki *extra large*!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Wait, extra large…!?"
+            "text": "Tunggu, *extra large*…!?"
         },
         {
             "name": "Winning Ticket",
-            "text": "If you can't eat it, we'll help you too, so it's okay! There's a \nplace to sit over there, so let's eat there!"
+            "text": "Kalau kau tidak bisa makan, kami juga akan membantumu, jadi tidak apa-apa! Ada tempat duduk di sana, jadi ayo makan di sana!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Come on, it's a waste if you don't eat it \nbefore it gets cold! Hurry up-Hurry up!"
+            "text": "Ayo, sayang kalau tidak dimakan sebelum dingin! Cepat-cepat!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Geez… Let's go Taishin."
+            "text": "Astaga… Ayo pergi Taishin."
         },
         {
             "name": "Narita Taishin",
-            "text": "… Yeah."
+            "text": "…Ya."
         },
         {
             "name": "Narita Taishin",
-            "text": "Alright, one more time!!"
+            "text": "Baiklah, sekali lagi!!"
         },
         {
-            "text": "Few days before the “SatsukiShou”ー"
+            "text": "Beberapa hari sebelum “SatsukiShou”—"
         },
         {
-            "text": "Winning Ticket's training menu entered the chase stage, so today \nit was decided to run outside the school to do it."
+            "text": "Menu latihan Winning Ticket memasuki tahap pengejaran, jadi hari ini diputuskan untuk berlari di luar sekolah untuk melakukannya."
         },
         {
             "name": "Winning Ticket",
-            "text": "I still have enough strength! Let's do our best with the extra \ntraining, Trainer-san!",
+            "text": "Aku masih punya cukup tenaga! Ayo lakukan yang terbaik dengan latihan tambahan, Trainer-san!",
             "choice_data_list": [
-                "Let's increase our energy until the actual performance!"
+                "Ayo tingkatkan energimu sampai performa sebenarnya!"
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "Yeah! Alright～～! My spirit is burning～～!!!!"
+            "text": "Ya! Baiklah～～! Semangatku membara～～!!!!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Ah, Trainer-san and Winning Ticket-san. \nBy any chance, are you going to train?"
+            "text": "Ah, Trainer-san dan Winning Ticket-san. Kebetulan, apa kalian akan berlatih?"
         },
         {
-            "text": "Yes, is there anything you need?"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "The truth is, it seems that people are \ngathering in front of the school now."
+            "text": "Ya, ada yang bisa kubantu?"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "There are only a few days left until the “SatsukiShou”, \nit will be a problem if it interferes with training, \nso I thought I would pick you up."
+            "text": "Sejujurnya, sepertinya orang-orang berkumpul di depan sekolah sekarang."
         },
         {
-            "text": "Right now is the time to train even if it's a little. Well, if \nyou can hold on to it, it's nothing to worry about."
+            "name": "Hayakawa Tazuna",
+            "text": "Hanya tinggal beberapa hari lagi sampai “SatsukiShou”, akan jadi masalah jika mengganggu latihan, jadi kupikir aku akan menjemputmu."
+        },
+        {
+            "text": "Sekarang adalah waktu untuk berlatih meskipun sedikit. Yah, kalau kau bisa menahannya, tidak ada yang perlu dikhawatirkan."
         },
         {
             "name": "Winning Ticket",
-            "text": "Oh, I'm going-I'm going! I can't refuse the people who support me \nor the people who came to interview me!"
+            "text": "Oh, aku pergi-aku pergi! Aku tidak bisa menolak orang-orang yang mendukungku atau orang-orang yang datang untuk mewawancaraiku!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Huh? But, you said you were going to train…"
+            "text": "Hah? Tapi, kau bilang kau akan berlatih…"
         },
         {
             "name": "Winning Ticket",
-            "text": "It's okay! But I'm not planning to ditch my training. I'll follow \nthrough with what I've decided!"
+            "text": "Tidak apa-apa! Tapi aku tidak berencana untuk meninggalkan latihanku. Aku akan menepati apa yang sudah kuputuskan!"
         },
         {
             "name": "Winning Ticket",
-            "text": "With that said, I will do my best until curfew \ntoday! So Trainer-san, I will have you follow \nthrough with me until the end!",
+            "text": "Dengan mengatakan itu, aku akan melakukan yang terbaik sampai jam malam hari ini! Jadi Trainer-san, aku ingin kau menemaniku sampai akhir!",
             "choice_data_list": [
-                "All right, leave it to me",
-                "All right, leave it to me"
+                "Baiklah, serahkan padaku",
+                "Baiklah, serahkan padaku"
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "Well then, let's go to the interview!"
+            "text": "Kalau begitu, ayo ke wawancara!"
         },
         {
             "name": "Reporter A",
@@ -170,148 +170,147 @@
         },
         {
             "name": "Reporter B",
-            "text": "Excuse me! Can I interview you!?"
+            "text": "Permisi! Bisakah aku mewawancaraimu!?"
         },
         {
             "name": "Winning Ticket",
-            "text": "Woah, you don't need to force your way \nthrough, I will respond properly!"
+            "text": "Woah, kau tidak perlu memaksakan diri, aku akan menanggapi dengan benar!"
         },
         {
-            "text": "As the “SatsukiShou” approaches, Winning Ticket has also \nincreased her degree of attention in the public."
+            "text": "Saat “SatsukiShou” semakin dekat, Winning Ticket juga meningkatkan tingkat perhatiannya di publik."
         },
         {
-            "text": "However, she responded politely to the interview, \nwhether it is her policy or not."
+            "text": "Namun, dia menanggapi wawancara dengan sopan, apakah itu kebijakannya atau bukan."
         },
         {
             "name": "Reporter A",
-            "text": "Winning Ticket-san! How is your training going?"
+            "text": "Winning Ticket-san! Bagaimana latihannya?"
         },
         {
             "name": "Winning Ticket",
-            "text": "Um… it's going great! I can see for myself that my condition is \ngetting better day by day!"
+            "text": "Um… berjalan lancar! Aku bisa melihat sendiri bahwa kondisiku semakin baik setiap hari!"
         },
         {
             "name": "Reporter A",
-            "text": "About your 2 rivals running in the “SatsukiShou”, are you aware \nof their thoughts regarding the race?"
+            "text": "Tentang 2 rivalmu yang berlari di “SatsukiShou”, apa kau tahu pikiran mereka mengenai balapan?"
         },
         {
             "name": "Winning Ticket",
-            "text": "That's of course, that we are going to have fun! Not only in the \n“SatsukiShou” but also the Derby."
+            "text": "Tentu saja, bahwa kita akan bersenang-senang! Tidak hanya di “SatsukiShou” tapi juga Derby."
         },
         {
-            "text": "As Winning Ticket was surrounded by the staff and was answering. \nJust then, Narita Taishin came out of the school."
+            "text": "Saat Winning Ticket dikelilingi oleh staf dan sedang menjawab. Tepat saat itu, Narita Taishin keluar dari sekolah."
         },
         {
             "name": "Narita Taishin",
-            "text": "I see you're surrounded, aren't you…"
+            "text": "Kulihat kau dikelilingi, ya…"
         },
         {
             "name": "Winning Ticket",
-            "text": "Ah, Taishin! Ehehe… after all, it's hard to refuse…"
+            "text": "Ah, Taishin! Ehehe… bagaimanapun juga, sulit untuk menolak…"
         },
         {
             "name": "Reporter A",
-            "text": "Narita Taishin-san! About the first race of the classic frontー"
+            "text": "Narita Taishin-san! Tentang balapan pertama garis depan klasik—"
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm sorry, I have training to go to. See you later, Ticket."
+            "text": "Maaf, aku harus pergi latihan. Sampai jumpa nanti, Ticket."
         },
         {
             "name": "Winning Ticket",
-            "text": "Eh… Yeah."
+            "text": "Eh… Ya."
         },
         {
-            "text": "Narita Taishin after being asked by the reporter, left early"
+            "text": "Narita Taishin setelah ditanyai oleh reporter, pergi lebih awal."
         },
         {
             "name": "Reporter A",
-            "text": "I was also avoided by Biwa Hayahide earlier."
+            "text": "Aku juga dihindari oleh Biwa Hayahide sebelumnya."
         },
         {
             "name": "Winning Ticket",
-            "text": "Is that right…?"
+            "text": "Benarkah begitu…?"
         },
         {
-            "text": "Both Narita Taishin and Biwa Hayahide want to focus on training \nin front of the upcoming “SatsukiShou”."
+            "text": "Narita Taishin dan Biwa Hayahide ingin fokus pada latihan menjelang “SatsukiShou” yang akan datang."
         },
         {
-            "text": "I was staring at the coverage of Winning Ticket while thinking \nabout the training menu after this one so as not to lag behind."
+            "text": "Aku menatap liputan Winning Ticket sambil memikirkan menu latihan setelah ini agar tidak ketinggalan."
         },
         {
-            "text": "Finally, the 3 girls of “BNW” gathered for the first time, the \nday of the classic first game the “SatsukiShou”."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Waaah～～! The classic race makes you nervous just by the sound～～!!"
-        },
-        {
-            "text": "The classic race, which is limited to \nthe Derby, is a prosperous one."
-        },
-        {
-            "text": "The classic race, which is limited to \nthe Derby, is a prosperous one."
-        },
-        {
-            "text": "You've been training well and you're in a good \nphysical condition. All that's left is to run \nwith all your might and take on the glory!"
+            "text": "Akhirnya, ketiga gadis “BNW” berkumpul untuk pertama kalinya, hari pertandingan pertama klasik “SatsukiShou”."
         },
         {
             "name": "Winning Ticket",
-            "text": "Taishin and Hayahide are also on the other \nside! So I will run with full force!",
+            "text": "Waaah～～! Balapan klasik membuatmu gugup hanya dengan suaranya～～!!"
+        },
+        {
+            "text": "Balapan klasik, yang terbatas pada Derby, adalah balapan yang makmur."
+        },
+        {
+            "text": "Balapan klasik, yang terbatas pada Derby, adalah balapan yang makmur."
+        },
+        {
+            "text": "Kau sudah berlatih dengan baik dan dalam kondisi fisik yang bagus. Yang tersisa hanyalah berlari dengan segenap kekuatanmu dan meraih kejayaan!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin dan Hayahide juga ada di sisi lain! Jadi aku akan berlari dengan kekuatan penuh!",
             "choice_data_list": [
-                "Go!",
-                "Go!"
+                "Ayo!"
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "Yeah! I will be going!"
+            "text": "Ya! Aku akan pergi!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Ahh, Taishin!! Hayahide!! Hey～～～～!!!!"
+            "text": "Ahh, Taishin!! Hayahide!! Hei～～～～!!!!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Shut up! I told you before not to scream because it echoes!"
+            "text": "Diam! Sudah kubilang jangan berteriak karena menggema!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Ehehe, I'm just so happy that the 3 \nof us are going to run together!"
+            "text": "Ehehe, aku hanya senang sekali karena kita bertiga akan berlari bersama!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I know how you feel. Each one of us ran though \na number of races and are finally standing in \nthe same place sharing the same feelings."
+            "text": "Aku mengerti perasaanmu. Masing-masing dari kita telah menjalani sejumlah balapan dan akhirnya berdiri di tempat yang sama dengan perasaan yang sama."
         },
         {
             "name": "Narita Taishin",
-            "text": "Well… I guess the 3 of us are finally together."
+            "text": "Yah… Kurasa kita bertiga akhirnya bersama."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But, running together is not the goal."
+            "text": "Tapi, berlari bersama bukanlah tujuan."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Run and win… I have done my best to \nthat end. Today, for this day."
+            "text": "Berlari dan menang… Aku sudah melakukan yang terbaik untuk itu. Hari ini, untuk hari ini."
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm the same. I'm finally here. I'll \nrun with all my might and win."
+            "text": "Aku juga sama. Aku akhirnya di sini. Aku akan berlari dengan segenap kekuatanku dan menang."
         },
         {
             "name": "Winning Ticket",
-            "text": "Yeah! I won't lose either!"
+            "text": "Ya! Aku juga tidak akan kalah!"
         },
         {
             "name": "Commentator",
-            "text": "The first girl of BNW with high expectations, it is the number 1 \nin the popularity charts, Winning Ticket!"
+            "text": "*Horse Girl* pertama BNW dengan ekspektasi tinggi, dia adalah nomor 1 di tangga popularitas, Winning Ticket!"
         },
         {
-            "text": "Responding to the cheers from the stands, Winning Ticket ran to \nthe gate while waving her hand."
+            "text": "Menanggapi sorak-sorai dari tribun, Winning Ticket berlari ke gerbang sambil melambaikan tangannya."
         },
         {
             "name": "Commentator",
-            "text": "All Horse Girl entered the gates! Classic round 1 race, the \n“SatsukiShou”… Now, it's the start!"
+            "text": "Semua *Horse Girl* memasuki gerbang! Balapan klasik putaran 1, “SatsukiShou”… Sekarang, dimulai!"
         }
     ]
 }
