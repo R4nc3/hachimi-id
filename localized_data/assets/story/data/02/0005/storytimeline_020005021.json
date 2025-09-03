@@ -3,123 +3,123 @@
     "text_block_list": [
         {
             "name": "Silence Suzuka",
-            "text": "With expectations in my heart, passing through the school gate \nfor the first time- That was my start."
+            "text": "Berbekal ekspektasi di hati, langkah pertama melewati gerbang sekolah—itulah awalku."
         },
         {
             "name": "Silence Suzuka",
-            "text": "With the Debut completed, I took one step forward…"
+            "text": "Setelah Debut, aku maju selangkah lagi…"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Finally, for the sake of grasping my dream, my race had begun."
+            "text": "Akhirnya, demi meraih impian, balapanku dimulai."
         },
         {
             "name": "Silence Suzuka",
-            "text": "…[Middle Distance Basics 1]… [Victory \nPercentage and Pace Management]"
+            "text": "…[Dasar Lari Jarak Menengah 1]… [Persentase Kemenangan dan Pengaturan Kecepatan]"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Hm? Suzuka-san in the library, studying? How rare."
+            "text": "Hm? Suzuka-san di perpustakaan, belajar? Jarang-jarang, nih."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Fukukitaru… Yeah, I was told to study about \ngrasping the situation during a race."
+            "text": "Fukukitaru… Iya, aku disuruh belajar soal membaca situasi saat balapan."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Makes sense. Choosing your tactics based on distance and track \nconditions was something mentioned in class."
+            "text": "Masuk akal. Memilih taktik berdasarkan jarak dan kondisi lintasan itu juga dibahas di kelas."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Ah! If that's the case, shall I try divining it?! \nThe perfect strategy for Suzuka-san!"
+            "text": "Ah! Kalau begitu, aku coba ramal, ya?! Strategi yang paling pas buat Suzuka-san!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "N-no thanks! \nThat's something for my trainer and I to decide."
+            "text": "J-jangan! Itu sesuatu yang harus aku dan pelatihku yang tentukan."
         },
         {
             "name": "Air Groove",
-            "text": "I see you're frantically trying to gather information, \nhas your next race been decided?"
+            "text": "Kelihatannya kamu sedang sibuk mengumpulkan informasi. Apa balapan berikutnya sudah diputuskan?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Air Groove… yeah, next up is [Yayoi Sho]. \nIt's only a month away."
+            "text": "Air Groove… iya, selanjutnya [Yayoi Sho]. Tinggal sebulan lagi."
         },
         {
             "name": "Air Groove",
-            "text": "It's probably because your debut was somewhat late. If you're \naiming for Classic Races, your schedule is going to be packed."
+            "text": "Mungkin karena debutmu agak telat. Kalau mau ikut Classic Races, jadwalmu bakal padat."
         },
         {
             "name": "Air Groove",
-            "text": "But, your victory was overwhelming wasn't it? Leading from \nbeginning to end. At the end, extending your lead to 7 lengths."
+            "text": "Tapi, kemenanganmu kemarin luar biasa, kan? Memimpin dari awal sampai akhir. Bahkan sampai 7 panjang di garis finis."
         },
         {
             "name": "Silence Suzuka",
-            "text": "I didn't expect you'd come and watch. \nThanks for cheering for me."
+            "text": "Aku enggak nyangka kamu datang nonton. Makasih sudah mendukungku."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Ueee?! You went to cheer Suzuka-san on?! \nI wish you would have invited me too!"
+            "text": "Ueee?! Kamu datang buat dukung Suzuka-san?! Kenapa enggak ajak aku, sih!"
         },
         {
             "name": "Air Groove",
-            "text": "I-I didn't go to cheer, I went to observe!"
+            "text": "A-aku enggak datang buat mendukung, aku datang buat mengamati!"
         },
         {
             "name": "Air Groove",
-            "text": "That aside, Suzuka, from now on things will be serious. \nContinuing to win won't be that simple."
+            "text": "Sudahlah, Suzuka. Mulai sekarang semuanya bakal serius. Menang terus-menerus enggak akan gampang."
         },
         {
             "name": "Silence Suzuka",
-            "text": "I know. \nThat's why I find myself here in the library."
+            "text": "Aku tahu. Makanya aku ada di perpustakaan sekarang."
         },
         {
             "name": "Silence Suzuka",
-            "text": "There's \"scenery\" that I wish to see…"
+            "text": "Ada 'pemandangan' yang ingin kulihat…"
         },
         {
             "name": "Silence Suzuka",
             "text": "Huu… huuu…"
         },
         {
-            "name": "Suzuka's Trainer",
-            "text": "1000m in 58.5 seconds… your pace is still a little fast."
+            "name": "Pelatih Suzuka",
+            "text": "1000m dalam 58,5 detik… kecepatanmu masih sedikit terlalu cepat."
         },
         {
             "name": "Silence Suzuka",
-            "text": "…Understood."
+            "text": "…Baik."
         },
         {
-            "name": "Suzuka's Trainer",
-            "text": "[Yayoi Sho] is 2000m, you need to save your stamina \nfor the last straight. Let's run it again, this \ntime be more mindful of your pace."
+            "name": "Pelatih Suzuka",
+            "text": "[Yayoi Sho] jaraknya 2000m. Kamu harus simpan tenaga untuk trek lurus terakhir. Ayo lari lagi, kali ini lebih perhatikan kecepatanmu."
         },
         {
-            "name": "Suzuka's Trainer",
-            "text": "Your strength is undoubtedly top class. \nWith flawless preparation, victory will definitely follow."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Understood. I'll do my best…!"
+            "name": "Pelatih Suzuka",
+            "text": "Kekuatanmu sudah pasti kelas atas. Dengan persiapan yang sempurna, kemenangan pasti akan datang."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Standard practice in a race is to read the situation, find the \nbest timing to take position, and minimize losses."
+            "text": "Baik. Aku akan berusaha semaksimal mungkin…!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Running with that in mind increases the probability of finishing \nfirst. The most important thing is finishing first."
+            "text": "Saat balapan, hal standar yang dilakukan adalah membaca situasi, mencari waktu terbaik untuk mengambil posisi, dan meminimalkan kerugian."
         },
         {
             "name": "Silence Suzuka",
-            "text": "The \"scenery\" that I want to see is definitely there-"
+            "text": "Lari dengan memikirkan hal itu akan meningkatkan kemungkinan finis pertama. Hal terpenting adalah finis pertama."
         },
         {
-            "name": "Commentator",
-            "text": "With a 3 length lead, Goal! \nA magnificent finish to the [Yayoi Sho]!"
+            "name": "Silence Suzuka",
+            "text": "'Pemandangan' yang ingin kulihat pasti ada di sana-"
         },
         {
-            "name": "Commentator",
-            "text": "Feeling the effects of her late start, the super popular Silence \nSuzuka comes in 8th. Is it because this is only her second race?!"
+            "name": "Komentator",
+            "text": "Dengan keunggulan 3 panjang, Goal! Finis yang luar biasa di [Yayoi Sho]!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Merasa efek dari awal yang telat, Silence Suzuka yang super populer finis di urutan ke-8. Apa karena ini baru balapan keduanya?!"
         },
         {
             "name": "Silence Suzuka",
@@ -127,23 +127,23 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "(How the race develops, positioning, pace management, \nturf and weather conditions…)"
+            "text": "(Gimana jalannya balapan, posisi, pengaturan kecepatan, kondisi lintasan dan cuaca…)"
         },
         {
             "name": "Silence Suzuka",
-            "text": "(So races need to be run while keeping \nall these things in mind, huh?)"
+            "text": "(Jadi balapan harus dilakukan sambil memikirkan semua hal ini, ya?)"
         },
         {
             "name": "Silence Suzuka",
-            "text": "…Last one…!"
+            "text": "…Lari terakhir…!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "(The sound of my horseshoes. Nobody in \nfront of me, just a nice breeze.)"
+            "text": "(Suara tapal kudaku. Tidak ada siapa-siapa di depanku, hanya hembusan angin yang sejuk.)"
         },
         {
             "name": "Silence Suzuka",
-            "text": "(Just like this, emptying my mind. I \nwant to keep running like this.)"
+            "text": "(Seperti ini, mengosongkan pikiranku. Aku ingin terus berlari seperti ini.)"
         },
         {
             "name": "Silence Suzuka",
@@ -151,31 +151,31 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "(But, like that, the \"scenery\" I want to see-)"
+            "text": "(Tapi, kalau seperti itu, 'pemandangan' yang ingin kulihat-)"
         },
         {
             "name": "Special Week",
-            "text": "It's an Uma Musume!!!"
+            "text": "Itu Uma Musume!!!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Hyaa?! W-… what…?!"
+            "text": "Hyaa?! A-… ada apa…?!"
         },
         {
             "name": "Special Week",
-            "text": "Uwaaaaaaah! It's a real live Uma Musume…!"
+            "text": "Uwaaaaaah! Uma Musume betulan…!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "U-um, aren't you also… an Uma Musume?"
+            "text": "K-kamu, bukannya kamu juga… Uma Musume?"
         },
         {
             "name": "Special Week",
-            "text": "That's true, but this is the first time \nI've ever seen another Uma Musume!"
+            "text": "Itu benar, tapi ini pertama kalinya aku melihat Uma Musume lain!"
         },
         {
             "name": "Special Week",
-            "text": "And! And! That running from before, it was reeeeaaally pretty!"
+            "text": "Dan! Dan! Larianmu tadi, cantiiiik banget!"
         },
         {
             "name": "Silence Suzuka",
@@ -183,11 +183,11 @@
         },
         {
             "name": "Special Week",
-            "text": "…Ah?! I-I'm so sorry!! \nFor staring at you like that!"
+            "text": "…Ah?! M-maaf banget!! Sudah menatapmu seperti itu!"
         },
         {
             "name": "Special Week",
-            "text": "I just transferred to Tracen Academy today. \nI'm called Special Week!!"
+            "text": "Aku baru pindah ke Tracen Academy hari ini. Namaku Special Week!!"
         }
     ]
 }
