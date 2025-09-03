@@ -6,107 +6,110 @@
             "text": "Heh… Heh… Heh… Heh…!"
         },
         {
-            "text": "Whenever she ran she couldn't win. Still, Rice continued her \ntraining without taking a rest."
+            "text": "Setiap kali dia berlari dia tidak bisa menang. Namun, Rice melanjutkan latihannya tanpa istirahat."
         },
         {
             "name": "Gold Ship",
-            "text": "Rice is really amazing, Even when losing, she desperately \ncontinues to run like this."
+            "text": "Rice benar-benar luar biasa, Bahkan saat kalah, dia dengan gigih terus berlari seperti ini."
         },
         {
-            "text": "That's it, I want to make her win somehow."
+            "text": "Begitulah, aku ingin membuatnya menang bagaimanapun caranya."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Excuse my intrusion."
+            "text": "Maaf mengganggu."
         },
         {
             "text": "Eh. McQueen!?"
         },
         {
-            "text": "This is sudden. After leaving the team, \nMejiro McQueen came to training."
+            "text": "Ini tiba-tiba. Setelah meninggalkan tim, Mejiro McQueen datang ke latihan."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Rice-san, it seems she didn't do good in \nthe last race, how is she feeling?"
+            "text": "Rice-san, sepertinya dia tidak tampil bagus di balapan terakhir, bagaimana perasaannya?"
         },
         {
-            "text": "She has a lot of feelings for the race and already did a lot of \ntraining, but for some reason we are not getting results."
+            "text": "Dia punya banyak perasaan untuk balapan dan sudah banyak berlatih, tapi entah kenapa kami tidak mendapatkan hasil."
         },
         {
-            "text": "She has a lot of feelings for the race and already did a lot of \ntraining, but for some reason we are not getting results."
+            "text": "Dia punya banyak perasaan untuk balapan dan sudah banyak berlatih, tapi entah kenapa kami tidak mendapatkan hasil."
         },
         {
-            "text": "She doesn't have the same spirit like when \nshe ran with Mihono Bourbon or McQueen."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I see."
+            "text": "Dia tidak punya semangat yang sama seperti saat dia berlari dengan Mihono Bourbon atau McQueen."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "The Rice-san now, might not have a goal to follow."
+            "text": "Begitu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "On the other hand, it means that if she sets a firm goal to \nfollow then she can run the same as before."
+            "text": "Rice-san yang sekarang, mungkin tidak punya tujuan untuk diikuti."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "So that's why… I'm going to change my clothes.",
+            "text": "Di sisi lain, itu berarti jika dia menetapkan tujuan yang kuat untuk diikuti maka dia bisa berlari sama seperti sebelumnya."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Jadi itulah mengapa… Aku akan ganti pakaian."
+        },
+        {
             "choice_data_list": [
-                "What, McQueen is running too?"
-            ]
+                "Apa, McQueen juga akan berlari?"
+            ],
+            "text": "Apa, McQueen juga akan berlari?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I'm here today for that."
+            "text": "Aku di sini hari ini untuk itu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I have not finished my work yet, but I can still make some time."
+            "text": "Pekerjaanku belum selesai, tapi aku masih bisa meluangkan waktu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "And, I couldn't stand waiting to run \nwith everyone on the team again"
+            "text": "Dan, aku tidak tahan menunggu untuk berlari dengan semua orang di tim lagi."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "But before that, please listen to this one request."
+            "text": "Tapi sebelum itu, tolong dengarkan satu permintaanku ini."
         },
         {
             "name": "Rice Shower",
-            "text": "McQueen-san!? And…!!"
+            "text": "McQueen-san!? Dan…!!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I was called suddenly, to lend my power."
+            "text": "Aku dipanggil tiba-tiba, untuk meminjamkan kekuatanku."
         },
         {
-            "text": "To also run together with Mihono Bourbon. \nThat was Mejiro McQueen's request."
+            "text": "Untuk juga berlari bersama Mihono Bourbon. Itulah permintaan Mejiro McQueen."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I was also waiting for Rice-san to play an \nactive role. To win let's work hard."
+            "text": "Aku juga menunggu Rice-san untuk berperan aktif. Untuk menang mari kita bekerja keras."
         },
         {
             "name": "Rice Shower",
-            "text": "Bourbon-san… Thank you for doing that for Rice!"
+            "text": "Bourbon-san… Terima kasih sudah melakukan itu untuk Rice!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Then, just like before, please follow behind me and Bourbon-san."
+            "text": "Kalau begitu, seperti sebelumnya, tolong ikuti di belakangku dan Bourbon-san."
         },
         {
             "name": "Rice Shower",
-            "text": "Yeah, I will Follow McQueen-san and Bourbon-san!"
+            "text": "Ya, aku akan mengikuti McQueen-san dan Bourbon-san!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ah, but it's okay even if you do not follow \nup involving your private life. This time, please \nbe within the range of common sense"
+            "text": "Ah, tapi tidak apa-apa bahkan jika kau tidak menindaklanjuti kehidupan pribadimu. Kali ini, tolong tetap dalam batas akal sehat."
         },
         {
             "name": "Gold Ship",
-            "text": "Then! I'll chase Rice from behind! If \ni catch up, I'll pull your tail!"
+            "text": "Kalau begitu! Aku akan mengejar Rice dari belakang! Kalau aku berhasil menyusul, aku akan menarik ekormu!"
         },
         {
             "name": "Rice Shower",
@@ -114,99 +117,102 @@
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
-            "text": "We will help too!"
+            "text": "Kami juga akan membantu!"
         },
         {
             "name": "Droopy-eyed Horsegirl",
-            "text": "Well then, I will take turns taking the pacemakers!"
+            "text": "Baiklah kalau begitu, aku akan bergantian mengambil *pacemaker*!"
         },
         {
             "name": "Horsegirl with Black Bob-cut",
-            "text": "Yeah, Let's all do our best!"
+            "text": "Ya, mari kita semua melakukan yang terbaik!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Rice-san, the way you work hard and your strong heart. It has \nbecome a great support for us."
+            "text": "Rice-san, caramu bekerja keras dan hatimu yang kuat. Itu sudah menjadi dukungan besar bagi kami."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Please show me once more. Your run \nthat won over me and Bourbon-san."
+            "text": "Tolong tunjukkan padaku sekali lagi. Larimu yang mengalahkan aku dan Bourbon-san."
         },
         {
             "name": "Rice Shower",
-            "text": "Yeah, I got it!"
+            "text": "Ya, aku mengerti!"
         },
         {
-            "text": "Team that continues to “inherit” their feelings…"
+            "text": "Tim yang terus 'mewarisi' perasaan mereka…"
         },
         {
-            "text": "Pushed in the back by fellow teammates, Rice Shower once again \nleads in the “Emperor Award” in the spring."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "hey hey, Trainer-san. If I win, you will invite me to a famous \namusement park, right?"
-        },
-        {
-            "text": "For that reason, I saved so much until today."
-        },
-        {
-            "text": "For that reason, I saved so much until today."
+            "text": "Didorong dari belakang oleh rekan setim, Rice Shower sekali lagi memimpin di “Emperor Award” musim semi."
         },
         {
             "name": "Rice Shower",
-            "text": "Haha… But Rice likes the amusement park near here."
+            "text": "Hei hei, Trainer-san. Jika aku menang, kau akan mengundangku ke taman hiburan terkenal, kan?"
+        },
+        {
+            "text": "Untuk alasan itu, aku sudah menabung banyak sampai hari ini."
+        },
+        {
+            "text": "Untuk alasan itu, aku sudah menabung banyak sampai hari ini."
         },
         {
             "name": "Rice Shower",
-            "text": "It's fun anywhere with Trainer and everyone on the team. I'm \nhappy to see everyone's smile, and Rice is also happy to smile."
+            "text": "Haha… Tapi Rice suka taman hiburan di dekat sini."
         },
         {
             "name": "Rice Shower",
-            "text": "That's why, in order to make everyone smile, \nwill do my best to win today's race.",
+            "text": "Menyenangkan di mana saja bersama Trainer dan semua orang di tim. Aku senang melihat senyum semua orang, dan Rice juga senang tersenyum."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Itulah mengapa, untuk membuat semua orang tersenyum, aku akan melakukan yang terbaik untuk memenangkan balapan hari ini."
+        },
+        {
             "choice_data_list": [
-                "I'm expecting you, Rice!"
-            ]
+                "Aku mengandalkanmu, Rice!"
+            ],
+            "text": "Aku mengandalkanmu, Rice!"
         },
         {
             "name": "Rice Shower",
-            "text": "Yeah, I will be going!"
+            "text": "Ya, aku akan pergi!"
         },
         {
-            "text": "The small body ran though the vast green turf."
-        },
-        {
-            "name": "Commentator",
-            "text": "Rice Shower! Rice Shower is here! Pushing up and taking the lead!"
-        },
-        {
-            "text": "Even though the desire to win was about \nto disappear, she continued to run."
+            "text": "Tubuh kecil itu berlari melintasi lintasan rumput hijau yang luas."
         },
         {
             "name": "Commentator",
-            "text": "Rice Shower is not giving up the lead! She \nis not giving up! And now the goal!"
+            "text": "Rice Shower! Rice Shower ada di sini! Mendorong maju dan mengambil alih pimpinan!"
+        },
+        {
+            "text": "Meskipun keinginan untuk menang hampir menghilang, dia terus berlari."
         },
         {
             "name": "Commentator",
-            "text": "Rice Shower won the Springs “Emperor Award” again!!"
+            "text": "Rice Shower tidak melepaskan pimpinan! Dia tidak melepaskannya! Dan sekarang garis finis!"
         },
         {
-            "text": "And then, that feeling is passed from person to person."
+            "name": "Commentator",
+            "text": "Rice Shower memenangkan “Emperor Award” musim semi lagi!!"
+        },
+        {
+            "text": "Dan kemudian, perasaan itu berpindah dari orang ke orang."
         },
         {
             "name": "Spectator A",
-            "text": "After losing again and again while limiting various work, and \nfinally wins at last."
+            "text": "Setelah kalah berulang kali sambil membatasi berbagai pencapaian, dan akhirnya menang juga."
         },
         {
             "name": "Spectator A",
-            "text": "For real, you made us wait for too long!! Rice, congratulations!!"
+            "text": "Sungguh, kau membuat kami menunggu terlalu lama!! Rice, selamat!!"
         },
         {
             "name": "Spectator B",
-            "text": "You did your best! Amazing!!"
+            "text": "Kau sudah melakukan yang terbaik! Luar biasa!!"
         },
         {
             "name": "Crowd",
-            "text": "(Cheersーー!!!!!)"
+            "text": "(Sorakanーー!!!!!)"
         },
         {
             "name": "Rice Shower",
@@ -214,25 +220,25 @@
         },
         {
             "name": "Commentator",
-            "text": "The cheers are huge!! The crowd that fills \nthe stands is honoring Rice Shower!"
+            "text": "Sorakannya luar biasa!! Kerumunan yang memenuhi tribun menghormati Rice Shower!"
         },
         {
             "name": "Rice Shower",
-            "text": "Everyone is… Everyone's happy… They are smiling!"
+            "text": "Semua orang… Semua orang senang… Mereka tersenyum!"
         },
         {
-            "text": "No matter how hard she felt, no matter how many times she lost, \nshe continued to challenge herself."
+            "text": "Tidak peduli seberapa berat yang dia rasakan, tidak peduli berapa kali dia kalah, dia terus menantang dirinya sendiri."
         },
         {
-            "text": "When such efforts bear fruit, she became a Horse Girl who was \nblessed and loved by everyone."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Everyone, Thank you!!"
+            "text": "Ketika usaha seperti itu membuahkan hasil, dia menjadi *Horse Girl* yang diberkati dan dicintai semua orang."
         },
         {
             "name": "Rice Shower",
-            "text": "Rice, will continue to run forever…! Keep \nrunning and make everyone smile!"
+            "text": "Semuanya, Terima kasih!!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Rice, akan terus berlari selamanya…! Terus berlari dan membuat semua orang tersenyum!"
         }
     ]
 }
