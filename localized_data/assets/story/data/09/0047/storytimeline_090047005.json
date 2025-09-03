@@ -1,89 +1,89 @@
 {
-  "title": "impetuoso : It's thanks to you guys",
+  "title": "impetuoso : Semua berkat kalian",
   "text_block_list": [
     {
       "name": "Hishi Miracle",
-      "text": "Nnnnggh… Yeah, that bit of hair's definitely gone a little frizzy. Yikes… Did I sleep on it funny? Can I fix this…?"
+      "text": "Nnnggh… Iya, rambut bagian itu jadi keriting. Yikes… Salah posisi tidur, ya? Bisa benerin ini gak ya…?"
     },
     {
       "name": "Hishi Miracle",
-      "text": "(Actually, if I don't fix this, I'm screwed! \nI mean, today's… today's the day…!)"
+      "text": "(Padahal kalau gak dibenerin, aku bakalan sial! Maksudku, hari ini… hari ini kan…!)"
     },
     {
       "name": "K.S. Miracle",
-      "text": "Oh, morning, Kuu-chan. \nIt's finally time for the Chorus Fest, huh."
+      "text": "Oh, selamat pagi, Kuu-chan. Akhirnya tiba juga hari Festival Paduan Suara, ya."
     },
     {
       "name": "Hishi Miracle",
-      "text": "Y-yeah… Wait, huh? Kei-chan, I don't remember seeing that brooch before. It looks real nice… Did you just buy it?"
+      "text": "I-iya… Tunggu, hah? Kei-chan, aku gak pernah lihat bros itu sebelumnya. Kelihatan bagus banget… Baru beli?"
     },
     {
       "name": "K.S. Miracle",
-      "text": "Oh, this? Ruby gave it to me. It's got this elegance to it. Makes me look a little more put together, doesn't it? \n…It's like she right here cheering us on."
+      "text": "Oh, ini? Ruby yang kasih. Ada kesan elegannya. Bikin aku kelihatan lebih rapi, kan? …Kayak dia ada di sini nyemangatin kita."
     },
     {
       "name": "K.S. Miracle",
-      "text": "She's got a family meeting to go to, though, so she's not actually coming to see us. …Though Helios is! She told me she's bringing a bunch of her friends."
+      "text": "Dia ada rapat keluarga, jadi gak bisa datang buat nonton kita. …Tapi Helios datang kok! Dia bilang mau ajak banyak teman-temannya."
     },
     {
       "name": "Hishi Miracle",
-      "text": "Whoa, if Helios-chan's inviting them, we're going to have a big crowd… Oh, speaking of, all my friends said they'd come too."
+      "text": "Wah, kalau Helios-chan yang ajak, penontonnya pasti banyak banget… Ngomong-ngomong, teman-temanku juga pada bilang mau datang."
     },
     {
       "name": "HIshi Miracle",
-      "text": "(…Wait. Huh? This isn't exactly a high-stakes contest, but… \n…I'm, like… actually getting…?)"
+      "text": "(…Tunggu. Hah? Ini sih bukan kontes yang tegang banget, tapi… …Aku kok… malah jadi… ?)"
     },
     {
-      "name": "Event Staff",
-      "text": "Okay, every group's got their lots drawn for the order! \nBe sure to be by the stage a bit before your turn!"
-    },
-    {
-      "name": "Hishi Miracle",
-      "text": "(Yeah, the vibes are definitely casual… The other groups look like they're just trying to have fun and not really tryhard. …But still——)"
-    },
-    {
-      "name": "Dantsu Flame",
-      "text": "I- It's kinda… stressful, huh…!? \nWhen I think about how many friends are coming to watch, I just——!"
+      "name": "Staf Acara",
+      "text": "Oke, setiap grup sudah dapat giliran tampilnya! Pastikan kalian sudah standby di dekat panggung sebelum giliran kalian!"
     },
     {
       "name": "Hishi Miracle",
-      "text": "I get it!! I totally get it, Dantsu-chan!! \n…Oh crap. What do we do. I can already feel myself forgetting the lyrics…"
-    },
-    {
-      "name": "Durandal",
-      "text": "D-don't say that, I'm starting to feel it too…! \nNo, no. A knight must never allow herself to be shaken——"
-    },
-    {
-      "name": "Calstone Light O",
-      "text": "What am I going to do with you all? Why are you all so worried when you can sing at Winning Concerts just fine."
-    },
-    {
-      "name": "Durandal",
-      "text": "Ngh… So you mean to say you are not the least bit anxious!?"
-    },
-    {
-      "name": "Calstone Light O",
-      "text": "No actually I am so anxious that it's scary. My heart is pounding really hard and it is not stopping at all. \nFla-chan help me."
+      "text": "(Iya, suasananya santai banget sih… Grup-grup lain juga kayaknya cuma mau seru-seruan, bukan buat saingan. …Tapi tetep aja——)"
     },
     {
       "name": "Dantsu Flame",
-      "text": "——Wait, by Fla-chan, do you mean me!? W-well… \nLooks like you're feeling the same way, huh, Light O-chan…?"
+      "text": "I-ini agak… bikin stres ya…!? Kalau mikirin banyak banget teman yang datang nonton, aku jadi——!"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Aku ngerti!! Aku beneran ngerti, Dantsu-chan!! …Aduh, gimana dong. Perasaanku udah mulai lupa lirik…"
+    },
+    {
+      "name": "Durandal",
+      "text": "J-jangan bilang gitu, aku juga mulai ngerasa! Enggak, enggak. Seorang ksatria tidak boleh goyah——"
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Kalian ini kenapa sih? Kenapa khawatir padahal kalian bisa nyanyi di Winning Concert dengan baik."
+    },
+    {
+      "name": "Durandal",
+      "text": "Ngh… Jadi maksudmu, kau tidak merasa cemas sama sekali!?"
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Enggak kok, aku sebenarnya cemas banget sampai takut. Jantungku berdebar kencang dan gak berhenti. Fla-chan tolongin aku."
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "——Tunggu, Fla-chan itu maksudnya aku!? Y-ya… Kayaknya kamu juga ngerasain hal yang sama, ya, Light O-chan…?"
     },
     {
       "name": "K.S. Miracle",
-      "text": "Haha. It's all going to be okay, guys. \nYou know… You've all worked really hard up to today, remember?"
+      "text": "Haha. Semuanya bakal baik-baik aja, kok. Kalian tahu kan… Kalian semua udah kerja keras sampai hari ini, ingat?"
     },
     {
       "name": "K.S. Miracle",
-      "text": "So, your hearts might be pounding, and you may feel anxious… \nBut in a way that just means you're motivated, right?"
+      "text": "Jadi, jantung kalian mungkin berdebar, dan kalian merasa cemas… Tapi itu artinya kalian termotivasi, kan?"
     },
     {
       "name": "K.S. Miracle",
-      "text": "Yeah, let's go with that. \nSo you guys take that motivation—— And let it rip on the stage with everything you've got."
+      "text": "Iya, anggap aja begitu. Jadi, kalian ambil motivasi itu—— dan kasih yang terbaik di atas panggung."
     },
     {
       "name": "K.S. Miracle",
-      "text": "Don't worry about getting the lyrics a little wrong! \nIf it comes to it, I'll just play the piano a little louder. \n——Got it?"
+      "text": "Jangan khawatir kalau liriknya salah sedikit! Kalau memang harus, nanti aku main pianonya lebih keras. ——Oke?"
     },
     {
       "name": "Dantsu Flame",
@@ -91,155 +91,155 @@
     },
     {
       "name": "Dantsu Flame",
-      "text": "…You're right. We've done everything we can to prepare. \nAll we have to do now is sing our hearts out and have a good time!"
+      "text": "…Kamu benar. Kita udah siapin segalanya. Sekarang tinggal nyanyi sepenuh hati dan bersenang-senang!"
     },
     {
       "name": "Hishi Miracle",
-      "text": "Ngh… L-let's make it happen, baby!!"
+      "text": "Ngh… A-ayo kita bikin ini keren, baby!!"
     },
     {
-      "name": "Event Staff",
-      "text": "Okay, next up is Entry Number 9, Team Miraclez! \nLet's give them a big hand!"
+      "name": "Staf Acara",
+      "text": "Oke, selanjutnya adalah Peserta Nomor 9, Tim Miraclez! Mari kita beri tepuk tangan meriah!"
     },
     {
-      "text": "Is everyone ready? Three, two, one…! \nGo for it, Miraclez!!!!!",
-      "name": "Kids from the hospital"
+      "name": "Anak-anak dari rumah sakit",
+      "text": "Semua siap? Tiga, dua, satu…! Semangat, Miraclez!!!!!"
     },
     {
       "name": "K.S. Miracle",
-      "text": "(Everyone…! …Looks like they managed to make it here without any problems. Thank goodness. \nAll right… I hope you guys have fun——!)"
+      "text": "(Semuanya…! …Syukurlah, mereka berhasil sampai di sini tanpa masalah. Syukurlah. Oke… Semoga kalian bersenang-senang——!)"
     },
     {
-      "name": "Everyone",
-      "text": "Meet and part, we go by Say hello, wave goodbye \nA scene we'll never see again As we go walking \nDown the little road home"
+      "name": "Semua",
+      "text": "Berjumpa dan berpisah, kita bilang Halo dan Dah \nSebuah pemandangan yang takkan kita lihat lagi saat kita berjalan \nMenuju jalan kecil pulang"
     },
     {
-      "name": "Everyone",
-      "text": "Those lonely little moments And all of the little pains \nI don't want to forget any of them ——"
+      "name": "Semua",
+      "text": "Momen-momen kesepian itu Dan semua rasa sakit kecil \nAku tidak mau melupakan semuanya ——"
     },
     {
-      "name": "Child B",
-      "text": "Wow… Their singing is so pretty… \nThey're sparkling…!"
+      "name": "Anak B",
+      "text": "Wow… Nyanyian mereka indah banget… Mereka bersinar…!"
     },
     {
-      "name": "Child C",
-      "text": "Yeah, yeah! They're sparkling! I'm so excited!! \nHey, big girls!! You're awesome!!"
+      "name": "Anak C",
+      "text": "Iya, iya! Mereka bersinar! Aku seneng banget!! Hey, kakak-kakak!! Kalian keren!!"
     },
     {
       "name": "Dantsu Flame",
-      "text": "…! Miracle-senpai, look! \nLook how happy we made those kids…!"
+      "text": "…! Miracle-senpai, lihat! Lihat betapa bahagianya anak-anak itu…!"
     },
     {
       "name": "Dantsu Flame",
-      "text": "And… They're so full of energy now!! Helios-senpai, her friends, my friends… Are they all having fun?"
+      "text": "Dan… Mereka penuh semangat sekarang!! Helios-senpai, teman-temannya, teman-temanku… Apa mereka semua juga senang?"
     },
     {
       "name": "K.S. Miracle",
-      "text": "(Yeah… Thank goodness. Thank goodness! This, all of this—— Dantsu, Light O, Durandal. And Kuu-chan…)"
+      "text": "(Iya… Syukurlah. Syukurlah! Ini, semua ini—— Dantsu, Light O, Durandal. Dan Kuu-chan…)"
     },
     {
       "name": "K.S. Miracle",
-      "text": "(All of you… It's all thanks to you guys——)"
+      "text": "(Kalian semua… Semua ini berkat kalian——)"
     },
     {
-      "name": "Event Staff",
-      "text": "Okay, the results are in! The winner of today's Chorus Fest, the team that dazzled their way to the top is——"
+      "name": "Staf Acara",
+      "text": "Oke, hasilnya sudah ada! Pemenang Festival Paduan Suara hari ini, tim yang paling memukau hingga jadi juara adalah——"
     },
     {
-      "name": "Event Staff",
-      "text": "Team Miraclez!! They win the grand prize of an all-expenses-paid group vacation! Let's give them a great big hand!!"
+      "name": "Staf Acara",
+      "text": "Tim Miraclez!! Mereka memenangkan hadiah utama berupa liburan grup dengan semua biaya ditanggung! Mari kita beri tepuk tangan meriah!!"
     },
     {
       "name": "Calstone Light O",
-      "text": "Yes that trip was so fun. My favorite parts were partying at the leisure center and completely destroying Durandal in a pillow fight. Oh so many sweet memories——"
+      "text": "Iya, liburan itu seru banget. Bagian favoritku adalah pesta di pusat rekreasi dan mengalahkan Durandal telak dalam perang bantal. Wah, banyak banget kenangan manis——"
     },
     {
       "name": "Durandal",
-      "text": "Please return to reality, Light O-san! Our trip is not until tomorrow!! And would you kindly refrain from destroying me in your delusions!?"
+      "text": "Tolong kembali ke kenyataan, Light O-san! Liburan kita baru besok!! Dan bisakah kau menahan diri untuk tidak menghancurkanku dalam khayalanmu!?"
     },
     {
       "name": "Dantsu Flame",
-      "text": "W-well, it's okay… For real, though, I can't wait for tomorrow! I'm really excited for our shopping trip together, too～"
+      "text": "Y-ya sudahlah… Tapi serius deh, aku udah gak sabar buat besok! Aku juga excited banget buat belanja bareng nanti~"
     },
     {
       "name": "Hishi Miracle",
-      "text": "For real～♪ …That's why I wanted to spend our lunch break figuring out our shopping lists and where we want to meet up after school, but——"
+      "text": "Iya bener~♪ …Makanya tadi aku mau pakai waktu istirahat makan siang buat nyusun daftar belanja dan tempat ketemuan setelah pulang sekolah, tapi——"
     },
     {
       "name": "Hishi Miracle",
-      "text": "…Kei-chan's kind of late. I took a peek at her class, but I didn't see her… I guess she's got some stuff to do, so I just went ahead and——"
+      "text": "…Kei-chan kok telat ya. Tadi aku intip kelasnya, tapi gak ada… Kayaknya dia ada urusan, jadi aku duluan aja——"
     },
     {
       "name": "Hishi Miracle",
-      "text": "! …Oh. Hello? \nWhat's up, Kei-chan? We're all waiting in the cafeteria——"
+      "text": "! …Oh. Halo? Ada apa, Kei-chan? Kita semua nungguin di kantin——"
     },
     {
       "name": "K.S. Miracle",
-      "text": "Sorry, Kuu-chan. \nI… I can't go on the trip anymore."
+      "text": "Maaf, Kuu-chan. Aku… aku gak bisa ikut liburan."
     },
     {
       "name": "Hishi Miracle",
-      "text": "………Huh?"
+      "text": "………Hah?"
     },
     {
       "name": "K.S. Miracle",
-      "text": "I was feeling kind of weird this morning… \nI just got it checked, and my fever's gotten pretty bad."
+      "text": "Tadi pagi aku ngerasa gak enak badan… Baru aja dicek, dan demamku parah banget."
     },
     {
       "name": "K.S. Miracle",
-      "text": "I don't think I'll be better by tomorrow… \n…Sorry."
+      "text": "Kayaknya besok juga belum sembuh… …Maaf."
     },
     {
       "name": "Hishi Miracle",
-      "text": "Oh, it's all right, you don't need to apologize for this! \nO-okay, so, umm…! Let's just cancel tomorrow! Yeah. \nWe can always go some other time——"
+      "text": "Ih, gak apa-apa, kamu gak perlu minta maaf kayak gini! O-oke, jadi, emm…! Kita batalin aja besok! Iya. Kita bisa pergi lain kali——"
     },
     {
       "name": "Durandal",
-      "text": "…Excuse me, Hishi Miracle-san. \nLoath as I am to say it, I do not believe we can."
+      "text": "…Maaf, Hishi Miracle-san. Aku enggan mengatakannya, tapi kurasa kita tidak bisa."
     },
     {
       "name": "Durandal",
-      "text": "If I recall their explanation, if we cancel our plans for personal reasons, then we cannot apply the same voucher on another date."
+      "text": "Kalau tidak salah penjelasannya, jika kita membatalkan rencana karena alasan pribadi, kita tidak bisa menggunakan voucher yang sama di tanggal lain."
     },
     {
       "name": "Hishi Miracle",
-      "text": "Ngh… Really…? \nUhhhh… Then how about… How about……"
+      "text": "Ngh… Serius…? Uhhhh… Kalau gitu… Kalau gitu……"
     },
     {
       "name": "K.S. Miracle",
-      "text": "It's okay. I'm glad you're being considerate, Kuu-chan. \nBut you don't have to feel sorry for me. I'll be fine."
+      "text": "Gak apa-apa. Aku senang kamu perhatian, Kuu-chan. Tapi kamu gak perlu merasa kasihan sama aku. Aku bakalan baik-baik aja kok."
     },
     {
       "name": "K.S. Miracle",
-      "text": "You guys can go have fun on the trip. \nYou don't need to worry about me. Really."
+      "text": "Kalian pergi aja, bersenang-senang. Kalian gak perlu khawatir tentang aku. Serius."
     },
     {
       "name": "Hishi Miracle",
-      "text": "…… \n……………………"
+      "text": "…… ……………………"
     },
     {
       "name": "K.S. Miracle",
-      "text": "…? \nUh, Kuu-chan——"
+      "text": "…? Eh, Kuu-chan——"
     },
     {
       "name": "Hishi Miracle",
-      "text": "…No, it's not."
+      "text": "…Enggak, ini gak benar."
     },
     {
       "name": "K.S. Miracle",
-      "text": "Huh…?"
+      "text": "Hah…?"
     },
     {
       "name": "Hishi Miracle",
-      "text": "Yeah. I was really looking forward to the trip. \n…I was so excited to go WITH you, Kei-chan."
+      "text": "Iya. Aku beneran nungguin liburan ini. …Aku excited banget buat pergi BERSAMA kamu, Kei-chan."
     },
     {
       "name": "Hishi Miracle",
-      "text": "It's not about being considerate or whatever. \n…I just can't stand this!!"
+      "text": "Ini bukan soal perhatian atau apalah. …Aku gak tahan sama situasi ini!!"
     },
     {
       "name": "K.S. Miracle",
-      "text": "…! \nAh… \n……………Kuu-chan——"
+      "text": "…! Ah… ……………Kuu-chan——"
     }
   ]
 }
