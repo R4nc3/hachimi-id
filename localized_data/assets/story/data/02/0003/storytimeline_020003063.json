@@ -3,52 +3,52 @@
     "text_block_list": [
         {
             "name": "Winning Ticket",
-            "text": "Huh, Trainer-san and Hayahide!",
+            "text": "Hah, Trainer-san dan Hayahide!",
             "choice_data_list": [
-                "It was your best race so far.",
-                "It was your best race so far."
+                "Itu balapan terbaikmu sejauh ini.",
+                "Itu balapan terbaikmu sejauh ini."
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "Hehe～, I even surprised myself! To beat \nthe “Yayoi Prize” record time!"
+            "text": "Hehe～, aku bahkan mengejutkan diriku sendiri! Mengalahkan rekor waktu “Yayoi Prize”!"
         },
         {
             "name": "Winning Ticket",
-            "text": "When I saw Taishin come up, some strength \nwelled up from inside me…"
+            "text": "Saat kulihat Taishin mendekat, ada kekuatan yang mengalir dari dalam diriku…"
         },
         {
             "name": "Winning Ticket",
-            "text": "A rival is a presence that brings out the power \nthat you do not even notice yourself, and Taishin \nwas the one who taught me that, Waaaa!"
+            "text": "Seorang rival adalah kehadiran yang mengeluarkan kekuatan yang bahkan tidak kau sadari sendiri, dan Taishin adalah orang yang mengajariku itu, Waaaa!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Well,I lost… I feel like I had a good race."
+            "text": "Yah, aku kalah… Aku merasa aku menjalani balapan yang bagus."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Geez, It's not fair, both of you. I \nalso wish I could run with you."
+            "text": "Astaga, tidak adil, kalian berdua. Aku juga berharap bisa berlari dengan kalian."
         },
         {
-            "text": "If this goes on, the 3 girls will surely race in their first \nclassic race together at the “SatsukiShou”."
+            "text": "Jika ini terus berlanjut, ketiga gadis itu pasti akan balapan di balapan klasik pertama mereka bersama di “SatsukiShou”."
         },
         {
             "name": "Narita Taishin",
-            "text": "Next time I will make sure I don't lose. No matter how good the \nrace was, there is no point if you don't win."
+            "text": "Lain kali aku akan memastikan aku tidak kalah. Tidak peduli seberapa bagus balapannya, tidak ada gunanya jika kau tidak menang."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "haha, I will also make sure to appear at the “SatsukiShou”. And \nthis time we will run together all 3 of us."
+            "text": "Haha, aku juga akan memastikan untuk tampil di “SatsukiShou”. Dan kali ini kita akan berlari bersama kita bertiga."
         },
         {
             "name": "Winning Ticket",
-            "text": "Yeah! The 3 of us together!"
+            "text": "Ya! Kita bertiga bersama!"
         },
         {
-            "text": "First Rival Showdownー Winning Ticket that ran win her rival \nshowed a bigger smile than ever before."
+            "text": "Konfrontasi Rival Pertama—Winning Ticket yang berlari memenangkan rivalnya menunjukkan senyum yang lebih besar dari sebelumnya."
         },
         {
-            "text": "From now on, the once in a lifetime showdown, the classic front \nbegins and the goal of the Derby is slowly approaching."
+            "text": "Mulai sekarang, pertarungan seumur hidup, garis depan klasik dimulai dan tujuan Derby perlahan mendekat."
         }
     ]
 }

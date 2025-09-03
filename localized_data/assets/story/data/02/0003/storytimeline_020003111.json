@@ -2,10 +2,10 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "“I didn't understand the feelings of those who lost”ー A few days \nhave passed since the day Winning Ticket said those words."
+            "text": "“Aku tidak memahami perasaan mereka yang kalah”—Beberapa hari telah berlalu sejak Winning Ticket mengucapkan kata-kata itu."
         },
         {
-            "text": "She is still training as usual today."
+            "text": "Dia masih berlatih seperti biasa hari ini."
         },
         {
             "name": "Winning Ticket",
@@ -13,140 +13,140 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Ah～. I did everything I could～… Let's take a break!"
+            "text": "Ah～. Aku sudah melakukan semua yang kubisa～… Ayo istirahat!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Why are you running out of power in the preparatory exercise!? \nPlease train properly!"
+            "text": "Kenapa tenagamu habis di latihan pemanasan!? Tolong latihan dengan benar!"
         },
         {
             "name": "Winning Ticket",
             "text": "…"
         },
         {
-            "text": "However, at one point, the figure who was working hard in \ntraining, has not come back yet."
+            "text": "Namun, pada suatu titik, sosok yang bekerja keras dalam latihan, belum kembali."
         },
         {
             "name": "Gold Ship",
-            "text": "Well, there were a lot of cameras around \nthe course, just what was that about?"
+            "text": "Yah, ada banyak kamera di sekitar lapangan, ada apa itu?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "It's the interviewers. Because today is “Public training” day."
+            "text": "Itu para pewawancara. Karena hari ini adalah hari “Latihan Publik”."
         },
         {
             "name": "Gold Ship",
-            "text": "Ah, I see～! Just that I don't know what public training is!"
+            "text": "Ah, begitu～! Cuma aku tidak tahu apa itu latihan publik!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "They always do this when the race gets closer, right? They want \nto look at the state of the team and the staff, and so on."
+            "text": "Mereka selalu melakukan ini saat balapan semakin dekat, kan? Mereka ingin melihat kondisi tim dan staf, dan sebagainya."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Today is Derby's public trainingー So it seems \nthat there are more cameras than usual."
+            "text": "Hari ini adalah latihan publik Derby—Jadi sepertinya ada lebih banyak kamera dari biasanya."
         },
         {
             "name": "Winning Ticket",
-            "text": "I see, it was today."
+            "text": "Begitu, ternyata hari ini."
         },
         {
-            "text": "Public training is also a good opportunity to see the state of \nother runners. Let's also take a close look at the running of \nHayahide and Taishin."
+            "text": "Latihan publik juga merupakan kesempatan bagus untuk melihat kondisi pelari lain. Mari kita juga perhatikan baik-baik lari Hayahide dan Taishin."
         },
         {
-            "text": "Public training is also a good opportunity to see the state of \nother runners. Let's also take a close look at the running of \nHayahide and Taishin."
+            "text": "Latihan publik juga merupakan kesempatan bagus untuk melihat kondisi pelari lain. Mari kita juga perhatikan baik-baik lari Hayahide dan Taishin."
         },
         {
             "name": "Winning Ticket",
-            "text": "Ah, yeah… that's right."
+            "text": "Ah, ya… benar."
         },
         {
-            "text": "Then, the Derby runners were gathered \nand the public training began."
+            "text": "Kemudian, para pelari Derby berkumpul dan latihan publik dimulai."
         },
         {
             "name": "Reporter A",
-            "text": "All attention is on the 3 girls of “BNW”. I especially expect \nmuch from Narita Taishin, who won the “SatsukiShou”."
+            "text": "Semua perhatian tertuju pada ketiga gadis “BNW”. Aku secara khusus sangat berharap pada Narita Taishin, yang memenangkan “SatsukiShou”."
         },
         {
             "name": "Reporter B",
-            "text": "Even Biwa Hayahide said, she won't lose. \nI think she will get even better here."
+            "text": "Bahkan Biwa Hayahide bilang, dia tidak akan kalah. Aku pikir dia akan menjadi lebih baik di sini."
         },
         {
-            "text": "Then, the Derby runners gathered and the public training began."
+            "text": "Kemudian, para pelari Derby berkumpul dan latihan publik dimulai."
         },
         {
             "name": "Reporter A",
-            "text": "Now, next up is Winning Ticket."
+            "text": "Nah, selanjutnya adalah Winning Ticket."
         },
         {
-            "text": "However, Winning Ticket did not come running. At that time I was \nworried that something happenedー"
+            "text": "Namun, Winning Ticket tidak datang berlari. Saat itu aku khawatir sesuatu terjadi—"
         },
         {
             "name": "Narita Taishin",
-            "text": "Trainer, have you seen Ticket?"
+            "text": "Trainer, apa kau melihat Ticket?"
         },
         {
-            "text": "I didn't see her… just like you we were \nheading to the public training…"
+            "text": "Aku tidak melihatnya… sama seperti kalian kami menuju latihan publik…"
         },
         {
-            "text": "I didn't see her… just like you we were \nheading to the public training…"
+            "text": "Aku tidak melihatnya… sama seperti kalian kami menuju latihan publik…"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "The thing is she is not here. Even when it was her turn to run, \nshe didn't even come to the starting point.",
+            "text": "Masalahnya dia tidak ada di sini. Bahkan ketika gilirannya untuk berlari, dia bahkan tidak datang ke titik awal.",
             "choice_data_list": [
-                "What does that mean…?",
-                "What does that mean…?"
+                "Apa maksudnya…?",
+                "Apa maksudnya…?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I see, so even you Trainer don't know anything."
+            "text": "Begitu, jadi bahkan kau Trainer tidak tahu apa-apa."
         },
         {
             "name": "Narita Taishin",
-            "text": "This girl, don't tell me…!"
+            "text": "Gadis ini, jangan-jangan…!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oh, hey! Taishin!"
+            "text": "Oh, hei! Taishin!"
         },
         {
-            "text": "Narita Taishin and Biwa Hayahide ran away. They seemed to have \nrealized something, so I followed them desperately."
+            "text": "Narita Taishin dan Biwa Hayahide berlari pergi. Mereka sepertinya menyadari sesuatu, jadi aku mengikuti mereka dengan gigih."
         },
         {
-            "text": "Not long after I caught up with both Horse Girls who I lost, andー"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "What are you doing, Ticket…!"
-        },
-        {
-            "text": "When I ran to where Narita Taishin's voice was, there was Biwa \nHayahide and Winning Ticket beside her."
+            "text": "Tidak lama setelah aku menyusul kedua *Horse Girl* yang kutinggalkan, dan—"
         },
         {
             "name": "Narita Taishin",
-            "text": "This public training is a step for the Derby right!? Why are you \nnot running in it!? What are you running away from!?"
+            "text": "Apa yang kau lakukan, Ticket…!"
+        },
+        {
+            "text": "Ketika aku berlari ke tempat suara Narita Taishin berasal, ada Biwa Hayahide dan Winning Ticket di sampingnya."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Latihan publik ini adalah langkah untuk Derby kan!? Kenapa kau tidak berlari di dalamnya!? Kau lari dari apa!?"
         },
         {
             "name": "Winning Ticket",
-            "text": "Sorry… I didn't mean to run away."
+            "text": "Maaf… Aku tidak bermaksud lari."
         },
         {
             "name": "Winning Ticket",
-            "text": "But, my legs won't move…"
+            "text": "Tapi, kakiku tidak mau bergerak…"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Injury… is not what it seems."
+            "text": "Cedera… bukan itu masalahnya."
         },
         {
             "name": "Winning Ticket",
-            "text": "I'm scared. If I run in public training, \nand look inferior to everyone, I …"
+            "text": "Aku takut. Kalau aku berlari di latihan publik, dan terlihat inferior dibandingkan semua orang, aku…"
         },
         {
             "name": "Narita Taishin",
-            "text": "Have you been thinking about that ever \nsince you lost the “SatsukiShou”?"
+            "text": "Apa kau sudah memikirkan itu sejak kau kalah di “SatsukiShou”?"
         },
         {
             "name": "Winning Ticket",
@@ -154,82 +154,82 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Don't screw around!"
+            "text": "Jangan bercanda!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Why are you scared after losing once!? Why \ndon't you think about winning next time!?"
+            "text": "Kenapa kau takut setelah kalah sekali!? Kenapa kau tidak memikirkan untuk menang lain kali!?"
         },
         {
             "name": "Narita Taishin",
-            "text": "I've lost so many times too, after all I was afraid to know that \nI do not have any abilities!"
+            "text": "Aku juga sudah kalah berkali-kali, bagaimanapun juga aku takut mengetahui bahwa aku tidak punya kemampuan apa pun!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Still… I've been trying hard to endure the fear! Because I'm in a \npair with you and Hayahide…!"
+            "text": "Tetap saja… Aku sudah berusaha keras untuk menahan rasa takut itu! Karena aku berpasangan denganmu dan Hayahide…!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Enough! Damn it!"
+            "text": "Cukup! Sialan!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You're not the only one who's afraid of losing. Still, I continue \nto challenge myself."
+            "text": "Bukan hanya kau yang takut kalah. Tetap saja, aku terus menantang diriku sendiri."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "We won't say anything anymore. You \nhave to sort out your feelings."
+            "text": "Kami tidak akan mengatakan apa-apa lagi. Kau harus menata perasaanmu."
         },
         {
             "name": "Winning Ticket",
             "text": "…"
         },
         {
-            "text": "Winning Ticket stared silently at the \nback of her friend who was leaving."
+            "text": "Winning Ticket menatap diam-diam punggung temannya yang pergi."
         },
         {
             "name": "Winning Ticket",
-            "text": "Me too, I didn't think that I would be this scared."
+            "text": "Aku juga, aku tidak menyangka aku akan segugup ini."
         },
         {
             "name": "Winning Ticket",
-            "text": "There's only 1 Deby… In the Derby… There's no next time."
+            "text": "Hanya ada 1 Derby… Di Derby… Tidak ada lain kali."
         },
         {
-            "text": "At night, I was alone thinking about Winning \nTicket in the training room."
+            "text": "Malam itu, aku sendirian memikirkan Winning Ticket di ruang latihan."
         },
         {
-            "text": "The Derby, she first saw in front of her \nwhen she was a child, became her dream."
+            "text": "Derby, yang pertama kali dia lihat di depannya saat kecil, menjadi impiannya."
         },
         {
-            "text": "I longed for a dream, and kept working hard at the gate of the \nschool with expectations in my heartー"
+            "text": "Aku mendambakan impian, dan terus bekerja keras di gerbang sekolah dengan harapan di hati—"
         },
         {
-            "text": "Since she began pursuing her dream, she has accumulated a strong \ndesire to win the Derby, more than anyone elseー"
+            "text": "Sejak dia mulai mengejar impiannya, dia telah mengumpulkan keinginan kuat untuk memenangkan Derby, lebih dari siapa pun—"
         },
         {
-            "text": "That's why now that she has been conscious of losing, she came to \nrealize the reality that her dream may break."
+            "text": "Itulah mengapa sekarang setelah dia menyadari kekalahan, dia mulai menyadari kenyataan bahwa impiannya mungkin hancur."
         },
         {
-            "text": "ーThen, I took Winning Ticket's Derby \nnote which was placed on the desk."
+            "text": "—Kemudian, aku mengambil catatan Derby Winning Ticket yang diletakkan di meja."
         },
         {
-            "text": "A photo print of 3 girls aiming for \nthe Derby together. Below it wasー"
+            "text": "Foto cetak 3 gadis mengincar Derby bersama. Di bawahnya tertulis—"
         },
         {
-            "text": "It was accompanied with “Come on, me! Derby \nHorse Girl in just a little more!”"
+            "text": "Itu disertai dengan “Ayo, aku! *Derby Horse Girl* tinggal sedikit lagi!”"
         },
         {
-            "text": "The words of Winning Ticket when she was longing for her dream \nbefore she was still conscious of the fear of losing…"
+            "text": "Kata-kata Winning Ticket saat dia mendambakan impiannya sebelum dia masih menyadari ketakutan akan kekalahan…"
         },
         {
-            "text": "ーI want you to win, I want to let you carry your dreams…"
+            "text": "—Aku ingin kau menang, aku ingin membiarkanmu membawa impianmu…"
         },
         {
-            "text": "It is my job as a trainer to support her \nand help her achieve her dreams."
+            "text": "Tugasku sebagai *trainer* adalah mendukungnya dan membantunya mencapai impiannya."
         },
         {
-            "text": "I will carve the name Winning Ticket that becomes the Derby Horse \nGirl and the name of myself who becomes the Derby Trainer…!"
+            "text": "Aku akan mengukir nama Winning Ticket yang menjadi *Derby Horse Girl* dan namaku sendiri yang menjadi *Derby Trainer*…!"
         }
     ]
 }
