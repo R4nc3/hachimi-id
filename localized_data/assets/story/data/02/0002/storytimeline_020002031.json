@@ -3,241 +3,253 @@
     "text_block_list": [
         {
             "name": "Commentator",
-            "text": "Mihono Bourbon, got 4 body lengths between her and the rear! this \nwill probably make her win!"
+            "text": "Mihono Bourbon, unggul 4 panjang badan dari belakang! Ini kemungkinan besar akan membuatnya menang!"
         },
         {
             "name": "Commentator",
-            "text": "Mihono Bourbon!! Even at 2400m, Goal! 6 races, 6 wins! It is an \nundefeated and double crown achievement!!"
+            "text": "Mihono Bourbon!! Bahkan di jarak 2400m, Goal! 6 balapan, 6 kemenangan! Ini adalah pencapaian tak terkalahkan dan *double crown*!!"
         },
         {
-            "text": "Japan Derby, Rice Shower got second place. Although \nshe was unable to stand up to Mihono Bourbon, \nshe made a great leap forward."
+            "text": "Japan Derby, Rice Shower menempati posisi kedua. Meskipun dia tidak mampu mengalahkan Mihono Bourbon, dia membuat lompatan besar."
         },
         {
-            "text": "A few days later, there was an Amusement park in Kanba prefecture"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Wow! This is that amusement park! There are castles where \nprincesses live, and a big Kaminari mountain!"
-        },
-        {
-            "text": "(I thought I'd give you a reward for your hard work, Rice Shower, \nI thought about taking you to the amusement park that you seemed \nto have longed for)."
+            "text": "Beberapa hari kemudian, ada taman hiburan di prefektur Kanba."
         },
         {
             "name": "Rice Shower",
-            "text": "Huh? Only Rice and the others, oh, I'm so happy."
+            "text": "Wow! Ini taman hiburan itu! Ada kastil tempat putri-putri tinggal, dan gunung Kaminari yang besar!"
+        },
+        {
+            "text": "(Aku pikir aku akan memberimu hadiah atas kerja kerasmu, Rice Shower, aku berpikir untuk membawamu ke taman hiburan yang tampaknya kau impikan)."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hah? Hanya Rice dan yang lain, oh, aku sangat senang."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Trainer-san, Rice-san really believes that \nthis is a fantasy amusement park."
+            "text": "Trainer-san, Rice-san benar-benar percaya ini adalah taman hiburan fantasi."
         },
         {
-            "text": "Rice Shower's eyes are shining sideways, “I don't know what to do \nwith it”, McQueen said softly."
+            "text": "Mata Rice Shower berbinar ke samping, 'Aku tidak tahu harus berbuat apa dengan ini', McQueen berkata pelan."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I don't know how much you're getting paid this month, so how \nabout instead coming to another amusement park?"
+            "text": "Aku tidak tahu berapa gajimu bulan ini, jadi bagaimana kalau kita pergi ke taman hiburan lain saja?"
         },
         {
-            "text": "Well, that's…."
+            "text": "Yah, itu…."
         },
         {
-            "text": "Well, that's…."
+            "text": "Yah, itu…."
         },
         {
             "name": "Gold Ship",
-            "text": "Come on, McQueen! there's a mysterious attraction in the \nbasement, so let's go find out the truth!"
+            "text": "Ayo, McQueen! Ada atraksi misterius di *basement*, jadi mari kita cari tahu kebenarannya!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Hey! This is a private entrance!?"
+            "text": "Hei! Ini pintu masuk pribadi!?"
         },
         {
             "name": "Rice Shower",
-            "text": "Rice, let's go, Trainer-san."
+            "text": "Rice, ayo pergi, Trainer-san."
         },
         {
-            "text": "Oh, yeah."
+            "text": "Oh, ya."
         },
         {
-            "text": "This is fun, the time at the amusement \npark passed in the blink of an eye."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I got on most of the rides. I'm glad \nthere aren't many customers today."
-        },
-        {
-            "text": "Every time Rice Shower is in pure joy, \nI feel a bit guilty about it."
+            "text": "Ini menyenangkan, waktu di taman hiburan berlalu dalam sekejap mata."
         },
         {
             "name": "Rice Shower",
-            "text": "Oh, you know, Trainar-san."
+            "text": "Aku sudah naik sebagian besar wahana. Aku senang hari ini tidak banyak pengunjung."
+        },
+        {
+            "text": "Setiap kali Rice Shower begitu bahagia, aku merasa sedikit bersalah."
         },
         {
             "name": "Rice Shower",
-            "text": "I want to finally ride on the ferris \nwheel, so can you ride with me?"
+            "text": "Oh, tahu tidak, Trainer-san."
         },
         {
-            "text": "(It's not a reason to blame your conscience. If Rice Shower is \npleased then that is all that matters).",
+            "name": "Rice Shower",
+            "text": "Aku ingin akhirnya naik bianglala, jadi bisakah Anda naik bersamaku?"
+        },
+        {
+            "text": "(Bukan alasan untuk menyalahkan hati nuranimu. Jika Rice Shower senang, itu saja yang penting)."
+        },
+        {
             "choice_data_list": [
-                "Of course, it's okay."
-            ]
+                "Tentu saja, tidak masalah."
+            ],
+            "text": "Tentu saja, tidak masalah."
         },
         {
             "name": "Rice Shower",
-            "text": "hehe…. I did it."
+            "text": "Hehe…. Berhasil."
         },
         {
-            "text": "The view from the gondola with 2 people, the sun-drenched streets \nof the city are spreading to the horizon."
+            "text": "Pemandangan dari gondola dengan 2 orang, jalanan kota yang bermandikan matahari terhampar hingga ke cakrawala."
         },
         {
             "name": "Rice Shower",
             "text": "……."
         },
         {
-            "text": "However, Rice Shower after getting on \nthe Ferris Wheel got a bit bashful.",
+            "text": "Namun, Rice Shower setelah naik Bianglala menjadi sedikit malu."
+        },
+        {
             "choice_data_list": [
-                "What's wrong?"
-            ]
+                "Ada apa?"
+            ],
+            "text": "Ada apa?"
         },
         {
             "name": "Rice Shower",
-            "text": "oh… yeah, you see."
+            "text": "Oh… ya, begini."
         },
         {
             "name": "Rice Shower",
-            "text": "Thank you for all this time, Trainer-san, \ni never thought I could run like this."
+            "text": "Terima kasih selama ini, Trainer-san, aku tidak pernah menyangka bisa berlari seperti ini."
         },
         {
             "name": "Rice Shower",
-            "text": "I still can't believe it, in the Derby I got second place.",
+            "text": "Aku masih tidak percaya, di Derby aku menempati posisi kedua."
+        },
+        {
             "choice_data_list": [
-                "Rice did her best.",
-                "Rice did her best."
-            ]
+                "Rice sudah melakukan yang terbaik.",
+                "Rice sudah melakukan yang terbaik."
+            ],
+            "text": "Rice sudah melakukan yang terbaik."
         },
         {
             "name": "Rice Shower",
-            "text": "hehe…."
+            "text": "Hehe…."
         },
         {
             "name": "Rice Shower",
-            "text": "So Rice thought. I was happy with second \nplace, but if I could get first place…"
+            "text": "Jadi Rice berpikir. Aku senang dengan posisi kedua, tapi jika aku bisa mendapatkan posisi pertama…"
         },
         {
             "name": "Rice Shower",
-            "text": "So…. Rice wants to win over Mihono Bourbon-san."
+            "text": "Jadi…. Rice ingin mengalahkan Mihono Bourbon-san."
         },
         {
-            "text": "“I want to win”――"
+            "text": "'Aku ingin menang'――"
         },
         {
-            "text": "Every time the difference between her and an extraordinary Horse \nGirl is reduced, the feeling of victory that she has hidden in it \nhas gotten this far already."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "It was thanks to Trainer-san that I always felt like I wanted to \nwin over someone like this, so I just wanted to tell you."
+            "text": "Setiap kali perbedaan antara dia dan *Horse Girl* yang luar biasa itu berkurang, perasaan ingin menang yang tersembunyi di dalamnya sudah sampai sejauh ini."
         },
         {
             "name": "Rice Shower",
-            "text": "Well, somehow, when I say it out of my \nmouth like this, it's embarrassing."
-        },
-        {
-            "text": "Sure, that's how confident I am. Next time we will win first \nplace, we will win over Mihono Bourbon, together."
-        },
-        {
-            "text": "Sure, that's how confident I am. Next time we will win first \nplace, we will win over Mihono Bourbon, together."
+            "text": "Berkat Trainer-san lah aku selalu merasa ingin mengalahkan seseorang seperti ini, jadi aku hanya ingin memberitahumu."
         },
         {
             "name": "Rice Shower",
-            "text": "Together…. yeah, I'm looking forward to working with you."
+            "text": "Yah, entah kenapa, saat aku mengatakannya seperti ini, rasanya memalukan."
+        },
+        {
+            "text": "Tentu, begitulah kepercayaan diriku. Lain kali kita akan memenangkan posisi pertama, kita akan mengalahkan Mihono Bourbon, bersama-sama."
+        },
+        {
+            "text": "Tentu, begitulah kepercayaan diriku. Lain kali kita akan memenangkan posisi pertama, kita akan mengalahkan Mihono Bourbon, bersama-sama."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Bersama…. ya, aku menantikan untuk bekerja denganmu."
         },
         {
             "name": "Gold Ship",
-            "text": "Yaa, I played! I played! Rice, have you enjoyed yourself?"
+            "text": "Yaa, aku main! Aku main! Rice, apa kau bersenang-senang?"
         },
         {
             "name": "Rice Shower",
-            "text": "Yeah, it was fun, like a real utopia."
+            "text": "Ya, menyenangkan, seperti utopia sungguhan."
         },
         {
             "name": "Rice Shower",
-            "text": "Trainer-san, thanks for the reward today. \nRice, will do her best next time!",
+            "text": "Trainer-san, terima kasih untuk hadiah hari ini. Rice, akan melakukan yang terbaik lain kali!"
+        },
+        {
             "choice_data_list": [
-                "I'll do everything I can to support you.",
-                "I'll do everything I can to support you."
-            ]
+                "Aku akan melakukan segalanya untuk mendukungmu.",
+                "Aku akan melakukan segalanya untuk mendukungmu."
+            ],
+            "text": "Aku akan melakukan segalanya untuk mendukungmu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "As far as I can see from Rice's face, it seems that this reward \nwas the right choice."
+            "text": "Sejauh yang kulihat dari wajah Rice, sepertinya hadiah ini adalah pilihan yang tepat."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "But next time, I'll ask for a proper reward."
+            "text": "Tapi lain kali, aku akan meminta hadiah yang layak."
         },
         {
-            "text": "Yes, yes"
+            "text": "Ya, ya."
         },
         {
-            "text": "The next day, the training of Rice Shower, \nwhich was determined again, began."
+            "text": "Keesokan harinya, latihan Rice Shower, yang kembali ditentukan, dimulai."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "heh, heh, heh, heh, heh…."
+            "text": "Heh, heh, heh, heh, heh…."
         },
         {
             "name": "Rice Shower",
-            "text": "Follow, Follow…"
+            "text": "Ikuti, Ikuti…"
         },
         {
             "name": "Gold Ship",
-            "text": "huh―, She's sticking, she's sticking."
+            "text": "Hah―, Dia menempel, dia menempel."
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
-            "text": "Even if McQueen's pace is up, She is still holding on."
+            "text": "Bahkan jika kecepatan McQueen meningkat, dia masih bertahan."
         },
         {
-            "text": "Whether you're studying or running, setting goals makes it easier \nfor you to perform at your best."
+            "text": "Baik saat belajar atau berlari, menetapkan tujuan akan membuatmu lebih mudah tampil maksimal."
         },
         {
-            "text": "Whether you're studying or running, setting goals makes it easier \nfor you to perform at your best."
+            "text": "Baik saat belajar atau berlari, menetapkan tujuan akan membuatmu lebih mudah tampil maksimal."
         },
         {
-            "text": "Especially in Rice's case, it seems effective."
+            "text": "Terutama dalam kasus Rice, ini tampaknya efektif."
         },
         {
-            "text": "Especially in Rice's case, it seems effective."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "What are you aiming for, McQueen? or Mihono Bourbon?"
-        },
-        {
-            "text": "Everything. Rice has an obsession to keep chasing, to never give \nup when she decides on something."
-        },
-        {
-            "text": "Everything. Rice has an obsession to keep chasing, to never give \nup when she decides on something."
+            "text": "Terutama dalam kasus Rice, ini tampaknya efektif."
         },
         {
             "name": "Gold Ship",
-            "text": "Huh, I see."
+            "text": "Apa yang kau targetkan, McQueen? Atau Mihono Bourbon?"
         },
         {
-            "text": "If we continue at this pace, we can expect a better win than ever \nin the next race, which is a rematch against Mihono Bourbon."
+            "text": "Semuanya. Rice memiliki obsesi untuk terus mengejar, tidak pernah menyerah ketika dia memutuskan sesuatu."
         },
         {
-            "text": "In addition for Mejiro McQueen, who is waiting for the \n“Takarazuka Memorial”, this is going to be a good workout."
+            "text": "Semuanya. Rice memiliki obsesi untuk terus mengejar, tidak pernah menyerah ketika dia memutuskan sesuatu."
         },
         {
-            "text": "The feeling of the team is rising thanks \nto Rice Shower, I thought so."
+            "name": "Gold Ship",
+            "text": "Hah, begitu."
+        },
+        {
+            "text": "Jika kita terus dengan kecepatan ini, kita bisa mengharapkan kemenangan yang lebih baik dari sebelumnya di balapan berikutnya, yaitu pertandingan ulang melawan Mihono Bourbon."
+        },
+        {
+            "text": "Selain itu untuk Mejiro McQueen, yang sedang menunggu 'Takarazuka Memorial', ini akan menjadi latihan yang bagus."
+        },
+        {
+            "text": "Semangat tim meningkat berkat Rice Shower, pikirku begitu."
         },
         {
             "name": "Rice Shower",
             "text": "McQueen-san!?"
         },
         {
-            "text": "The screams of Rice Shower echoed through the training course……"
+            "text": "Teriakan Rice Shower bergema di jalur latihan……"
         }
     ]
 }

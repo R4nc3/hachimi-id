@@ -3,213 +3,231 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "My 3 win streak in the “Emperor Award”. Rice also."
+            "text": "Rentetan 3 kemenangan beruntunku di “Emperor Award”. Rice juga."
         },
         {
-            "text": "Rice for “Emperor Award”?"
+            "text": "Rice untuk “Emperor Award”?"
         },
         {
-            "text": "The “Emperor Award” which was a goal for Mejiro McQueen, Just \nwhat is her aim to make Rice Shower run there?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "The booing at the (Kikkashou Award)…"
+            "text": "“Emperor Award” yang merupakan tujuan Mejiro McQueen. Sebenarnya apa tujuannya membuat Rice Shower berlari di sana?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Even though it was a scene that should be praised for blocking \nBourbon's Triple Crown, it was if the voice was the opposite."
+            "text": "Sorakan *boo* di (Kikkashou Award)…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "And coincidentally, a situation similar to the (Kikkashou Award) \nhappens in “Emperor Award”.",
+            "text": "Meskipun itu adalah adegan yang seharusnya dipuji karena menghalangi *Triple Crown* Bourbon, suara yang terdengar justru kebalikannya."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Dan kebetulan, situasi yang mirip dengan (Kikkashou Award) terjadi di “Emperor Award”."
+        },
+        {
             "choice_data_list": [
-                "And then I put Rice in that race."
-            ]
+                "Dan kemudian aku memasukkan Rice ke balapan itu."
+            ],
+            "text": "Dan kemudian aku memasukkan Rice ke balapan itu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "There is a “scenery” that I want to show Rice there."
+            "text": "Ada sebuah “pemandangan” yang ingin kutunjukkan pada Rice di sana."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I will be responsible for the things that can only be told to \nthose who run on the turf."
+            "text": "Aku akan bertanggung jawab atas hal-hal yang hanya bisa diceritakan kepada mereka yang berlari di lintasan rumput."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Trainer-san, Because you are a Trainer you can do it, raise \nRice's level to the stage of the “Emperor Award”."
+            "text": "Trainer-san, karena kau seorang Trainer, kau bisa melakukannya, tingkatkan level Rice ke panggung “Emperor Award”."
         },
         {
-            "text": "It's a big race for Mejiro McQueen."
+            "text": "Ini balapan besar bagi Mejiro McQueen."
         },
         {
-            "text": "To make Rice Shower run there, I think it was after a long time \nof thinking and agonizing."
+            "text": "Untuk membuat Rice Shower berlari di sana, kurasa itu setelah berpikir dan bergumul dalam waktu lama."
         },
         {
-            "text": "But, I wonder if it is a really good idea. I keep \njust thinking of Rice Shower. But, If Mejiro McQueen \nis not able to run with all her might…",
+            "text": "Tapi, apa itu benar-benar ide yang bagus? Aku terus memikirkan Rice Shower. Tapi, jika Mejiro McQueen tidak bisa berlari dengan segenap kekuatannya…"
+        },
+        {
             "choice_data_list": [
-                "It's a race that takes your chance at \na 3 consecutive wins, is it okay?",
-                "It's a race that takes your chance at \na 3 consecutive wins, is it okay?"
-            ]
+                "Itu balapan yang mempertaruhkan kesempatanmu untuk 3 kemenangan berturut-turut, apa tidak apa-apa?",
+                "Itu balapan yang mempertaruhkan kesempatanmu untuk 3 kemenangan berturut-turut, apa tidak apa-apa?"
+            ],
+            "text": "Itu balapan yang mempertaruhkan kesempatanmu untuk 3 kemenangan berturut-turut, apa tidak apa-apa?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "hehe, Trainer-san thinks I'm going to lose. I'm really hurt."
+            "text": "Hehe, Trainer-san pikir aku akan kalah. Aku benar-benar sakit hati."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I will say, I have no intention of losing. As the \nhorse Girl of the Mejiro family, I will achieve \nthe “Emperor Award” 3 consecutive wins."
+            "text": "Aku akan bilang, aku tidak punya niat untuk kalah. Sebagai *horse girl* dari keluarga Mejiro, aku akan meraih 3 kemenangan berturut-turut di “Emperor Award”."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Trainer-san will have it tough. No matter which one wins, you \nhave to comfort the other."
+            "text": "Trainer-san akan kesulitan. Tidak peduli siapa yang menang, kau harus menghibur yang lain."
         },
         {
-            "text": "Mejiro McQueen laughs with a grin, but her desire to win the \n“Emperor Award” is real."
+            "text": "Mejiro McQueen tertawa dengan seringai, tapi keinginannya untuk memenangkan “Emperor Award” itu nyata."
         },
         {
-            "text": "Even so, if you have a feeling you want to \nconvey to Rice Shower with your run.",
+            "text": "Meskipun begitu, jika kau punya perasaan yang ingin kau sampaikan kepada Rice Shower dengan larimu."
+        },
+        {
             "choice_data_list": [
-                "I'll have Rice run out, too",
-                "I'll have Rice run out, too"
-            ]
+                "Aku akan menyuruh Rice berlari juga",
+                "Aku akan menyuruh Rice berlari juga"
+            ],
+            "text": "Aku akan menyuruh Rice berlari juga."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "yeah, thank you for your help."
+            "text": "Ya, terima kasih atas bantuanmu."
         },
         {
-            "text": "During training the next day――"
+            "text": "Saat latihan keesokan harinya――"
         },
         {
             "name": "Rice Shower",
-            "text": "he… he… Um, How was my time?"
+            "text": "He… he… Um, Bagaimana waktuku?"
         },
         {
-            "text": "The time is not that bad. However, when it comes to competition, \nyou can't win by all means."
+            "text": "Waktunya tidak terlalu buruk. Namun, dalam hal kompetisi, kau tidak bisa menang dengan cara apa pun."
         },
         {
-            "text": "After all, the booing at the (Kikkashou Award), it seems that \nthey have consigned themselves to competing and winning."
+            "text": "Bagaimanapun, sorakan *boo* di (Kikkashou Award), sepertinya mereka sudah pasrah untuk bersaing dan menang."
         },
         {
-            "text": "It's a good time. If this is the case, it looks like we can win \neven on that big stage."
+            "text": "Waktu yang bagus. Jika begini, sepertinya kita bisa menang bahkan di panggung besar itu."
         },
         {
-            "text": "It's a good time. If this is the case, it looks like we can win \neven on that big stage."
+            "text": "Waktu yang bagus. Jika begini, sepertinya kita bisa menang bahkan di panggung besar itu."
         },
         {
             "name": "Rice Shower",
-            "text": "Big stage…. Is Rice's next race decided?"
+            "text": "Panggung besar…. Apa balapan Rice selanjutnya sudah diputuskan?"
         },
         {
-            "text": "I have decided, but Rice Shower will surely \nrefuse. Still, if she wants to win again―",
+            "text": "Aku sudah memutuskan, tapi Rice Shower pasti akan menolak. Tetap saja, jika dia ingin menang lagi―"
+        },
+        {
             "choice_data_list": [
-                "I want you to appear in the “Emperor Award”.",
-                "I want you to appear in the “Emperor Award”."
-            ]
+                "Aku ingin kau tampil di “Emperor Award”.",
+                "Aku ingin kau tampil di “Emperor Award”."
+            ],
+            "text": "Aku ingin kau tampil di “Emperor Award”."
         },
         {
             "name": "Rice Shower",
-            "text": "heh, “Emperor Award”!?"
+            "text": "Heh, “Emperor Award”!?"
         },
         {
-            "text": "Rice has the ability to win. It has already \nbeen proven in the (Kikkashou Award)."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "But, “Emperor Award” for McQueen-san \nthis will be her 3 concuetive win."
+            "text": "Rice punya kemampuan untuk menang. Itu sudah terbukti di (Kikkashou Award)."
         },
         {
             "name": "Rice Shower",
-            "text": "In such an important race, Rice can't run \nin it. Even if I win, Again Rice will…"
+            "text": "Tapi, “Emperor Award” untuk McQueen-san ini akan menjadi kemenangan 3 kali berturut-turutnya."
         },
         {
-            "text": "What I said so far, as I see Rice Shower's face down. It was as \nif I could hear the boos of that time."
+            "name": "Rice Shower",
+            "text": "Di balapan sepenting itu, Rice tidak bisa berlari. Bahkan jika aku menang, lagi-lagi Rice akan…"
         },
         {
-            "text": "In the end, Rice Shower did not give the okay about running for \nthe “Emperor Award”."
+            "text": "Apa yang kukatakan sejauh ini, saat kulihat wajah Rice Shower menunduk. Seolah aku bisa mendengar sorakan *boo* waktu itu."
         },
         {
-            "text": "Considering Rice Shower's feelings. I do not want to force her to \nrun. But, I can't let it go like this…"
+            "text": "Pada akhirnya, Rice Shower tidak memberikan persetujuan untuk berlari di “Emperor Award”."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Rice-san's Trainer?"
-        },
-        {
-            "text": "It was the voice of Mihono Bourbon who \nwas working hard on her own training."
-        },
-        {
-            "text": "Hey, Bourbon, are you doing Self-training?"
-        },
-        {
-            "text": "Hey, Bourbon, are you doing Self-training?"
+            "text": "Mempertimbangkan perasaan Rice Shower. Aku tidak ingin memaksanya berlari. Tapi, aku tidak bisa membiarkannya begitu saja…"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Yes, the injury I suffered after the (Kikkashou \nAward). was finally healed."
+            "text": "Trainer-nya Rice-san?"
+        },
+        {
+            "text": "Itu suara Mihono Bourbon yang sedang berlatih keras sendirian."
+        },
+        {
+            "text": "Hei, Bourbon, apa kau sedang latihan mandiri?"
+        },
+        {
+            "text": "Hei, Bourbon, apa kau sedang latihan mandiri?"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "How is Rice-san doing? Is she still caring about that day?"
+            "text": "Ya, cedera yang kualami setelah (Kikkashou Award) akhirnya sembuh."
         },
         {
-            "text": "That day, I was watching Rice Shower receiving boos \nupon getting first place. But now what I was looking \nat was Mihono Bourbon, nothing else."
+            "name": "Mihono Bourbon",
+            "text": "Bagaimana kabar Rice-san? Apa dia masih memikirkan hari itu?"
         },
         {
-            "text": "She may be the one who cares about Rice \nShower more than anyone else.",
+            "text": "Hari itu, aku melihat Rice Shower menerima sorakan *boo* setelah meraih juara pertama. Tapi sekarang yang kulihat adalah Mihono Bourbon, tidak ada yang lain."
+        },
+        {
+            "text": "Dia mungkin orang yang paling peduli pada Rice Shower lebih dari siapa pun."
+        },
+        {
             "choice_data_list": [
-                "Rice hasn't recovered yet.",
-                "Rice hasn't recovered yet."
-            ]
+                "Rice belum pulih.",
+                "Rice belum pulih."
+            ],
+            "text": "Rice belum pulih."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I see…"
+            "text": "Begitu…"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "The reason I am doing this self-training is not for the command \nof “Victory”, but I am doing it for myself."
+            "text": "Alasan aku melakukan latihan mandiri ini bukan karena perintah “Kemenangan”, tapi aku melakukannya untuk diriku sendiri."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "“I want to run and I can't help it” It became such a thought \nafter losing to Rice."
+            "text": "“Aku ingin berlari dan aku tidak bisa menahannya” Pikiran seperti itu muncul setelah kalah dari Rice."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I want to run 1 more time with Rice, and I want to win. This \nself-training is directed for that purpose."
+            "text": "Aku ingin berlari sekali lagi dengan Rice, dan aku ingin menang. Latihan mandiri ini diarahkan untuk tujuan itu."
         },
         {
-            "text": "To the Horse Girl Mihono Bourbon, Rice Shower \nwas the first girl to win over her."
+            "text": "Bagi *Horse Girl* Mihono Bourbon, Rice Shower adalah gadis pertama yang mengalahkannya."
         },
         {
-            "text": "She wants to run one more time with that opponent, \nand is working hard on training."
+            "text": "Dia ingin berlari sekali lagi dengan lawan itu, dan sedang berlatih keras."
         },
         {
-            "text": "The former Rice Shower and the present Mihono \nBourbon are similar. The way you work hard for \nthe opponent you want to win against."
+            "text": "Rice Shower yang dulu dan Mihono Bourbon yang sekarang mirip. Cara kalian bekerja keras untuk lawan yang ingin kalian kalahkan."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Is there anything I can do to help? I \nwant to run with Rice 1 more time."
+            "text": "Apa ada yang bisa kubantu? Aku ingin berlari dengan Rice 1 kali lagi."
         },
         {
             "text": "Bourbon…"
         },
         {
-            "text": "“I want to win” Rice Shower has lost sight of her true feelings. \n“I want to win” Mihono Bourbon's newborn feelings."
+            "text": "“Aku ingin menang” Rice Shower telah kehilangan perasaan sejatinya. “Aku ingin menang” perasaan baru Mihono Bourbon."
         },
         {
-            "text": "If you look at Rice Shower within Mihono Bourbon now.",
+            "text": "Jika kau melihat Rice Shower dalam diri Mihono Bourbon sekarang."
+        },
+        {
             "choice_data_list": [
-                "I need your assistance.",
-                "I need your assistance."
-            ]
+                "Aku butuh bantuanmu.",
+                "Aku butuh bantuanmu."
+            ],
+            "text": "Aku butuh bantuanmu."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I understand. Say the command, I will carry out your wishes."
+            "text": "Aku mengerti. Katakan perintahnya, aku akan melaksanakan keinginanmu."
         },
         {
-            "text": "Saying so, Mihono Bourbon with a soft \nexpression felt very reassuring."
+            "text": "Mengatakan begitu, Mihono Bourbon dengan ekspresi lembut terasa sangat meyakinkan."
         }
     ]
 }
