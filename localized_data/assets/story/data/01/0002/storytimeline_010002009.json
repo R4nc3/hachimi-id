@@ -3,32 +3,23 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "The horsegirls who entrust their feelings \nto the training horsegirl are known \nas successor horsegirls.",
-            "color_text_info_list": [
-                "successor horsegirls"
-            ]
+            "text": "Para Uma Musume yang menitipkan perasaannya \npada Uma Musume yang dilatih \ndisebut sebagai Uma Musume penerus."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Once you have completed your training and \nhad your horsegirl registered in the \nHall of Fame, you will be able to select her \nas a successor.",
-            "color_text_info_list": [
-                "registered in the \nHall of Fame"
-            ]
+            "text": "Kalau kamu sudah selesai latihan dan Uma Musume-mu sudah \nterdaftar di Hall of Fame, kamu bisa \npilih dia sebagai penerus."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Let's choose a successor horsegirl."
+            "text": "Ayo, pilih Uma Musume penerus."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Depending on the horsegirl's factors and \nfeelings, you can receive various benefits, \nsuch as improving starting stats and \nacquiring new skills.",
-            "color_text_info_list": [
-                "factors"
-            ]
+            "text": "Tergantung faktor dan perasaan Uma Musume-nya, \nkamu bisa dapat berbagai keuntungan, \nkayak stats awal yang meningkat dan \ndapat skill baru."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Even if you choose her as a successor, \nyou won't lose that horsegirl, \nso don't be worried!"
+            "text": "Meskipun kamu pilih dia sebagai penerus, \nkamu enggak akan kehilangan Uma Musume itu, \njadi enggak usah khawatir, ya!"
         }
     ]
 }
