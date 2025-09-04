@@ -6,6 +6,16 @@ Proyek ini merupakan fork dari terjemahan [UmaTL] yang diubah menjadi bahasa ind
 
 Terjemahan-terjemahan di sini berasal dari [sumber-sumber ini](#translation-sources).
 
+---
+
+#### Special Thanks to
+[![R4nc3](https://github.com/R4nc3.png?size=100)](https://github.com/R4nc3)
+[![Papah-Chan](https://github.com/FahriAdison.png?size=100)](https://github.com/FahriAdison)
+
+> ` For help me create this project translation`
+
+---
+
 # Cara Pasang / Pakai 
 
 > [!IMPORTANT]
