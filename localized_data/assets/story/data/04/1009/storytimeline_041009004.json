@@ -2,224 +2,220 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Daiwa Scarlet. \nA horse girl who takes being \"number one\" very seriously."
+            "text": "Daiwa Scarlet.\nSeorang Uma Musume yang menganggap serius posisinya sebagai \"nomor satu\"."
         },
         {
-            "text": "Placing 2nd on the Selection Race weighed heavily on her mind, \nand she had lost all confidence. Let's do something about that…"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "You're telling me to race Vodka again!?"
+            "text": "Posisi ke-2 di Selection Race sangat membebani pikirannya,\ndan dia kehilangan semua kepercayaan dirinya. Ayo kita lakukan sesuatu tentang itu..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…You mean as revenge for the Selection Race? \nWhat's the point in that?",
+            "text": "Kamu nyuruh aku balapan lagi sama Vodka!?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…Maksudmu, ini balasan atas Selection Race?\nApa gunanya sih?",
             "choice_data_list": [
-                "To get the \"number one\" spot back."
+                "Untuk mendapatkan kembali posisi \"nomor satu\"."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Trainer…"
+            "text": "Trainer..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Just so you know, it won't be easy. \nYou have a plan, don't you?"
+            "text": "Asal tahu saja, ini tidak akan mudah.\nKamu punya rencana, kan?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Like, instead of letting me be the front runner I usually am, \nyou're going to tell me to save my stamina. But changing how I do \nthings all of a sudden won't do me any good against her…",
+            "text": "Seperti, alih-alih membiarkanku jadi pelari depan seperti biasanya,\nkamu akan menyuruhku menghemat stamina. Tapi mengubah caraku\nmelakukannya tiba-tiba tidak akan berhasil melawannya...",
             "choice_data_list": [
-                "Speed up one furlong earlier than usual."
+                "Percepat satu furlong lebih awal dari biasanya."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Huh!?"
+            "text": "Hah!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "What the heck! Do you even know what \"stamina management\" \nis?? If anyone went all out that early, they'd \nobviously get exhausted and lose!",
+            "text": "Apa-apaan! Kamu tahu tidak apa itu \"manajemen stamina\"?\nKalau ada yang langsung habis-habisan secepat itu, mereka\npasti kelelahan dan kalah!",
             "choice_data_list": [
-                "You're not just \"anyone\", you're \"number one\".",
-                "You're not just \"anyone\", you're \"number one\"."
+                "Kamu bukan \"siapa pun\", kamu \"nomor satu\".",
+                "Kamu bukan \"siapa pun\", kamu \"nomor satu\"."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Cringes in shock</i>"
+            "text": "<i>Ngeri dalam keterkejutan</i>"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…AAHHH, SERIOUSLY!! \nFine, I just have to do what you say, right!?"
+            "text": "…AAHHH, SERIUSAN!!\nBaiklah, aku harus melakukan apa yang kamu katakan, kan!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well don't just stand there! Let's go train! \nYou have a training plan focused on stamina ready, right!?"
+            "text": "Kenapa diam saja! Ayo latihan! Kamu sudah punya rencana latihan yang fokus pada stamina, kan!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I will say this though, I won't accept \nany half-assed instructions!"
+            "text": "Tapi aku mau bilang ini, aku tidak akan menerima\ninstruksi yang setengah-setengah!"
         },
         {
-            "text": "And so, Daiwa Scarlet and I did nothing but do stamina training \nfor days. Finally, on the day of the race-"
+            "text": "Dan begitu, Daiwa Scarlet dan aku tidak melakukan apa-apa selain latihan stamina\nselama berhari-hari. Akhirnya, di hari balapan-"
         },
         {
             "name": "Tokai Teio",
-            "text": "Hm? Oh, Air Groove's here too! \nHeya!!"
+            "text": "Hm? Oh, Air Groove ada di sini juga!\nHaii!!"
         },
         {
             "name": "Air Groove",
-            "text": "Teio… You came to watch as well, huh."
+            "text": "Teio... Kamu datang untuk menonton juga, ya."
         },
         {
             "name": "Tokai Teio",
-            "text": "I mean, a one-on-one with Scarlet and Vodka is bound to be \ninteresting!…Ah, looks like they're about to start!"
+            "text": "Ya, satu lawan satu antara Scarlet dan Vodka pasti menarik!\n...Ah, sepertinya mereka akan mulai!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…",
-            "choice_data_list": [
-                "Are you nervous?",
-                "Are you nervous?"
-            ]
+            "text": "..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Of course I am, now shut up."
+            "text": "Tentu saja, sekarang diamlah."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Though…"
+            "text": "Meskipun..."
         },
         {
             "name": "Vodka",
-            "text": "Scarlet. \n…You ready?"
+            "text": "Scarlet.\n...Sudah siap?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Yeah."
+            "text": "Iya."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'll be back. \n…Just watch me, Trainer."
+            "text": "Aku akan kembali.\n...Lihat saja, Trainer."
         },
         {
-            "text": "And thus, the revenge match between \nDaiwa Scarlet and Vodka begins…!"
+            "text": "Dan begitu, pertandingan balas dendam antara\nDaiwa Scarlet dan Vodka dimulai...!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ugh…!"
+            "text": "Ugh...!"
         },
         {
             "name": "Tokai Teio",
-            "text": "Ah, Scarlet's in the front!! \nI knew she'd keep doing her front runner shtick."
+            "text": "Ah, Scarlet di depan!!\nAku tahu dia akan tetap dengan gaya pelari depannya."
         },
         {
             "name": "Tokai Teio",
-            "text": "But isn't this going exactly like the Selection Race? \nWon't she just get overtaken by Vodka again on the homestretch?"
+            "text": "Tapi bukankah ini sama persis dengan Selection Race? Dia tidak akan disalip oleh Vodka lagi di jalur lurus terakhir?"
         },
         {
             "name": "Air Groove",
-            "text": "No, wait. \nThings seem to be going different this time."
+            "text": "Tidak, tunggu.\nAda yang berbeda kali ini."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Now…!!"
+            "text": "Sekarang...!!"
         },
         {
             "name": "Vodka",
-            "text": "HUH!? Wait…!!"
+            "text": "HAH!? Tunggu...!!"
         },
         {
             "name": "Tokai Teio",
-            "text": "Ueehh!? She's speeding up that early!? Her front \nrunning strategy barely lost her the race last time… \nhow is she going to last with that!?"
+            "text": "Ueehh!? Dia mempercepat secepat itu!? Strategi pelari depannya nyaris kalah di balapan terakhir... bagaimana dia akan bertahan dengan itu!?"
         },
         {
             "name": "Air Groove",
-            "text": "Yeah, she's mostly just running recklessly. \nBut look…!"
+            "text": "Ya, dia kebanyakan hanya lari sembrono.\nTapi lihat...!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Pant… pant… pant…</i>"
+            "text": "<i>Ngap... ngap... ngap...</i>"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(I couldn't become number one.)"
+            "text": "(Aku tidak bisa menjadi nomor satu.)"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(lt killed my ego and tore my pride to shreds. \nIt made me whiny when I shouldn't have.)"
+            "text": "(Itu membunuh egoku dan merobek kebanggaanku. Itu membuatku cengeng padahal seharusnya tidak.)"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(To be honest… it's painful even now! \nIt's so hot! My throat hurts! I can't even feel my legs! But…)"
+            "text": "(Sejujurnya... rasanya sakit bahkan sekarang! Panas sekali! Tenggorokanku sakit! Aku bahkan tidak bisa merasakan kakiku! Tapi...)"
         },
         {
             "name": "Vodka",
-            "text": "God… dammit…!! \nWhy… the hell…"
+            "text": "Sial... sialan...!!\nKenapa... sih..."
         },
         {
             "name": "Vodka",
-            "text": "Why… isn't our freaking gap getting any smaller…!?"
+            "text": "Kenapa... jarak kita tidak mengecil sama sekali...!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(But I still want to win! I wanna be the winner!! \nI don't want to give \"number one\" away to anybody!!"
+            "text": "(Tapi aku masih ingin menang! Aku ingin jadi pemenang!! Aku tidak mau menyerahkan \"nomor satu\" kepada siapa pun!!)"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(This might just be my stubborn pride \ntalking, but… In that case!)"
+            "text": "(Ini mungkin hanya harga diriku yang keras kepala, tapi... kalau begitu!)"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(I just have to keep being stubborn with all I have!! \nHAAAAAAAAAH!!!"
+            "text": "(Aku hanya harus terus keras kepala dengan sekuat tenaga!! HAAAAAAAAAH!!!)"
         },
         {
             "name": "Vodka",
-            "text": "Scarlet…!"
+            "text": "Scarlet...!"
         },
         {
             "name": "Vodka",
-            "text": "…Heh. I'm not going to let you win that easily! \nUUUUOOOOOOHHH!!"
+            "text": "...Heh. Aku tidak akan membiarkanmu menang semudah itu! UUUUUOOOOOOHHH!!"
         },
         {
-            "text": "Daiwa Scarlet leads in front using what little strength she has \nleft, with Vodka chasing behind. And the winner of the race is-"
+            "text": "Daiwa Scarlet memimpin di depan menggunakan sedikit kekuatan yang tersisa, dengan Vodka mengejar di belakang. Dan pemenang balapan adalah-"
         },
         {
             "name": "Air Groove",
-            "text": "…Excellent work, Daiwa Scarlet."
+            "text": "...Kerja bagus, Daiwa Scarlet."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Pant… pant…!!</i> \nDid… I win…?"
+            "text": "<i>Ngap... ngap...!!</i>\nApa... aku menang...?"
         },
         {
             "name": "Vodka",
-            "text": "…AAAHHH!! Freaking hell! \nI lost, dammit!"
+            "text": "...AAAHHH!! Sialan! Aku kalah, sialan!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Vodka…"
+            "text": "Vodka..."
         },
         {
             "name": "Vodka",
-            "text": "Hmph… I lost, but this won't be the last race we have."
+            "text": "Hmph... Aku kalah, tapi ini bukan balapan terakhir kita."
         },
         {
             "name": "Vodka",
-            "text": "Listen up - I'll win next time! \nI definitely won't lose to you, Ms. Honor Student!"
+            "text": "Dengar baik-baik - aku akan menang lain kali! Aku pasti tidak akan kalah darimu, Nona Siswa Teladan!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Hehe. I like the sound of that. Bring it! \nJust so you know, I'll be \"number one\" again next time!"
+            "text": "...Hehe. Aku suka itu. Ayo! Asal tahu saja, aku akan jadi \"nomor satu\" lagi lain kali!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Isn't that right, Trainer?"
+            "text": "Benar kan, Trainer?"
         },
         {
-            "text": "And so, my days of aiming for number \none with Daiwa Scarlet began."
+            "text": "Dan begitu, hari-hariku untuk mengincar posisi nomor satu dengan Daiwa Scarlet dimulai."
         }
     ]
 }
