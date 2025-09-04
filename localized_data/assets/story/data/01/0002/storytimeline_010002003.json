@@ -3,18 +3,18 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "You've met some wonderful horsegirls! \nBefore we get to training, look at this!"
+            "text": "Kamu sudah bertemu dengan para Uma Musume yang keren! \nSebelum kita mulai latihan, coba lihat ini!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "I will also be explaining \nthe support card gacha.",
+            "text": "Aku juga akan menjelaskan tentang gacha support card.",
             "color_text_info_list": [
                 "support card"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Let's switch over to the support gacha!"
+            "text": "Sekarang, kita beralih ke gacha support!"
         }
     ]
 }

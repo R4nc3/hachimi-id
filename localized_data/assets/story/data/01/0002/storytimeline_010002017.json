@@ -3,25 +3,25 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Let's have your finished \"hall of fame\" \nhorsegirl partake in some racing action!"
+            "text": "Ayo ajak \nUma Musume \"hall of fame\"-mu buat balapan!",
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "In the \"Daily Races\" you can earn money and \nsupport points, among a few other things.",
+            "text": "Di \"Daily Races\" kamu bisa dapet uang dan \npoin support, dan beberapa hal lainnya.",
             "color_text_info_list": [
                 "Daily Races"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "You can only enter these a few times per day \nso make sure to remember them!",
+            "text": "Kamu cuma bisa ikutan beberapa kali sehari \njadi jangan sampai lupa ya!",
             "color_text_info_list": [
-                "enter these a few times per day"
+                "ikutan beberapa kali sehari"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Let me introduce you to the \"Team Stadium\" \nas well. Here, horsegirls can compete \nin a team format.",
+            "text": "Sekarang, aku kenalin ke \"Team Stadium\" juga. \nDi sini, para Uma Musume bisa tanding \ndalam format tim.",
             "color_text_info_list": [
                 "Team Stadium"
             ]

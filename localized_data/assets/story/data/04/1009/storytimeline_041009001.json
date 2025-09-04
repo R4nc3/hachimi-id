@@ -2,22 +2,22 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "4 times a year, a \"Selection Race\" is held, where horse girls \nshow off the fruits of their training and get scouted by trainers \nwho will shape their very futures."
+            "text": "4 kali dalam setahun, diadakan \"Balapan Seleksi\", dimana para Uma Musume \nmemperlihatkan hasil latihan mereka dan direkrut oleh Trainer \nyang akan membentuk masa depan mereka."
         },
         {
-            "text": "A wide array of trainers, from rookies to veterans can be seen \ngathered around the area… It's not difficult to guess that \neveryone's eyes are on <i>those</i> two girls today."
+            "text": "Berbagai macam Trainer, mulai dari pemula hingga yang berpengalaman, dapat dilihat \nberkumpul di sekitar area tersebut… Tidak sulit untuk menebak bahwa \nsemua mata tertuju pada <i>dua</i> gadis itu hari ini."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Please consider scouting me!"
+            "text": "Mohon pertimbangkan untuk merekrut saya!"
         },
         {
             "name": "Rookie Trainer A",
-            "text": "Daiwa Scarlet… \nGood grief, you did a great job out there!"
+            "text": "Daiwa Scarlet… \nAstaga, kamu benar-benar hebat di luar sana!"
         },
         {
             "name": "Experienced Trainer A",
-            "text": "She kept her lead all the way from the 3rd corner in yesterday's \nmock race, I hear. There's no telling who will win today… \nSpeaking of, that girl approaching us must be…!"
+            "text": "Dia mempertahankan posisinya di depan sejak tikungan ketiga dalam balapan \nsimulasi kemarin, kata orang. Siapapun yang akan menang hari ini, tidak ada yang tahu… \nNgomong-ngomong, gadis yang mendekati kita itu pasti…!"
         },
         {
             "name": "Vodka",
@@ -25,60 +25,60 @@
         },
         {
             "name": "Veteran Trainer A",
-            "text": "Hmm, Vodka on the other hand seems to be unfazed \nby the pressures of a big race. Now then, which \nof them is the better competitor, I wonder?"
+            "text": "Hmm, Vodka di sisi lain tampaknya tidak terpengaruh \noleh tekanan balapan besar. Nah, mana di antara \nkeduanya yang lebih baik sebagai pesaing, kira-kira?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Hmph. \nThat's not even up for debate."
+            "text": "…Hmph. \nItu bahkan tidak perlu diperdebatkan."
         },
         {
             "name": "Vodka",
-            "text": "Hey, I can hear you. \nHeh. Don't come running to me if you start crying later, okay?"
+            "text": "Hey, Aku bisa mendengarmu. \nHeh. Jangan datang padaku kalau nanti kamu menangis, ya?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Oh my, who could this person be talking to? \nJust so you know, I'm the number one horse girl, Daiwa Scarlet."
+            "text": "Astaga, dengan siapa orang ini sedang berbicara? \nCuma aku beritahu padamu, aku adalah Uma Musume nomor satu, Daiwa Scarlet."
         },
         {
-            "text": "Just like that, a fiery rivalry between two up and coming horse \ngirls is born… This is building up to be one hell of a race…!"
+            "text": "Dengan begitu saja, persaingan sengit antara dua Uma Musume \nyang sedang naik daun pun terlahir… Ini akan menjadi balapan yang luar biasa…!"
         },
         {
-            "text": "(…And the race begins!)"
+            "text": "(…Dan balapan pun dimulai!)"
         },
         {
-            "name": "Commentator",
-            "text": "All of the horse girls have left their gates and started running!"
+            "name": "Komentator",
+            "text": "Semua Uma Musume telah meninggalkan gerbang mereka dan mulai berlari!"
         },
         {
-            "name": "Commentator",
-            "text": "Standing out from the rest of the pack is Daiwa Scarlet! \nShe's taken the lead in no time with her incredible speed!"
+            "name": "Komentator",
+            "text": "Yang menonjol di antara yang lainnya adalah Daiwa Scarlet! \nDia telah memimpin dengan cepat berkat kecepatannya yang luar biasa!"
         },
         {
             "name": "Rookie Trainer A",
-            "text": "Is she really going to be alright at that pace!? \nI mean, she's <i>the</i> Daiwa Scarlet, but…!"
+            "text": "Apakah dia benar-benar akan baik-baik saja dengan kecepatan seperti itu!? \nMaksudku, dia kan Daiwa Scarlet, tapi…!"
         },
         {
             "name": "Experienced Trainer A",
-            "text": "No, she's only been able to hold her stamina precisely \nbecause this is her way of doing things… Also, \ntake a closer look at what's going on."
+            "text": "Tidak, dia hanya bisa mempertahankan staminanya dengan tepat \nkarena begitulah cara dia melakukan hal itu… Dan juga, \nLihatlah lebih dekat apa yang sedang terjadi."
         },
         {
             "name": "Veteran Trainer A",
-            "text": "She's making everyone else take a faster approach to match her \nspeed, but that'll only tire them out by the end. I'm sure this \nis exactly what she wants."
+            "text": "Dia membuat yang lain mengambil pendekatan yang lebih cepat untuk menyesuaikan \nkecepatannya, tapi itu hanya akan membuat mereka kelelahan pada akhirnya. \nAku yakin ini persis seperti yang dia inginkan."
         },
         {
-            "text": "Daiwa Scarlet had held the lead from start to finish \nwith her impeccable running. However, something big \nhappened in the final moments of the race!"
-        },
-        {
-            "name": "Vodka",
-            "text": "<i>Pant… pant…</i> Dammit all… \nDon't… you dare think…"
+            "text": "Daiwa Scarlet memimpin dari awal hingga akhir \ndengan larinya yang sempurna. Namun, ada hal besar yang \nterjadi di detik-detik terakhir balapan!"
         },
         {
             "name": "Vodka",
-            "text": "Don't you dare think that I'm going to just let you win!"
+            "text": "<i>Pant… pant…</i> Sialan… \nJangan… berani-berani berpikir…"
         },
         {
-            "name": "Commentator",
-            "text": "Turning on the final corner is Vodka! She's caught up! \nShe's practically right up to Daiwa Scarlet!"
+            "name": "Vodka",
+            "text": "Jangan berani-berani berpikir Aku akan membiarkanmu menang begitu saja!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Saat memasuki tikungan terakhir, Vodka! Dia sudah mengejar! \nDia hampir menyusul Daiwa Scarlet!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -89,24 +89,24 @@
             "text": "ORAAAAAAAAAAAAAAA!!"
         },
         {
-            "name": "Commentator",
-            "text": "She's fast! Vodka's fast! \nLook at that marvelous stride! Daiwa Scarlet's only a nose away!"
+            "name": "Komentator",
+            "text": "Dia cepat! Vodka dengan cepat! \nLihat langkahnya yang luar biasa! Daiwa Scarlet hanya selangkah lagi!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ugh… ughh…!! \nNo… Anything but that!"
+            "text": "Ugh… ughh…!! \nTidak… Apa pun kecuali itu!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "The number one spot! \n…That's mine and mine alone!!"
+            "text": "Posisi pertama! \n…Itu milikku dan hanya milikku saja!!"
         },
         {
-            "name": "Commentator",
-            "text": "Daiwa Scarlet, Vodka! Daiwa Scarlet, Vodka! They're closing in on \nthe finish line! And the winner of the race is…"
+            "name": "Komentator",
+            "text": "Daiwa Scarlet, Vodka! Daiwa Scarlet, Vodka! Mereka hampir mencapai \ngaris finish! Dan pemenang balapannya adalah…"
         },
         {
-            "name": "Commentator",
-            "text": "VODKA!! She takes first place by a small margin! \nDaiwa Scarlet takes second place!"
+            "name": "Komentator",
+            "text": "VODKA!! Dia meraih posisi pertama dengan selisih yang tipis! \nDaiwa Scarlet menduduki posisi kedua!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Phew… hehe! \nSeems like I'm the winner today, Scarlet!"
+            "text": "Phew… hehe! \nSepertinya akulah yang menang hari ini, Scarlet!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -126,62 +126,62 @@
         },
         {
             "name": "Vodka",
-            "text": "The heck's up with that? \nAnd here I was starting to think you're a fun guy…"
+            "text": "Ada apa sih dengannya? \nPadahal kumulai berpikir kamu itu orang yang menyenangkan…"
         },
         {
-            "text": "-(…And so, the Selection Race \nends with Vodka as the victor.)"
+            "text": "-(……Dan demikianlah, Balapan Seleksi \nberakhir dengan Vodka sebagai pemenangnya.)"
         },
         {
-            "text": "On that same night…"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "<i>Pant, pant, pant―.</i> No… I can't let this happen…! \nI just need to build up my stamina a bit more!"
+            "text": "Pada malam yang sama…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I don't ever want to think about that again…!",
+            "text": "<i>Pant, pant, pant―.</i> Tidak… aku tidak bisa membiarkan ini terjadi…! \nAku hanya perlu meningkatkan staminaku sedikit lagi!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Aku tidak pernah ingin memikirkan hal itu lagi…!",
             "choice_data_list": [
-                "Hey, are you…",
-                "Hey, are you…"
+                "Hei, apakah kamu…",
+                "Hei, apakah kamu…"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hya!? W-Who was that!?"
+            "text": "Hya!? Siapa itu!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Wait, you're… a trainer? \nAnd you were at the Selection Race too… I think."
+            "text": "Tunggu, kamu… seorang Trainer? \nDan kamu juga hadir dalam Balapan Seleksi… sepertinya."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Excuse me, but could you please leave? \nI'm currently training in private."
+            "text": "Maafkan aku, tapi bisakah Anda pergi? \nAku sedang berlatih secara pribadi."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'm terribly busy… knocking my disappointing \nand weak self into shape.",
+            "text": "Aku sangat sibuk… berusaha memperbaiki diri \nyang mengecewakan dan lemah ini.",
             "choice_data_list": [
-                "2nd place is worth being proud of, though…?"
+                "Peringkat kedua tetap patut dibanggakan, meskipun…?"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "2nd place means nothing to me! \nI have to be number one or else!"
+            "text": "Peringkat kedua tidak berarti apa-apa bagiku! \nAku harus menjadi yang pertama atau tidak sama sekali!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ah… my apologies for being rude."
+            "text": "Ah… Maaf aku sudah bersikap kasar.."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "In any case, I'll be leaving now. \nPlease take care."
+            "text": "Bagaimanapun juga, Aku akan pergi sekarang. \nHarap berhati-hati."
         },
         {
-            "text": "Daiwa Scarlet… \nA horse girl obsessed with being \"number one…\""
+            "text": "Daiwa Scarlet… \nUma Musume yang terobsesi untuk menjadi \"nomor satu…\""
         },
         {
-            "text": "I'm not really sure why, \nbut I couldn't stop thinking about her…"
+            "text": "Aku tidak tahu kenapa, \nTapi aku tidak bisa berhenti memikirkannya.…"
         }
     ]
 }

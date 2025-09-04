@@ -2,32 +2,32 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Commentator",
-            "text": "Now, in to the last straight! \nWith a lead of 5 to 6 lengths, Silence Suzuka!"
+            "name": "Komentator",
+            "text": "Sekarang, memasuki lintasan lurus terakhir!\nDengan keunggulan 5 sampai 6 panjang, Silence Suzuka!"
         },
         {
-            "name": "Commentator",
-            "text": "And here they press the attack and chase forward! Can Silence \nSuzuka do it?! There isn't much distance left between them!"
+            "name": "Komentator",
+            "text": "Dan mereka menekan serangan serta mengejar ke depan! Bisakah Silence\nSuzuka melakukannya?! Jaraknya tidak terlalu jauh lagi!"
         },
         {
-            "name": "Commentator",
-            "text": "But Silence Suzuka accelerates here!! With her \"Escape and \nFollow Through\", the difference increases again!"
+            "name": "Komentator",
+            "text": "Tapi Silence Suzuka mempercepat di sini!! Dengan \"Escape and\nFollow Through\"-nya, perbedaan jarak bertambah lagi!"
         },
         {
-            "name": "Commentator",
-            "text": "Silence Suzuka! It's Silence Suzuka!! \nSilence Suzuka crosses the goal first!!"
+            "name": "Komentator",
+            "text": "Silence Suzuka! Itu Silence Suzuka!!\nSilence Suzuka melintasi garis gawang lebih dulu!!"
         },
         {
-            "name": "Commentator",
-            "text": "This time too, \"Escape and Follow Through\" Silence \nSuzuka is going strong! Surpassing all expectations, \nshe claims an overwhelming victory!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "As I thought, running is fun…!"
+            "name": "Komentator",
+            "text": "Kali ini juga, \"Escape and Follow Through\" Silence\nSuzuka berjalan dengan kuat! Melebihi semua ekspektasi,\ndia mengklaim kemenangan telak!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "From now on, that \"scenery\" that's never been seen before. \nTogether, with everyone…!"
+            "text": "Seperti yang kupikirkan, lari itu menyenangkan…!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Mulai sekarang, \"pemandangan\" yang belum pernah terlihat sebelumnya.\nBersama-sama, dengan semua orang…!"
         }
     ]
 }

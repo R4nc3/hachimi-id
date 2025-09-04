@@ -3,18 +3,15 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Skills are an important factor to winning \nraces. Adding skills doesn't consume your \nturns, so make sure to check and \nlearn them often!",
-            "color_text_info_list": [
-                "important factor to winning"
-            ]
+            "text": "Skill itu faktor penting buat menang balapan. Nambahin skill itu enggak ngabisin turn, jadi sering-sering cek dan pelajarin skill baru, ya!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Agreed. If you don't use the skill \npoints that you've gained, they'll \nbe a complete waste!"
+            "text": "Setuju. Kalau poin skill yang didapat enggak dipakai, jadi sia-sia, lho!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "By all means! Choose the skills that match \nyour horsegirl's abilities and the \nrequirements of the races she runs!"
+            "text": "Tentu saja! Pilih skill yang cocok sama kemampuan Uma Musume-mu dan balapan yang dia ikuti!"
         }
     ]
 }

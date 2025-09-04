@@ -3,25 +3,25 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Now then, it's finally time \nto try entering a race!"
+            "text": "Nah, sekarang saatnya \nuntuk mencoba mengikuti balapan!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Pay attention! Before you start the race, \nmake sure to check your skills!",
+            "text": "Perhatikan! Sebelum memulai balapan, \npastikan untuk memeriksa skills terlebih dulu!",
             "color_text_info_list": [
                 "skills"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "A gift for you! This time, I will give you \nsome special skill points!",
+            "text": "Hadiah untukmu! Kali ini, aku akan memberimu \nbeberapa skill points khusus!",
             "color_text_info_list": [
                 "skill points"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "You'll earn skill points at various times \nduring your training!"
+            "text": "Kamu akan mendapatkan skill points pada \nberbagai waktu selama pelatihanmu!"
         }
     ]
 }

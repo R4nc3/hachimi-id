@@ -2,74 +2,74 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day after I watched \nthe race with Tazuna—"
+            "text": "Esok Harinya setelah aku menonton \nbalapan bersama Tazuna—"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Once again… Welcome, Trainer-san! \nThis is the Japan Horsegirl \nTraining Center Academy.",
+            "text": "Sekali lagi… Selamat datang, Trainer! \nIni adalah Akademi Pusat Pelatihan \nUma Musume Jepang.",
             "color_text_info_list": [
-                "Japan Horsegirl \nTraining Center Academy"
+                "Akademi Pusat Pelatihan \nUma Musume Jepang"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "This is Japan's premier horsegirl training \norganization, where girls who dream of \nentering the world of racing gather!"
+            "text": "Ini adalah organisasi pelatihan Uma Musume terkemuka \ndi Jepang, tempat para gadis yang bermimpi untuk \nmemasuki dunia balap berkumpul!"
         },
         {
             "name": "???",
-            "text": "WELCOME!!!",
+            "text": "SELAMAT DATANG!!!",
             "choice_data_list": [
                 "!?"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Hey, Principal Akikawa…! \nDon't scare us like that!",
+            "text": "Hei, Kepala Sekolah Akikawa…! \nJangan menakuti kami seperti itu!",
             "color_text_info_list": [
                 "Akikawa"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "My apologies! I was distracted by the sight \nof a promising trainer!!"
+            "text": "Maafkan aku! aku teralihkan oleh pemandangan seorang \ntrainer yang menjanjikan!!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Once again, I am the principal of \nthis school, Akikawa! It is nice \nto meet you, New Trainer-kun!",
+            "text": "Sekali lagi, saya adalah kepala sekolah di \nsekolah ini, Akikawa! Senang bertemu \ndenganmu, Trainer Baru!",
             "color_text_info_list": [
                 "Akikawa"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "First off… Come on! Tell \nme more about yourself!"
+            "text": "Pertama-tama… Ayo dong! Ceritakan \nlebih banyak tentang dirimu!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Welcome! Trainer <username>, you're now a \nmember of Tracen Academy!"
+            "text": "Selamat datang! Trainer <username>, Sekarang anda adalah \nanggota Tracen Academy!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Your expectations!! Please use your \nskills to make your horsegirls' \ndreams come true, together!"
+            "text": "Harapanmu!! Gunakanlah kemampuanmu \nuntuk mewujudkan impian para Uma \nMusumemu, bersama-sama!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "What the horsegirls at this academy aspire to \nis… their greatest stage as runners; the \nTwinkle Series.",
+            "text": "Apa yang diimpikan oleh para Uma Musume di akademi \nini adalah… panggung terbesar mereka sebagai pelari; \nthe Twinkle Series.",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "It's your job as trainer to help \nyour horsegirl. To teach her! To \nguide her! To support her!"
+            "text": "Tugasmu sebagai Trainer adalah membantu \nUma Musumemu. Mengajarinya! \nMembimbingnya! Mendukungnya!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "And more! Endeavor to live up \nto that trainer badge on your chest!!"
+            "text": "Dan masih banyak lagi! Berusahalah untuk memenuhi harapan \nyang tertera pada lencana Trainer di dadamu itu!!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Well then, without further ado… let's get to \ntraining, Trainer <username>!"
+            "text": "Baiklah, tanpa berlama-lama… mari kita mulai \nlatihan, Trainer <username>!"
         }
     ]
 }

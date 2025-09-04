@@ -3,22 +3,15 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "For inheritance, their “compatibility” is \ndetermined by the relationship between \nthe trained horsegirl and her successors.",
-            "color_text_info_list": [
-                "compatibility"
-            ]
+            "text": "Untuk pewarisan, 'kompatibilitas' mereka ditentukan \ndari hubungan antara Uma Musume yang dilatih dan penerusnya."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "If they have good compatibility, \nyou're a little more likely to have \ngood things happen to them!",
-            "color_text_info_list": [
-                "you're a little more likely to have",
-                "good things"
-            ]
+            "text": "Jika mereka punya kompatibiltas yang bagus, \nkemungkinan hal-hal baik akan terjadi sedikit lebih besar!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "You may want to keep this in mind as a \nreference for future combinations! ♪"
+            "text": "Mungkin kamu mau mengingat ini sebagai \nreferensi untuk kombinasi di masa depan! ♪"
         }
     ]
 }

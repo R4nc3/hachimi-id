@@ -2,68 +2,53 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Summer training camp. Daiwa Scarlet wasted no time and went \nstraight into training by the beach…"
+            "text": "Musim panas, saatnya kamp pelatihan. Daiwa Scarlet langsung semangat dan pergi ke pantai untuk memulai pelatihannya..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Pant… pant… pant… \nphew…</i> I'm sweating so hard from the heat…"
+            "text": "<i>Ngap... ngap... ngap... fiuh...</i> Gerah banget, sampai keringetan gini..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'm taking a short break… \n<i>sigh…</i> Training on sand is really tiring…",
-            "choice_data_list": [
-                "Tiring, but efficient.",
-                "Tiring, but efficient."
-            ]
+            "text": "Istirahat sebentar, ah... <i>Hah...</i> Latihan di pasir itu bener-bener bikin capek..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'd be mad if it wasn't. \nI wouldn't agree to doing it if all it did was drain my energy."
+            "text": "Ya, harus capek sih, biar hasilnya maksimal. Kalo cuma bikin capek doang mah ngapain juga."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well, I don't mind the challenge. If I can get through this, I'll \nbe even more worthy of being number one."
+            "text": "Tapi, aku sih suka tantangan. Kalau berhasil lewatin ini, aku bakal makin pantas jadi nomor satu."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Now then, break time's over. Let's resume my training."
+            "text": "Oke, istirahatnya selesai. Lanjut lagi latihannya."
         },
         {
-            "text": "She might have regained a bit of her breath after taking a break, \nbut I could tell that she was starting to get a bit dizzy from \nthe heat and the exhaustion in her legs.",
-            "choice_data_list": [
-                "Let's call it a day for now."
-            ]
+            "text": "Napasnya memang sudah agak normal, tapi aku bisa lihat dia mulai pusing dan kakinya lemas karena panas dan kelelahan."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Huh? Were you even listening to what I was saying?"
+            "text": "Hah? Kamu dengerin aku ngomong, gak sih?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I said I don't mind the challenge! What's the point of doing \na training camp if we don't train harder than we usually do?"
+            "text": "Aku bilang, aku suka tantangan! Buat apa ikut kamp pelatihan kalau gak latihan lebih keras dari biasanya?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "If I'm already throwing in the towel over something like this, \nthere's no way I'll be number one!",
-            "choice_data_list": [
-                "Overdoing it's no good either.",
-                "Overdoing it's no good either."
-            ]
+            "text": "Kalau cuma gini aja udah nyerah, mana bisa jadi nomor satu!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You don't have to tell me. I know that much… <i>kya!?</i>"
+            "text": "Gak usah dikasih tahu, aku juga tahu kok... <i>Kyah!?</i>"
         },
         {
-            "text": "One step, and Daiwa Scarlet had lost her balance."
+            "text": "Baru selangkah, Daiwa Scarlet sudah kehilangan keseimbangan."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Tch… I can't be number one if I get exhausted \nfrom something like this. I've got to keep-",
-            "choice_data_list": [
-                "Rest is also part of your training.",
-                "Rest is also part of your training."
-            ]
+            "text": "Sial... Kalau begini doang sudah kecapekan, aku gak bisa jadi nomor satu. Aku harus lanjut..."
         },
         {
             "name": "Daiwa Scarlet",
@@ -71,170 +56,141 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>…sigh.</i> Fine. \nIn that case, I'll take another break and then I'll…",
-            "choice_data_list": [
-                "There's always tomorrow, you know?",
-                "There's always tomorrow, you know?"
-            ]
+            "text": "<i>…Hah.</i> Ya udah deh. \nKalau begitu, aku istirahat lagi. Setelah itu aku bakal..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Alright then, I'll follow you this time."
+            "text": "Oke deh, kali ini aku nurut kamu."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You <i>are</i> my trainer, after all. It'd be annoying with you \ngiving me that worried look the entire time."
+            "text": "Lagipula kamu kan pelatihku. Males banget kalau kamu terus-terusan pasang muka khawatir gitu."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ah well. Once I get back to regular condition, \nI swear I'll make up for lost time.",
-            "choice_data_list": [
-                "Don't go running in secret, okay?",
-                "Don't go running in secret, okay?"
-            ]
+            "text": "Ya sudah. Nanti kalau sudah bugar lagi, aku pasti bakal balas dendam dengan latihan lebih keras."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Trainer. Just so you know, I'm not a kid anymore \nso could you stop patronizing me?"
+            "text": "Trainer. Dengar ya, aku ini bukan anak kecil. Jadi, gak usah meremehkan aku."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Training's over, so I'm free to do whatever I want, right? \nWell then, see you later."
+            "text": "Kan latihannya sudah selesai, jadi aku bebas mau ngapain aja, kan? Ya udah, sampai ketemu nanti."
         },
         {
-            "text": "Daiwa Scarlet went back to the dorm, \nstill unsteady from training."
+            "text": "Daiwa Scarlet kembali ke asrama, langkahnya masih belum stabil."
         },
         {
-            "text": "That night, as I was walking on the hallway on my way to check up \non Daiwa Scarlet, I got approached by an unfamiliar horse girl…"
+            "text": "Malamnya, saat aku jalan di koridor untuk mengecek kondisi Daiwa Scarlet, ada seorang horse girl yang tidak kukenal menghampiriku..."
         },
         {
-            "name": "Horsegirl A",
-            "text": "Oh, Scarlet's trainer. \nWere you looking for her?"
+            "name": "Uma Musume A",
+            "text": "Oh, trainernya Scarlet ya. \nCari dia ya?"
         },
         {
-            "name": "Horsegirl A",
-            "text": "I don't think she's in her room anymore. \nI saw her heading towards the front door just a while ago."
+            "name": "Uma Musume A",
+            "text": "Sepertinya dia tidak ada di kamarnya. \nTadi aku lihat dia jalan ke arah pintu depan."
         },
         {
-            "text": "She should still be exhausted from training just this afternoon \nand yet she's walking out by herself… I wonder if she's okay."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Oh, it's you, Trainer. What's wrong? You don't look too good."
+            "text": "Tadi siang dia kecapekan banget, tapi sekarang jalan keluar sendirian... Dia baik-baik saja gak ya."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I was just about to go for a walk-",
-            "choice_data_list": [
-                "I'll go with you!",
-                "I'll go with you!"
-            ]
+            "text": "Oh, kamu, Trainer. Ada apa? Kelihatannya kamu khawatir banget."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I-I don't mind, but… what are you getting so worked up over?"
+            "text": "Aku cuma mau jalan-jalan sebentar kok."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Don't tell me. \nYou still think I'm going to go train in secret?",
-            "choice_data_list": [
-                "I got worried because you were stumbling."
-            ]
+            "text": "A-Aku sih gak masalah, tapi... kenapa kamu kelihatannya khawatir banget?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Oh, that. I'm fine. Really. \nI got to relax in the bath and even took a nap."
+            "text": "Jangan-jangan... \nKamu pikir aku mau curi-curi latihan lagi ya?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I won't do anything to tire myself out."
+            "text": "Oh, itu. Aku gak apa-apa kok. Beneran. \nAku sudah mandi air hangat dan sempat tidur siang juga."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "That said, you sure are a worrywart. I kept thinking to myself, \n\"Does he even trust me?\" at first, but…"
+            "text": "Aku gak akan lakukan hal yang bikin aku kecapekan."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…That does it. \nI'll make sure to show you that I'm doing fine now!"
-        },
-        {
-            "text": "As I followed her around, we heard the \nsound of a festival happening nearby-"
+            "text": "Ngomong-ngomong, kamu khawatir banget ya. Awalnya aku mikir, 'Apa dia gak percaya sama aku ya?', tapi..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I heard they were doing a festival around here and \nI was just about to go before I saw you. Hey, is the \nfestival smell making you feel hungry too?",
-            "choice_data_list": [
-                "Looks like your appetite is fine, too.",
-                "Looks like your appetite is fine, too."
-            ]
+            "text": "...Cukup. \nAku bakal tunjukin ke kamu kalau aku baik-baik saja sekarang!"
+        },
+        {
+            "text": "Saat aku mengikutinya, kami mendengar suara festival dari dekat..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Of course it is! \nI'm fine <i>because</i> I've been eating properly, right?"
+            "text": "Aku dengar ada festival di dekat sini. Tadi aku mau pergi ke sana sebelum lihat kamu. Eh, kamu gak lapar cium bau makanan festival ini?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well then, we better stock up on the festival food! \nAh, but before that… let's play and have as much fun as we can!"
-        },
-        {
-            "text": "After we had our fun in the festival, we stocked up on food and \nwent back to the beach. Yakisoba, takoyaki, shaved ice, cotton \ncandy… gone one after another…"
+            "text": "Tentu saja! \nAku bisa begini karena makanku teratur, kan?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ahh, that was so good! No complaints here.",
-            "choice_data_list": [
-                "I'm glad you're doing fine."
-            ]
+            "text": "Kalau begitu, ayo kita borong makanan festivalnya! \nAh, tapi sebelum itu... ayo kita main dan bersenang-senang sepuasnya!"
+        },
+        {
+            "text": "Setelah puas bermain di festival, kami membeli banyak makanan dan kembali ke pantai. Yakisoba, takoyaki, es serut, gulali... semuanya habis satu per satu..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I told you so. \nDon't worry about me so much."
+            "text": "Ahh, enak banget! Aku puas."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well, to be fair, I did do some pretty dumb things by myself back \nthen, but… Now I'm not alone anymore."
+            "text": "Kan sudah kubilang. \nGak usah khawatir berlebihan tentang aku."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Anyway, there you have it, so, I'm fine now! \nGot it!?",
-            "choice_data_list": [
-                "I'm glad you're relying on me more."
-            ]
+            "text": "Ya, jujur saja, dulu aku sering nekat melakukan hal-hal bodoh sendirian, tapi... sekarang aku gak sendirian lagi."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "H-hey, I didn't say I was talking about you, though!"
+            "text": "Pokoknya, gitu deh. Aku baik-baik saja sekarang! \nPaham!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "It's just… you <i>are</i> a professional trainer, \nafter all… I just thought it makes sense for me \nto trust you when it comes to training."
+            "text": "H-Hei, aku gak bilang aku ngomongin kamu ya!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I-I'm just saying, you need to take responsibility \nfor what you said before! You're the one who said \"let's \naim for number one together,\" you know!?",
-            "choice_data_list": [
-                "I will! Leave it to me!",
-                "I will! Leave it to me!"
-            ]
+            "text": "Cuma... kamu kan pelatih profesional. \nAku pikir, masuk akal kalau aku percaya sama kamu soal latihan."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Look at you, you're so happy."
+            "text": "A-Aku cuma mau bilang, kamu harus tanggung jawab sama omonganmu! Kamu sendiri yang bilang 'ayo kita berusaha jadi nomor satu bareng-bareng', kan!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'm going to put way more effort into training tomorrow than I \ndid today, so you better get ready too."
+            "text": "...Kamu senang banget deh."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "It takes two to be number one."
+            "text": "Besok aku bakal latihan lebih keras dari hari ini. Jadi, kamu juga harus siap-siap."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "So… you should become the \"number \none\" trainer and follow after me!"
+            "text": "Jadi nomor satu itu butuh kerja sama."
         },
         {
-            "text": "The following day. Running with more power than before, Daiwa \nScarlet shined brightly under the radiant sun."
+            "name": "Daiwa Scarlet",
+            "text": "Jadi... kamu juga harus jadi trainer 'nomor \nsatu' dan ikuti aku!"
+        },
+        {
+            "text": "Keesokan harinya. Daiwa Scarlet berlari dengan lebih bertenaga dari sebelumnya, bersinar terang di bawah teriknya matahari."
         }
     ]
 }

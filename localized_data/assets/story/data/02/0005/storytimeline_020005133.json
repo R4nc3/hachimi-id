@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Silence Suzuka",
-            "text": "…"
+            "text": "..."
         },
         {
             "name": "Special Week",
@@ -11,138 +11,135 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "…fufuu!"
+            "text": "...fufuu!"
         },
         {
             "name": "Special Week",
-            "text": "Suzuka-san!! You were suuuuuuuper cool out there!!"
+            "text": "Suzuka-san!! Kamu kereeeen banget tadi!!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Thanks, Spe-chan."
+            "text": "Makasih, Spe-chan."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Really, you've shown us such an absurd running-style. \nYou're even making us want to take off running like that."
+            "text": "Serius, gaya larimu tadi bener-bener gila. Sampai bikin kita pengen lari kayak gitu juga."
         },
         {
             "name": "Air Groove",
-            "text": "You said it…"
+            "text": "Setuju banget..."
         },
         {
             "name": "Air Groove",
-            "text": "But, we won't let you pull ahead by youself just like this."
+            "text": "Tapi, kami enggak akan biarin kamu lari sendirian kayak gini."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "I'm also overflowing with excitement and emotion!! \nAbsolutely, I want to run together with Suzuka-san again!"
+            "text": "Aku juga ngerasa seneng banget dan terharu!! Aku bener-bener pengen lari bareng Suzuka-san lagi!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Well well, you have definitely shown me something very exciting."
+            "text": "Wah wah, kamu beneran ngasih lihat sesuatu yang seru banget."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Tachyon…?"
+            "text": "Tachyon...?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Today's run will, without a doubt, push \"Uma Musume\" \nto the next stage. I have a hunch that it'll become \nan important historical event."
+            "text": "Larian hari ini, tanpa ragu, bakal bawa 'Uma Musume' ke level selanjutnya. Aku punya firasat ini bakal jadi momen bersejarah yang penting."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Suzuka-kun and Trainer, you two are truly \nthe ideal research materials."
+            "text": "Suzuka-kun dan Pelatih, kalian berdua bener-bener materi penelitian yang ideal."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Research materials… eh? Research…?"
+            "text": "Materi penelitian... ya? Penelitian...?"
         },
         {
-            "text": "From now on, we'll show you even more of the \n\"Uma Musume\" Silence Suzuka continuing to chase her \"scenery\"."
+            "text": "Mulai sekarang, kami akan tunjukkan lebih banyak lagi 'pemandangan' yang terus dikejar sama 'Uma Musume' bernama Silence Suzuka."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Fufuu… how reliable of you two."
+            "text": "Fufuu... bisa diandalkan banget kalian berdua."
         },
         {
             "name": "Silence Suzuka",
-            "text": "…?"
+            "text": "...?"
         },
         {
-            "text": "Alright, you've got an award ceremony to attend, \nso we can't stand here all day."
+            "text": "Oke, kamu ada upacara penghargaan yang harus dihadiri, jadi kita enggak bisa di sini terus."
         },
         {
-            "text": "Alright, you've got an award ceremony to attend, \nso we can't stand here all day."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Yeah, you're right."
+            "text": "Oke, kamu ada upacara penghargaan yang harus dihadiri, jadi kita enggak bisa di sini terus."
         },
         {
             "name": "Silence Suzuka",
-            "text": "…Everyone, thank you for your support. \nWhile I was running, I could hear all of your voices."
+            "text": "Iya, kamu benar."
         },
         {
             "name": "Silence Suzuka",
-            "text": "And, Trainer-san's voice too."
+            "text": "...Semuanya, makasih atas dukungannya. Waktu aku lari, aku bisa dengar suara kalian semua."
         },
         {
-            "text": "Gently giving you that push forward, is my duty after all. \nAnd you've done more than responded to that-",
+            "name": "Silence Suzuka",
+            "text": "Dan, suara Pelatih juga."
+        },
+        {
+            "text": "Memberi dorongan lembut, itu tugasku. Dan kamu udah meresponsnya lebih dari itu-"
+        },
+        {
+            "text": "Memberi dorongan lembut, itu tugasku. Dan kamu udah meresponsnya lebih dari itu-",
             "choice_data_list": [
-                "Welcome back, Suzuka."
+                "Selamat datang kembali, Suzuka."
             ]
         },
         {
-            "text": "Gently giving you that push forward, is my duty after all. \nAnd you've done more than responded to that-",
-            "choice_data_list": [
-                "Welcome back, Suzuka."
-            ]
+            "name": "Silence Suzuka",
+            "text": "Fufuu... Iya, aku sudah kembali."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Fufuu… Yes, I've returned."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Well then everyone, we'll have to continue this talk later."
+            "text": "Kalau begitu, semuanya, kita lanjut ngobrolnya nanti ya."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmmm… being called research materials, \nshe does not seem to like that."
+            "text": "Hmmmm... dipanggil materi penelitian, sepertinya dia enggak suka."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Well, it is not as if it really matters what I call \nher. But if it seems to bother her, then…"
+            "text": "Yah, enggak terlalu penting juga sih aku panggil dia apa. Tapi kalau itu ganggu dia, ya..."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Suzuka-kun is, the \"dream\" of many Uma Musume and people- \nHow does that sound?"
+            "text": "Suzuka-kun itu, 'mimpi' banyak Uma Musume dan orang-orang. Gimana kedengarannya?"
         },
         {
-            "text": "Yeah, that sounds the most appropriate."
+            "text": "Iya, itu paling pas kayaknya."
         },
         {
-            "text": "Yeah, that sounds the most appropriate."
+            "text": "Iya, itu paling pas kayaknya."
         },
         {
             "name": "Spectator A",
-            "text": "Suzukaaa! Thanks for the awesome race!"
+            "text": "Suzukaaa! Makasih buat balapan kerennya!"
         },
         {
             "name": "Spectator B",
-            "text": "From now on, show us more of that running!"
+            "text": "Mulai sekarang, tunjukin lagi larianmu itu!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Thank you very much. \nEveryone's cheers, gave me the gentle push I needed."
+            "text": "Makasih banyak. Teriakan kalian semua, memberiku dorongan lembut yang aku butuhkan."
         },
         {
             "name": "Silence Suzuka",
-            "text": "From now on, for the sake of continuing to see a lot more \n\"scenery\" I will continue running… and-"
+            "text": "Mulai sekarang, demi terus melihat lebih banyak lagi 'pemandangan', aku akan terus berlari... dan-"
         },
         {
             "name": "Silence Suzuka",
-            "text": "I'll continue to show everyone the \"scenery\" that I see…!"
+            "text": "Aku akan terus tunjukkan 'pemandangan' yang kulihat ke semua orang...!"
         }
     ]
 }

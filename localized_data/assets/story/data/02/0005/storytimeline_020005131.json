@@ -3,40 +3,40 @@
     "text_block_list": [
         {
             "name": "Special Week",
-            "text": "Haaa… haaaa… \nD-don't leave me behind~…"
+            "text": "Haaah… haaah… \nJ-jangan tinggalin akuuu~…"
         },
         {
             "name": "Gold Ship",
-            "text": "You're late, Spe. What the heck were you doing?"
+            "text": "Telat banget sih, Spe. Ngapain aja lo?"
         },
         {
             "name": "Special Week",
-            "text": "I'm sorry! Even though it's Suzuka-san's race, \nfor some reason I was the one that couldn't sleep…"
+            "text": "Maaf! Padahal ini balapan Suzuka-san, \ntapi entah kenapa aku yang malah nggak bisa tidur…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Looks like you're more nervous than the \none that's supposed to be running…"
+            "text": "Kayaknya kamu lebih gugup daripada \nyang mau balapan, ya…"
         },
         {
             "name": "Winning Ticket",
-            "text": "It'd be a huge problem if Suzuka was treated as late and had her \nentry revoked because of you, you know?"
+            "text": "Bisa gawat lho kalau Suzuka dianggap telat dan \ndidiskualifikasi gara-gara kamu, tahu nggak?"
         },
         {
             "name": "Rice Shower",
             "text": "Fufufuu…"
         },
         {
-            "text": "Alright, shall we head to the race track?"
+            "text": "Oke, ayo kita ke lintasan balap?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Yes."
+            "text": "Ya."
         },
         {
-            "text": "Several months after the [Takarazuka Kinen], on this day-"
+            "text": "Beberapa bulan setelah [Takarazuka Kinen], pada hari ini-"
         },
         {
-            "text": "[Fall Tenno Sho] is being held at the Tokyo race course, \nSilence Suzuka is participating and is the favorite to win."
+            "text": "[Fall Tenno Sho] sedang berlangsung di lintasan balap Tokyo, \nSilence Suzuka ikut berpartisipasi dan jadi favorit juara."
         },
         {
             "name": "Air Groove",
@@ -44,67 +44,61 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "Air Groove, and Fukukitaru."
+            "text": "Air Groove, dan Fukukitaru."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "We came to cheer you on, Suzuka-san!"
+            "text": "Kami datang buat dukung Suzuka-san!"
         },
         {
             "name": "Air Groove",
-            "text": "At [Takarazuka Kinen], you got me. \nToday, I'm here to research your running style for next time."
+            "text": "Di [Takarazuka Kinen], kamu ngalahin aku. \nHari ini, aku di sini buat riset gaya lari kamu untuk nanti."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Wait…? This was for research purposes? I'm pretty sure you \nsaid [Let's go cheer her on] when you invited me…"
+            "text": "Tunggu…? Ini buat riset? Perasaan tadi kamu \nbilang [Ayo kita dukung dia] pas ngajak aku…"
         },
         {
             "name": "Air Groove",
-            "text": "R-researching your opponents, is just one type of cheering!"
+            "text": "M-meriset lawan, itu kan salah satu bentuk dukungan!"
         },
         {
             "name": "Air Groove",
-            "text": "I'll be the one to beat Suzuka, so you'd better make sure to win."
+            "text": "Aku yang bakal ngalahin Suzuka, jadi kamu harus pastiin buat menang."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Yeah, I'll stay in front and make it to the goal."
+            "text": "Ya, aku bakal tetap di depan dan sampai ke garis akhir."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "I'll be praying and cheering for you! Please, do your best!"
+            "text": "Aku bakal berdoa dan dukung kamu! Tolong, lakukan yang terbaik!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Fufufuu… I see you believe in providence."
+            "text": "Fufufuu… aku lihat kamu percaya pada takdir."
         },
         {
-            "text": "Alright, up ahead is the course, so we'll \nhave to see you off from here."
+            "text": "Oke, di depan sana sudah area lintasan, jadi \nkami harus pisah di sini."
         },
         {
-            "text": "Alright, up ahead is the course, so we'll \nhave to see you off from here."
-        },
-        {
-            "text": "But, my \"feelings\" are with you. \nTogether, we'll see that \"scenery\"!"
-        },
-        {
-            "text": "But, my \"feelings\" are with you. \nTogether, we'll see that \"scenery\"!"
+            "text": "Tapi, \"perasaan\"ku ada bersamamu. \nKita akan melihat \"pemandangan\" itu bersama!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Running to my heart's content, enjoying the \"scenery\", \nshowing that \"scenery\" to Trainer-san, and finally-"
+            "text": "Berlari sepuas hati, menikmati \"pemandangan\" itu, \nmenunjukkan \"pemandangan\" itu pada Trainer-san, dan akhirnya-"
         },
         {
             "name": "Silence Suzuka",
-            "text": "I swear I'll return to Trainer-san's side.",
+            "text": "Aku janji bakal kembali ke sisi Trainer-san.",
             "choice_data_list": [
-                "I believe in you!",
-                "I believe in you!"
+                "Aku percaya padamu!",
+                "Aku percaya padamu!"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Understood…!"
+            "text": "Dimengerti…!"
         }
     ]
 }

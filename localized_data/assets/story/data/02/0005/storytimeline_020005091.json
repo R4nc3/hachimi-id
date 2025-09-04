@@ -2,99 +2,99 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "That one-of-a-kind running style of Silence Suzuka―― \nTraining to explore the possibilities of that style had begun."
+            "text": "Gaya lari unik milik Silence Suzuka――\nLatihan untuk mencari potensi dari gaya itu sudah dimulai."
         },
         {
             "name": "Rice Shower",
-            "text": "Fuwaa～… A faster pace than before…"
+            "text": "Fuwaa~... Larinya lebih cepat dari sebelumnya..."
         },
         {
             "name": "Special Week",
-            "text": "She's running for medium distance, but with the speed normally \nfor a mile race!! As I thought, Suzuka-san is awesome!!"
+            "text": "Dia lari untuk jarak menengah, tapi dengan kecepatan yang biasa dipakai untuk balapan jarak jauh!\nSeperti yang kuduga, Suzuka-san keren sekali!!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Haa… haa… Hnn…"
+            "text": "Haa... haa... Hnn..."
         },
         {
-            "text": "Why don't you take a break now, it's definitely wearing on you. \nIf the load is too much, let me know ASAP."
+            "text": "Istirahat dulu, deh. Kamu kelihatan capek. Kalau latihannya terlalu berat, bilang aku ya."
         },
         {
-            "text": "Why don't you take a break now, it's definitely wearing on you. \nIf the load is too much, let me know ASAP."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Understood… but, I'm fine. \nRather than being too tough, I think it's more fun."
-        },
-        {
-            "text": "While shaking her head, Silence Suzuka had a satisfied \nexpression on her face. These positive feelings \nare apparent even in her running, too."
-        },
-        {
-            "text": "Even though she's run so much, with her body in such good \ncondition, I really wonder what kind of results it will lead to."
-        },
-        {
-            "text": "That talent you've got is already at a high level, \nso by polishing the skills you're not as strong \nwith, it'll raise your overall status."
-        },
-        {
-            "text": "That talent you've got is already at a high level, \nso by polishing the skills you're not as strong \nwith, it'll raise your overall status."
-        },
-        {
-            "text": "After all, what you're trying to do is not normal. \nLet's make sure we've got a solid foundation too."
-        },
-        {
-            "text": "After all, what you're trying to do is not normal. \nLet's make sure we've got a solid foundation too."
+            "text": "Istirahat dulu, deh. Kamu kelihatan capek. Kalau latihannya terlalu berat, bilang aku ya."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Solid foundation… right, understood. \nAfter the break, please treat me well again!",
+            "text": "Oke... tapi, aku baik-baik saja.\nIni malah lebih menyenangkan daripada terlalu berat."
+        },
+        {
+            "text": "Sambil menggelengkan kepala, Silence Suzuka terlihat puas.\nPerasaan positif ini terlihat jelas dari larinya, juga."
+        },
+        {
+            "text": "Meskipun sudah lari jauh, dengan kondisi tubuhnya yang bagus,\naku penasaran hasilnya akan seperti apa."
+        },
+        {
+            "text": "Bakat yang kamu punya sudah di level tinggi,\njadi kalau kamu mengasah kemampuan yang kurang kuat,\nitu akan meningkatkan statusmu secara keseluruhan."
+        },
+        {
+            "text": "Bakat yang kamu punya sudah di level tinggi,\njadi kalau kamu mengasah kemampuan yang kurang kuat,\nitu akan meningkatkan statusmu secara keseluruhan."
+        },
+        {
+            "text": "Soalnya, apa yang kamu lakukan itu tidak biasa.\nKita pastikan pondasinya juga kuat."
+        },
+        {
+            "text": "Soalnya, apa yang kamu lakukan itu tidak biasa.\nKita pastikan pondasinya juga kuat."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Pondasi yang kuat... baik, mengerti.\nSetelah istirahat, tolong latih aku lagi ya!",
             "choice_data_list": [
-                "Let's keep moving forward!",
-                "Let's keep moving forward!"
+                "Ayo kita terus maju!",
+                "Ayo kita terus maju!"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Yes…!"
+            "text": "Siap...!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "… Based on this, slope training has a positive effect on \ntraining stamina and instantaneous power-"
+            "text": "...Berdasarkan ini, latihan di tanjakan punya efek positif untuk melatih stamina dan kekuatan sesaat-"
         },
         {
             "name": "Air Groove",
-            "text": "Suzuka in the library? Haven't seen that in a while. \nIs <Sirius>'s Trainer telling you to study too?"
+            "text": "Suzuka di perpustakaan? Sudah lama tidak lihat. Apakah Trainer <Sirius> juga menyuruhmu belajar?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "No, in order to continue increasing my strength, I wanted to see \nfor myself what type of training would be the most effective."
+            "text": "Enggak kok, supaya kekuatanku terus bertambah,\naku mau lihat sendiri latihan seperti apa yang paling efektif."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Trainer-san is properly supporting me so there's no worries \nthere. But, I can't just sit around doing nothing either."
+            "text": "Trainer-san mendukungku dengan baik, jadi tidak perlu khawatir.\nTapi, aku tidak bisa hanya diam saja."
         },
         {
             "name": "Air Groove",
-            "text": "…Fufuu, you're really fortunate \nto come across such a good team."
+            "text": "...Fufuu, kamu benar-benar beruntung\nketemu tim yang bagus."
         },
         {
             "name": "Air Groove",
-            "text": "Just watching Suzuka during a race makes that clear. Winning \nwith that running style, normally it would be unthinkable."
+            "text": "Cuma dengan lihat Suzuka saat balapan, itu sudah jelas kok.\nMenang dengan gaya lari seperti itu, normalnya sih mustahil."
         },
         {
             "name": "Air Groove",
-            "text": "If you were a normal Uma Musume, I would probably be trying to \nstop you. But, for you, I have high hopes you'll perfect this \notherworldly running style."
+            "text": "Kalau kamu Uma Musume biasa, aku mungkin akan coba menghentikanmu.\nTapi, untukmu, aku berharap kamu bisa menyempurnakan gaya lari yang luar biasa ini."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Right, I'll keep working on it. \nFor the sake of seeing that \"scenery\"."
+            "text": "Tentu, aku akan terus berusaha.\nDemi melihat \"pemandangan\" itu."
         },
         {
             "name": "Air Groove",
-            "text": "I'm looking forward to it. \nTo seeing that dream-like run, and beating you too."
+            "text": "Aku tidak sabar menantikannya.\nMelihat lari yang seperti mimpi itu, dan mengalahkanmu juga."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Fufuu, let's definitely race together again."
+            "text": "Fufuu, ayo kita balapan lagi."
         },
         {
             "name": "Matikanefukukitaru",
@@ -102,112 +102,112 @@
         },
         {
             "name": "Air Groove",
-            "text": "Fukukitaru…?! Why are you dressed like that?!"
+            "text": "Fukukitaru...?! Kenapa kamu pakai baju seperti itu?!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Is this by chance, for a new divination or something?"
+            "text": "Jangan-jangan, ini untuk ramalan baru?"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Wrong! Just a little while ago, \nI was training in the pool as part of my rehab!"
+            "text": "Bukan! Baru saja, aku latihan di kolam renang\nsebagai bagian dari terapi fisikku!"
         },
         {
             "name": "Air Groove",
-            "text": "If I recall, you injured yourself during training. I won't \nsay… luckily, but at least it didn't happen during a race."
+            "text": "Kalau tidak salah, kamu cedera saat latihan. Aku tidak akan bilang... untung, tapi setidaknya itu tidak terjadi saat balapan."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Yeah! I get chills just thinking about what would have happened \nif I was running full speed! This is also due to Shiraoki-sama's \nguidance! Praise be～…"
+            "text": "Iya! Merinding kalau membayangkan apa yang akan terjadi kalau aku lari dengan kecepatan penuh!\nIni juga karena bimbingan dari Shiraoki-sama! Puji syukur~..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Wait, not that! I heard some crazy news so I flew \nover here just like this to talk to you!"
+            "text": "Tunggu, bukan itu! Aku dengar berita gila\njadi aku langsung terbang ke sini untuk bicara denganmu!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Suzuka-san, the next race that you'll be entering \nis the [Kinko Sho]. Is that true?!"
+            "text": "Suzuka-san, balapan selanjutnya yang akan kamu ikuti adalah [Kinko Sho]. Apa itu benar?!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Y-…yeah. It's true…"
+            "text": "Y-..ya. Benar kok..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Gununuu～! To think I'd have to face the super \nstrong Suzuka-san in my return race!"
+            "text": "Gununuu~! Tidak kusangka aku harus melawan Suzuka-san yang super kuat di balapan kembaliku!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "I finally recovered from my injury and felt now would be the \nperfect timing, but an unforeseen strong opponent appears… I \nsense a storm brewing at [Kinko Sho]!"
+            "text": "Aku akhirnya pulih dari cedera dan merasa ini waktu yang pas,\ntapi lawan kuat yang tidak terduga muncul... Aku merasa akan ada badai di [Kinko Sho]!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "If we're talking about strong opponents, what about you? \nFukukitaru winning the [Kika Sho] was really impressive, too."
+            "text": "Kalau soal lawan kuat, bagaimana denganmu? Kemenangan Fukukitaru di [Kika Sho] benar-benar mengesankan."
         },
         {
             "name": "Air Groove",
-            "text": "Yeah, your strong finishes are, without a doubt, the real deal. \nIt'll be an even competition."
+            "text": "Iya, lari cepatmu di akhir balapan itu memang nyata.\nIni akan jadi persaingan yang seimbang."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Mumuu… that's true. It just happened so suddenly \nI panicked a bit too much. After all, the race \nresults haven't been decided yet…"
+            "text": "Mumuu... itu benar. Aku terlalu panik karena terjadi tiba-tiba.\nLagipula, hasil balapannya belum diputuskan..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "I got it! I'm a G1 Title Holder after all! Even if I just \nrecovered, you better expect a dignified race from me!"
+            "text": "Aku paham! Aku ini pemegang Gelar G1! Meskipun aku baru pulih,\nkamu lebih baik berharap balapan yang berwibawa dariku!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Fufufuu, I'm looking forward to our race."
+            "text": "Fufufuu, aku menantikan balapan kita."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Uooooo… that smile is unexpectedly terrifying…! Isn't this \ndefinitely a path that leads to a bad end?! Shiraoki-samaaaa!!"
+            "text": "Uooooo... senyum itu secara tidak terduga menakutkan...! Ini pasti jalan yang mengarah ke akhir yang buruk?! Shiraoki-samaaaa!!"
         },
         {
             "name": "Air Groove",
-            "text": "Forget that, hurry up and go back to the pool!"
+            "text": "Lupakan itu, cepat kembali ke kolam renang!"
         },
         {
             "name": "Spectator A",
-            "text": "Do you think we'll get to see Silence \nSuzuka's escape again, today?"
+            "text": "Apa kita bisa lihat Silence Suzuka lari\nmelaju lagi, hari ini?"
         },
         {
             "name": "Spectator B",
-            "text": "No way! There's a bunch of strong contenders this time. \nThere's no guarantee things will go the same way!"
+            "text": "Tidak mungkin! Kali ini ada banyak saingan kuat.\nTidak ada jaminan hasilnya akan sama!"
         },
         {
             "name": "Spectator C",
-            "text": "Suzuka will definitely go flying out there! \nPlease show us that kind of run again!"
+            "text": "Suzuka pasti akan melaju di depan!\nTolong tunjukkan lari seperti itu lagi!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Suu～… fuu～…"
+            "text": "Suu~... fuu~..."
         },
         {
-            "text": "That was some hard training you just went through. \nYou did a good job making it here."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "When I thought about the \"scenery\" that awaited \nafter all my hard work, it was nothing."
+            "text": "Tadi itu latihan yang berat. Kamu berhasil sampai di sini dengan baik."
         },
         {
             "name": "Silence Suzuka",
-            "text": "I'm very fulfilled right now. \nI'm running towards my dream, and everyday I feel alive."
-        },
-        {
-            "text": "That's true for me too. \nI look forward to seeing Suzuka's growth everyday."
+            "text": "Ketika aku memikirkan \"pemandangan\" yang menanti\nsetelah semua kerja keras ini, itu bukan apa-apa."
         },
         {
             "name": "Silence Suzuka",
-            "text": "In that case, I have to show you how much I've grown. \nIn today's race, I swear I'll run through it in the lead.",
+            "text": "Aku merasa sangat puas sekarang.\nAku lari menuju mimpiku, dan setiap hari aku merasa hidup."
+        },
+        {
+            "text": "Sama denganku. Aku tidak sabar melihat perkembangan Suzuka setiap hari."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Kalau begitu, aku harus menunjukkan seberapa besar aku sudah berkembang.\nDi balapan hari ini, aku bersumpah akan lari di garis depan.",
             "choice_data_list": [
-                "Aim for that \"scenery\" nobody has seen before!"
+                "Bidiklah \"pemandangan\" yang belum pernah dilihat siapa pun!"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Understood! I'll be off!"
+            "text": "Mengerti! Aku pergi dulu!"
         }
     ]
 }

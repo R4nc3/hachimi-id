@@ -3,18 +3,18 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Next, let's organize support cards that will \nhelp you train your horsegirl!"
+            "text": "Sekarang, ayo kita susun kartu-kartu yang akan membantumu melatih Uma Musumemu!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Each card has its own effects, such as the \nappearance of the characters in the support \ncard during training or giving you skills!"
+            "text": "Setiap kartu memiliki efeknya masing-masing, seperti kemunculan karakter di kartu support selama latihan atau memberimu skill!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Please keep in mind you can't use \nsupport cards of the same horsegirl \nthat you're training!",
+            "text": "Ingat, kamu tidak bisa menggunakan kartu support dari Uma Musume yang sama dengan yang sedang kamu latih!",
             "color_text_info_list": [
-                "can't use",
-                "same horsegirl"
+                "tidak bisa menggunakan",
+                "Uma Musume yang sama"
             ]
         }
     ]

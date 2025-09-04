@@ -2,236 +2,231 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "As I was taking a walk on my day off, \nI stumble upon a familiar face…"
+            "text": "Pas lagi jalan santai di hari libur,\ntiba-tiba ketemu muka yang familiar…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Oh, Mom? Sorry, I know you're busy, but… \nI wanted to talk about your schedule next month…"
+            "text": "Oh, Mama? Maaf, aku tahu Mama lagi sibuk, tapi…\nAku mau ngomongin jadwal Mama bulan depan…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Mhm… Yup… Ah, I see. \nHmm… all right, thank you! I'll see you soon then!"
+            "text": "Mhm… iya… Oh, gitu ya.\nHmm… oke deh, makasih! Sampai ketemu nanti ya!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Alright! Now I know which hotel she's staying at… perfect! \nNow all I've got to do is get her a present and… hehe :3",
+            "text": "…Sip! Sekarang aku tahu Mama nginep di hotel mana… pas banget!\nSekarang tinggal nyari hadiah buat Mama dan… hehe :3",
             "choice_data_list": [
-                "Was that your mother on the phone just now?",
-                "Was that your mother on the phone just now?"
+                "Itu tadi Mama kamu yang nelpon?",
+                "Itu tadi Mama kamu yang nelpon?"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "T-Trainer!? What are you doing here… Wait, don't tell me you've \nbeen eavesdropping on me. Stop doing that!"
+            "text": "T-Trainer!? Ngapain di sini… Tunggu, jangan bilang kamu nguping.\nBerhenti nguping!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Sigh…</i> It's my mom's birthday next month, so I was just \nconfirming where I should send her gift to."
+            "text": "<i>Hhh…</i> Bulan depan Mama ulang tahun, jadi aku lagi mastiin\nalamat buat ngirim hadiahnya."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "A surprise birthday gift, to be exact. \nI don't know if she'll be surprised by it, though."
+            "text": "Hadiah ulang tahun kejutan, tepatnya.\nTapi aku nggak tahu bakal bikin dia kaget atau nggak."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "That's why it has to be something that makes her want to say \n\"That's my Scarlet!\" The number one gift that'll make her happy!",
+            "text": "Makanya, harus sesuatu yang bikin dia bilang \"Itu baru Scarlet-ku!\".\nHadiah nomor satu yang bisa bikin dia senang!",
             "choice_data_list": [
-                "Mind if I help you find it?",
-                "Mind if I help you find it?"
+                "Aku bantu nyari, gimana?",
+                "Aku bantu nyari, gimana?"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You? \n…Well, at least you can be useful carrying bags for me."
+            "text": "Kamu?\n…Yaudah deh, lumayan bisa jadi tukang bawain tas."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Fine, I'll let you go with me. \nAlright, let's get going!"
+            "text": "Oke deh, aku izinin kamu ikut.\nAyok, berangkat!"
         },
         {
-            "text": "And so, we started walking around town \nto find the right gift, but…"
+            "text": "Dan akhirnya, kita jalan keliling kota\nbuat nyari hadiah yang pas, tapi…"
         },
         {
-            "text": "…It was a disaster."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "A necklace? Hmm… \nIt's cute, but the design isn't really my mom's style."
+            "text": "…Gagal total."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "These earrings are really pretty too, but it's too shiny. \nThe types mom usually wears have more class…"
+            "text": "Kalung? Hmm…\nLucu sih, tapi desainnya bukan selera Mama."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hmm, what about getting her clothes? Like that brand that's \nnumber one in terms of popularity and sales…"
+            "text": "Antingnya juga bagus, tapi terlalu bling-bling.\nYang biasa Mama pakai lebih elegan…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…and that's pretty much all it has going for it. \nYou can find their designs just about anywhere. \nMy mom would want something more special.",
+            "text": "Hmm, gimana kalau baju aja? Kayak merek yang lagi populer\ndan penjualannya nomor satu…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…tapi cuma itu doang kelebihannya.\nDesainnya bisa ditemuin di mana-mana.\nMama pasti pengen yang lebih spesial.",
             "choice_data_list": [
-                "How about flowers?",
-                "How about flowers?"
+                "Gimana kalau bunga?"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "That's not a bad idea, but… I want to give her \nsomething special. It's her birthday after all, \nI want to make her as happy as possible."
+            "text": "Nggak buruk sih idenya, tapi… aku pengen kasih\nsesuatu yang spesial. Kan ulang tahun Mama,\naku pengen bikin dia sesenang mungkin."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "And I can only do that if it's something only I could come up \nwith… I've got to find the number one present for her."
+            "text": "Dan aku cuma bisa ngelakuin itu kalau hadiahnya cuma aku\nyang bisa kasih… Aku harus nemuin hadiah nomor satu buat dia."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "We've gone through all the places around here. \nLet's go to the mall next!"
+            "text": "Kita udah keliling semua tempat di sekitar sini.\nSekarang ke mal aja yuk!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hmm… There's a lot to choose from, \nbut none of them really fit mom.",
+            "text": "Hmm… Banyak banget sih pilihannya,\ntapi nggak ada yang cocok buat Mama.",
             "choice_data_list": [
-                "You really love your mother, huh.",
-                "You really love your mother, huh."
+                "Kamu sayang banget ya sama Mama kamu."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Of course I do! \nAfter all, my mom is an amazing horse girl!"
+            "text": "Ya iyalah! Tentu saja!\nMama kan horse girl yang hebat!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "It's one thing that she was a really successful horse \ngirl back in her day, but now she's also traveling \naround the world doing all sorts of jobs!"
+            "text": "Selain karena dia dulu sukses jadi horse girl,\nsekarang dia juga keliling dunia ngurusin banyak pekerjaan!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "She's the definition of a capable horse \ngirl. She's just wonderful!",
+            "text": "Dia itu definisi dari horse girl yang kompeten.\nDia luar biasa!",
             "choice_data_list": [
-                "So she's an inspiration to you, I see.",
-                "So she's an inspiration to you, I see."
+                "Jadi dia panutan kamu, ya."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Yeah, that's right."
+            "text": "Iya, bener banget."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "She wasn't around for the first time I got number one in a race, \nbut she left me a voice mail where she said \"congratulations.\""
+            "text": "Waktu pertama kali aku juara satu di balapan, Mama lagi nggak ada,\ntapi dia ninggalin voice mail isinya \"selamat\"."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I was so happy back then… Even now, whenever I'm number one in \na race, I always get a message from her."
+            "text": "Waktu itu aku seneng banget… Sampai sekarang, tiap kali aku juara\nsatu di balapan, pasti selalu ada pesan dari Mama."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "It was always just a few words, but… \nmy mom's messages are my treasure.",
+            "text": "Cuma beberapa kata, tapi…\npesan dari Mama itu harta karunku.",
             "choice_data_list": [
-                "That's why you want to be number one?"
+                "Makanya kamu pengen jadi nomor satu?"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "More or less. Well, nowadays there's also the selfish \nreason that I just don't want to lose."
+            "text": "Kurang lebih gitu. Tapi sekarang juga ada alasan egoisnya sih,\nyakni aku nggak mau kalah aja."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Anyway, I have to be number one in terms of picking \nout presents too. I won't settle for anything less! \nAlright, let's go to the next place!"
+            "text": "Pokoknya, aku harus nomor satu dalam hal milih hadiah juga.\nAku nggak akan puas kalau nggak nomor satu! Oke, ayo kita ke tempat selanjutnya!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Ugh… I'm starting to run out of ideas. \nI've thought about food, accessories, shoes… nothing."
+            "text": "…Ugh… Aku mulai kehabisan ide.\nUdah mikirin makanan, aksesori, sepatu… nggak ada yang cocok."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hey, do you have any good ideas? \nI'll listen as long as it gives me some inspiration."
+            "text": "Eh, kamu punya ide bagus nggak?\nAku dengerin, selama bisa jadi inspirasi."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But I'll have you know, anything ordinary is out of the question. \nIt has to be a special present only I can give!"
+            "text": "Tapi, inget ya, yang biasa-biasa aja nggak usah.\nHarus hadiah spesial yang cuma aku yang bisa kasih!"
         },
         {
-            "text": "Something special… the number one thing that \nwould make her happy… I've got it!"
+            "text": "Sesuatu yang spesial… hadiah nomor satu\nyang bisa bikin dia senang… aku tahu!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "What is it? Have you figured something out?",
+            "text": "Apa? Kamu udah dapet idenya?",
             "choice_data_list": [
-                "Get number one in a race!",
-                "Get number one in a race!"
+                "Juara satu di balapan!"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Get number one in a race… as a birthday gift?"
+            "text": "Juara satu di balapan… sebagai hadiah ulang tahun?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hmm… well, that's not a bad idea… I guess? \nMom always contacts me whenever I get number one, so…"
+            "text": "Hmm… nggak buruk juga sih… ya nggak? Mama kan selalu\nngubungin aku tiap kali aku juara satu, jadi…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "A number one dedicated to her… If I get number one and say \n\"Happy birthday, mom!\" during the interview…",
+            "text": "Juara satu khusus buat dia… Kalau aku juara satu terus pas\nwawancara aku bilang \"Selamat ulang tahun, Mama!\"…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Itu bakal jadi ulang tahun terbaik!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Y-ya, kamu bener! Mungkin nggak bisa pas hari-H-nya, tapi…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Itu hadiah spesial yang nggak ada orang lain yang bisa kasih.\nAku akan juara satu buat dia…!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Nggak buruk ide dari kamu.\nKamu boleh bangga."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Sip! Aku udah mutusin! Aku bakal juara satu di balapan\nberikutnya! Itu bagus juga kan buat kamu? Aku menang.",
             "choice_data_list": [
-                "It would be the best birthday ever!",
-                "It would be the best birthday ever!"
+                "Tentu aja!"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Y-yeah, you're right! \nI probably won't be able to give it to her on the day, but…"
+            "text": "Kalau gitu, tunggu apa lagi?\nLangsung latihan!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "It's a special present nobody else can give her. \nI'll get number one for her…!"
+            "text": "Ngap… <i>ngap… ngap…</i> fiuh."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Not bad coming from you. \nYou can be proud of that one."
+            "text": "Kayaknya tadi aku terlalu kenceng. Keringetan sampai kena mata…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Alright! I've made up my mind! I'll get number one on the next \nrace for sure! That'd be great for you too, right? Me winning.",
+            "text": "…Nggak, nggak boleh berhenti sekarang! Aku harus lebih giat!",
             "choice_data_list": [
-                "Of course!"
+                "Aku yakin Mama kamu bakal senang."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well then, what are we waiting for? \nLet's get straight to training!"
+            "text": "Iya… bikin aku semangat buat lanjutin!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Pant… <i>pant… pant…</i> phew."
+            "text": "Hehe, aku juga harus mulai mikirin mau ngomong apa sama Mama\npas wawancara nanti!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I might have gone too fast there. I got sweat in my eyes…"
+            "text": "Ayo lanjut, pelatih!\nAku pasti bakal juara satu, jadi… kamu juga harus lebih giat!"
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "…No, I can't just stop now! I've got to try harder!",
-            "choice_data_list": [
-                "I'm sure your mom will be happy.",
-                "I'm sure your mom will be happy."
-            ]
+            "text": "Keesokan harinya, Daiwa Scarlet tampil memukau\ndan berhasil jadi \"juara satu\"."
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "Yeah… It's giving me the will to keep going!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Hehe, I better start thinking of what to \nsay to my mom during the interview too!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Let's keep going, trainer! \nI'll definitely get number one, so… You better work harder too!"
-        },
-        {
-            "text": "The next day, Daiwa Scarlet did an impressive \njob and got \"number one\"."
-        },
-        {
-            "text": "It was like she reverted back to a child when she got a call from \nher mother. She smiled so happily."
+            "text": "Waktu dia dapat telepon dari Mamanya, dia senyum saking senangnya,\nkayak anak kecil lagi."
         }
     ]
 }
