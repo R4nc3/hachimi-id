@@ -3,22 +3,22 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "This is called the “paddock”. Horse \ngirls appear before the race and \nshow off to their fans!",
+            "text": "Ini namanya 'paddock'. Para Uma Musume muncul sebelum lomba dan pamer ke penggemar mereka!",
             "color_text_info_list": [
                 "paddock"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Pay attention! In the paddock, you can check \nvarious factors before you start the race."
+            "name": "Ketua Akikawa",
+            "text": "Perhatikan baik-baik! Di paddock, kamu bisa cek berbagai faktor sebelum mulai lomba."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "As for more information… Tazuna! \nGive the Trainer an explanation!"
+            "name": "Ketua Akikawa",
+            "text": "Untuk info lebih lanjut... Tazuna! Tolong jelaskan ke Trainer!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Leave it to me ♪"
+            "text": "Serahkan padaku ♪"
         }
     ]
 }
