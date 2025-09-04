@@ -2,76 +2,76 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day after the Selection Race. I really am \nconcerned about Daiwa Scarlet. I want to try \nagain and have a proper talk with her…"
+            "text": "Sehari setelah Selection Race. Aku bener-bener \nkhawatir sama Daiwa Scarlet. Aku pengen coba \nlagi dan ngobrol sama dia…"
         },
         {
-            "text": "I came to see her with those intentions in mind, but she was \nalready surrounded by a bunch of trainers."
+            "text": "Aku dateng buat ngobrol sama dia, tapi ternyata \ndia udah dikerubungin banyak trainer."
         },
         {
-            "name": "Experienced Trainer A",
-            "text": "It's a shame you were this close to winning the Selection Race, \nbut… I'm sure you also have what it takes to win the G1!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "\"Also\"?"
-        },
-        {
-            "name": "Rookie Trainer A",
-            "text": "I've got a plan! Instead of going full speed right off the gate, \nhow about you save your stamina? If you can do that, you can win \nthe race just like Vodka did―"
+            "name": "Trainer Senior A",
+            "text": "Sayang banget, kamu hampir menang di Selection Race, \ntapi… Aku yakin kamu juga punya potensi buat menang di G1!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "\"Just like Vodka,\" you say?"
+            "text": "\"Juga\"?"
         },
         {
-            "name": "Trainers",
-            "text": "Uhh… ummm…"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Excuse me, but I will be taking my leave now. \n…Good day, sirs."
-        },
-        {
-            "text": "Daiwa Scarlet left the area with an alarming smile on her face."
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "Hmm… I was told she's supposed to be a \"well-mannered honor \nstudent,\" but… It seems to me that she has quite a temper?"
-        },
-        {
-            "name": "Rookie Trainer A",
-            "text": "With an attitude like that… She'll be quite the trouble to \ntrain, no matter how talented she is…"
-        },
-        {
-            "text": "…I'll just try to catch up to her."
+            "name": "Trainer Pemula A",
+            "text": "Aku punya rencana! Daripada lari kenceng dari awal, \ngimana kalo kamu simpen tenaga dulu? Kalo bisa, kamu pasti \nmenang kayak Vodka—"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Sigh…</i>"
+            "text": "\"Kayak Vodka,\" gitu?"
+        },
+        {
+            "name": "Para Trainer",
+            "text": "Eeh… ummm…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Hm? \nWhere's all that noise coming from?"
+            "text": "Permisi, saya mau pergi sekarang. \n…Selamat siang, bapak-bapak."
+        },
+        {
+            "text": "Daiwa Scarlet pergi sambil senyum aneh."
+        },
+        {
+            "name": "Trainer Senior A",
+            "text": "Hmm… Katanya dia \"murid teladan yang sopan\", \ntapi… Kayaknya dia gampang marah, ya?"
+        },
+        {
+            "name": "Trainer Pemula A",
+            "text": "Sikapnya gitu… Pasti susah buat ngelatih dia, \nmeskipun dia berbakat…"
+        },
+        {
+            "text": "…Aku susul aja ah."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Haaah…</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…Hm? \nSuara berisik apa tuh?"
         },
         {
             "name": "Vodka",
-            "text": "Aahhh! Stop following me all day! \nI told you to give me some time to think about it!"
+            "text": "Aahhh! Jangan ikutin aku terus! \nKan aku udah bilang kasih aku waktu buat mikir!"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "You say that but all you've been doing is running! \nCome and join my team, Vodka! I even have overseas \noffers lined up for you, you know!?"
+            "name": "Trainer Senior B",
+            "text": "Kamu bilang gitu tapi kamu lari terus! \nGabung timku, Vodka! Aku bahkan udah siapin penawaran \ndari luar negeri, lho!?"
         },
         {
             "name": "Vodka",
-            "text": "Yeah, yeah, I got it! \nJust leave me alone for a bit!!"
+            "text": "Iya, iya, aku tau! \nUdah ah, jangan ganggu aku!!"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "Ah… wait, Vodka…! I won't give up… I swear I'll make you \ninto the number one fastest horse girl!"
+            "name": "Trainer Senior B",
+            "text": "Ah… tunggu, Vodka…! Aku gak bakal nyerah… Aku janji bakal \nbikin kamu jadi horse girl tercepat nomor satu!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "\"Number one…\""
+            "text": "\"Nomor satu…\""
         },
         {
             "name": "Daiwa Scarlet",
@@ -79,95 +79,95 @@
         },
         {
             "name": "Air Groove",
-            "text": "There you are, Daiwa Scarlet."
+            "text": "Nah itu kamu, Daiwa Scarlet."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Huh? Ah… Air Groove-senpai!? \nUm… do you need anything from me?"
+            "text": "Hah? Ah… Air Groove-senpai!? \nUmm… ada apa, Senpai?"
         },
         {
             "name": "Air Groove",
-            "text": "I'm here to give you a warning."
+            "text": "Aku ke sini buat ngasih peringatan."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Huh…?"
+            "text": "Hah…?"
         },
         {
             "name": "Air Groove",
-            "text": "As vice-president of the student council, I've come to give you a \nstrict warning… Daiwa Scarlet, you've been sneaking out of the \ndorms every night lately."
+            "text": "Sebagai wakil ketua OSIS, aku mau kasih peringatan keras… \nDaiwa Scarlet, akhir-akhir ini kamu sering keluar dari \nasrama tiap malem."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Uh… I can explain…"
+            "text": "Uh… aku bisa jelasin…"
         },
         {
             "name": "Air Groove",
-            "text": "Without any sort of prior notice… \nBreaking curfew and going out at night is inexcusable behavior."
+            "text": "Tanpa izin… \nKeluar malam-malam dan melanggar jam malam itu gak bisa dimaafin."
         },
         {
             "name": "Air Groove",
-            "text": "An honor student like yourself should be well \naware of these rules, Daiwa Scarlet."
+            "text": "Sebagai murid teladan, kamu harusnya tau aturan ini, Daiwa Scarlet."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…I understand. \nI'm very sorry… for my behavior."
+            "text": "…Aku ngerti. \nAku bener-bener minta maaf… atas sikapku."
         },
         {
             "name": "Air Groove",
-            "text": "Good grief…"
+            "text": "Ya ampun…"
         },
         {
             "name": "Air Groove",
-            "text": "I take it you've been running? \nAnd for a considerable amount of time every night, too."
+            "text": "Kamu lagi lari, ya? \nDan tiap malem, lari lumayan lama lagi."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ehh… how could you tell?"
+            "text": "Eeh… kok Senpai tau?"
         },
         {
             "name": "Air Groove",
-            "text": "It's written all over your face and the way you've been walking."
+            "text": "Keliatan banget dari muka dan cara jalanmu."
         },
         {
             "name": "Air Groove",
-            "text": "I'm sure you're aware of this, but you're overworking yourself. \nYou should stop before it's too late."
+            "text": "Aku yakin kamu tau ini, tapi kamu udah terlalu \nmemaksakan diri. Sebaiknya berhenti sebelum terlambat."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But I have to…!"
+            "text": "Tapi aku harus…!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I… got second place… even though my goal has always been \nbeing \"number one\"… I had to be \"number one\"…!"
+            "text": "Aku… cuma dapet posisi kedua… padahal tujuanku \nselalu \"nomor satu\"… Aku harus jadi \"nomor satu\"…"
         },
         {
             "name": "Air Groove",
-            "text": "\"All horse girls eventually experience kneeling on the turf in \ndefeat.\" Just something my mother used to say."
+            "text": "\"Semua horse girl pasti akan pernah bertekuk lutut di lintasan.\" \nItu kata ibuku."
         },
         {
             "name": "Air Groove",
-            "text": "What's more important is how they stand up afterwards. \nDon't be so afraid of failure."
+            "text": "Yang lebih penting adalah gimana mereka bangkit lagi setelah itu. \nJangan takut sama kegagalan."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But it's never been the case until now! I've always been \"number \none!\" I've put in all my effort just so it could stay that way!"
+            "text": "Tapi selama ini aku gak pernah kalah! Aku selalu jadi \"nomor \nsatu!\" Aku udah usaha keras banget biar bisa kayak gitu terus!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Senpai. \nAre you finding all of this… ridiculous?"
+            "text": "…Senpai. \nApa Senpai nganggep ini… konyol?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Could I be the fool all along? Just because I was a bit faster \nthan all the other kids… I ran around telling everyone I was \nnumber one, that I'm some kind of honor student…"
+            "text": "Apa jangan-jangan aku yang bodoh selama ini? Cuma karena aku \nsedikit lebih cepet dari anak-anak lain… Aku lari ke sana ke mari \nbilang aku nomor satu, aku murid teladan…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…but once I finally got to Tracen Academy… I immediately lost \nto someone who was <i>actually</i> fast, like Vodka."
+            "text": "…tapi begitu aku sampe di Akademi Tracen… aku langsung kalah \ndari orang yang *bener-bener* cepet, kayak Vodka."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "When really… being \"number one\" was never really-"
+            "text": "Padahal sebenarnya… jadi \"nomor satu\" itu gak pernah—"
         },
         {
             "name": "Air Groove",
@@ -179,33 +179,29 @@
         },
         {
             "name": "Air Groove",
-            "text": "Don't say another word. \n…You mustn't finish that sentence."
+            "text": "Jangan bilang apa-apa lagi. \n…Kamu gak boleh nyelesaiin kalimat itu."
         },
         {
             "name": "Air Groove",
-            "text": "Things will never be the same."
+            "text": "Semuanya gak akan sama lagi."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…I'm… so horribly sorry… I'm…"
+            "text": "…Aku… minta maaf banget… aku…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I've gotta…!"
+            "text": "Aku harus…!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "What should I even do?"
+            "text": "Aku… gak tau lagi harus gimana!"
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "I… don't even know anymore!"
+            "text": "Sambil menggertakkan gigi, dia terus bergumam…"
         },
         {
-            "text": "As if grinding her teeth, she kept on muttering to herself…"
-        },
-        {
-            "text": "I could never forget the pitiful state that she was in…"
+            "text": "Aku gak bakal bisa lupain betapa menyedihkannya dia waktu itu…"
         }
     ]
 }
