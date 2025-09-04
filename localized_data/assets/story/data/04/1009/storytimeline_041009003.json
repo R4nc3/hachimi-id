@@ -2,142 +2,146 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "For some time <i>after</i> the Selection Race, \nDaiwa Scarlet was surrounded by trainers looking to scout her."
+            "text": "Beberapa waktu <i>setelah</i> Lomba Seleksi,\nDaiwa Scarlet dikelilingi oleh pelatih yang ingin merekrutnya."
         },
         {
-            "text": "But now…"
+            "text": "Tapi sekarang…"
         },
         {
-            "name": "Experienced Trainer A",
-            "text": "Wait, is no one really going to approach Scarlet with an offer?"
+            "name": "Pelatih Berpengalaman A",
+            "text": "Tunggu, seriusan nih gak ada yang mau nawarin Scarlet?"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "I've decided to just focus my efforts on Vodka. No matter how \ngreat Daiwa Scarlet is on the field, it'd be hard for anyone to \ntake her to the next level with that temper of hers…"
+            "name": "Pelatih Pemula A",
+            "text": "Gue mutusin buat fokus ke Vodka aja. Sehebat apa pun Daiwa Scarlet di lapangan, bakal susah buat ngelatih dia ke level selanjutnya kalo emosinya kayak gitu…"
         },
         {
-            "name": "Experienced Trainer A",
-            "text": "Well, you're not exactly wrong. \nI guess I'll give scouting Vodka a shot too."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Hmph, good riddance! Now that the crowd that's been following me \nis gone, I can finally focus on training-"
+            "name": "Pelatih Berpengalaman A",
+            "text": "Ya, ada benernya juga sih. Kayaknya gue juga bakal coba ngelatih Vodka."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…is what I've been wanting to say, but… \nYou! Why are you still here!?",
+            "text": "Hmph, bagus deh! Akhirnya gerombolan yang ngikutin gue pergi juga, gue bisa fokus latihan-"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…Harusnya gue bisa bilang gitu, tapi… Kamu! Kenapa masih di sini!?",
             "choice_data_list": [
-                "I wanted to talk to you.",
-                "I wanted to talk to you."
+                "Aku mau ngobrol sama kamu.",
+                "Aku mau ngobrol sama kamu."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Huh?…Oh, could it be that you still think \nI'm some sort of obedient honor student?"
+            "text": "Hah?…Oh, jangan-jangan kamu masih ngira kalo aku ini murid teladan yang penurut?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well, I might as well say it at this point. \nThat's just me pretending."
+            "text": "Ya udahlah, sekalian aja gue kasih tau. Itu cuma pura-pura doang."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "This is the real me. \n…Like those guys said, I'm a selfish, stubborn pain in the ass."
+            "text": "Ini baru gue yang asli. …Kayak yang mereka bilang, gue itu keras kepala, egois, dan nyebelin."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Let me guess, not what you expected? \nIt's fine, you can go away now.",
+            "text": "Pasti gak sesuai ekspektasi, ya? Udah sana, pergi aja.",
             "choice_data_list": [
-                "I'm not going anywhere."
+                "Aku gak akan pergi ke mana-mana."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Wait. Didn't you hear what I just said?"
+            "text": "…Tunggu. Kamu gak denger apa yang baru gue bilang?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'm not who you think I am! \nWhy don't you get it already!?"
+            "text": "Aku bukan yang kamu kira! Kenapa kamu gak ngerti-ngerti sih!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "There's so many other fast horse girls in Tracen Academy! \nI'm just some poser who acts big and got humiliated!",
+            "text": "Ada banyak Uma Musume yang lebih jago di Akademi Tracen! Gue ini cuma penipu yang sok-sokan jago dan akhirnya dipermalukan!",
             "choice_data_list": [
-                "It wasn't humiliating at all!"
+                "Itu sama sekali gak memalukan!"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You're so persistent. \nI never asked for you to console me!"
+            "text": "Kamu ngeyel banget, sih. Aku gak minta dikasihani!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Even I'm not that clueless… I get it. I know that me saying \n\"I'm number one\" over and over was just a bunch of empty words!"
+            "text": "Gue juga gak sebodoh itu… Gue tau kok. Gue tau kalo ucapan \"gue yang terbaik\" itu cuma omong kosong!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Just because I lost to Vodka once, I got depressed \nand started doing long training runs out of desperation… \nEven I know I was being stupid!"
+            "text": "Cuma karena gue kalah dari Vodka sekali, gue jadi depresi dan mulai latihan lari jauh gara-gara putus asa… Gue juga tau kalo gue bodoh!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But what else could I have done!? \nI couldn't forgive myself unless I was number one!"
+            "text": "Tapi emangnya gue bisa apa lagi!? Gue gak bisa maafin diri gue sendiri kalo gue gak jadi yang terbaik!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "The fastest, strongest, most popular horse girl around… \nI hate being anything other than that kind of number one."
+            "text": "Uma Musume tercepat, terkuat, dan paling populer… Gue benci jadi apa pun selain nomor satu."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I couldn't be satisfied with myself unless I was exactly that… \nThat's just how I am, so that was the only way I could react…!"
+            "text": "Gue gak bisa puas sama diri gue sendiri kalo gue gak kayak gitu… Ya emang gue kayak gitu, makanya itu satu-satunya cara gue bereaksi…!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "For my own sake, I can't stop trying to be number one!",
+            "text": "Demi diri gue sendiri, gue gak bisa berhenti berusaha jadi yang terbaik!",
             "choice_data_list": [
-                "I came here because of that, to support you.",
-                "I came here because of that, to support you."
+                "Aku ke sini karena itu, untuk mendukungmu.",
+                "Aku ke sini karena itu, untuk mendukungmu."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Huh?"
+            "text": "…Hah?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Wait. Even after hearing all that… \nAre you genuinely stupid?"
+            "text": "Tunggu. Bahkan setelah denger semua itu… Kamu beneran bodoh, ya?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Take the hint already! I'm just a stubborn kid who \nonly ever obsesses over being number one!!",
+            "text": "Ngertiin dong! Gue ini cuma anak keras kepala yang terobsesi jadi nomor satu!!"
+        },
+        {
             "choice_data_list": [
-                "Then let's aim for that number one together."
+                "Kalau begitu, mari kita raih posisi nomor satu itu bersama."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I told you no already!! \nWhy are you still talking like you're going to scout me!?"
+            "text": "Kan gue udah bilang jangan!! Kenapa kamu masih ngomong kayak mau ngelatih gue!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Just so you know, \nI'm not going to be some obedient girl who just listens to you!"
+            "text": "Biar kamu tau aja, gue gak akan jadi anak penurut yang cuma dengerin kamu!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Also, I'm going to complain a lot if I don't like \nyour training plan! Can you handle that!?",
+            "text": "Terus, gue bakal banyak ngomel kalo gak suka sama rencana latihanmu! Kamu sanggup!?",
             "choice_data_list": [
-                "Then we'll discuss and adjust it until you like it!",
-                "Then we'll discuss and adjust it until you like it!"
+                "Kalau begitu, kita diskusikan dan sesuaikan sampai kamu suka!",
+                "Kalau begitu, kita diskusikan dan sesuaikan sampai kamu suka!"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…W-What's your problem?"
+            "text": "…K-Kamu kenapa sih?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You want to support me? You want to \ndo this together? Are you serious?",
+            "text": "Kamu mau dukung aku? Kamu mau ngelakuin ini bareng-bareng? Kamu serius?"
+        },
+        {
             "choice_data_list": [
-                "I'm the \"number one\" trainer for you.",
-                "I'm the \"number one\" trainer for you."
+                "Aku adalah pelatih \"nomor satu\" buatmu.",
+                "Aku adalah pelatih \"nomor satu\" buatmu."
             ]
         },
         {
@@ -146,71 +150,71 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Hmph. \n\"Number one\" is my thing, don't copy me."
+            "text": "…Hmph. \"Nomor satu\" itu julukan gue, jangan niru-niru."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Seriously… Why am I stuck with such a weird guy like you…"
+            "text": "Serius deh… Kenapa gue dapet orang aneh kayak kamu sih…"
         },
         {
-            "text": "As if all that she's been bottling up inside in started \noverflowing, Daiwa Scarlet started crying."
+            "text": "Seolah semua yang selama ini dia pendam meluap, Daiwa Scarlet mulai menangis."
         },
         {
-            "text": "And after some time has passed…"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "…How long has it been since I cried in front of anybody?"
+            "text": "Setelah beberapa waktu berlalu…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Sigh…</i> I lost my motivation to train. \n…I'll just go home."
+            "text": "…Udah berapa lama ya, gue gak nangis di depan orang?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "To be honest, my body's been feeling pretty heavy lately. \nI think… I'll go to bed early for once."
+            "text": "<i>Hhh…</i> Udah gak mood latihan. …Gue pulang aja, deh."
         },
         {
-            "text": "I could no longer feel the same drive for victory from Daiwa \nScarlet as she was leaving. It seems like her placement in the \nSelection Race was still weighing on her mind."
+            "name": "Daiwa Scarlet",
+            "text": "Jujur, badan gue belakangan ini juga kerasa berat banget. Kayaknya… Gue bakal tidur lebih awal."
         },
         {
-            "text": "As I was wondering if I could do anything to help regain her \nconfidence, I happened to overhear something in the cafe…"
+            "text": "Aku gak bisa merasakan semangat juang yang sama dari Daiwa Scarlet saat dia pergi. Sepertinya hasil di Lomba Seleksi masih membebani pikirannya."
         },
         {
-            "name": "Tokai Teio",
-            "text": "Heya, Vodka!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Huh?…Oh, it's just you, Teio."
+            "text": "Saat aku berpikir apakah ada yang bisa kulakukan untuk mengembalikan kepercayaan dirinya, aku gak sengaja mendengar sesuatu di kafe…"
         },
         {
             "name": "Tokai Teio",
-            "text": "What do you mean \"just you\"!? \n…Vodka, you're no fun these days."
+            "text": "Hey, Vodka!"
         },
         {
             "name": "Vodka",
-            "text": "It's nothing… Really."
-        },
-        {
-            "name": "Vodka",
-            "text": "It's just… she keeps having that \ndisappointed look on her face…"
+            "text": "Hah?…Oh, cuma lo, Teio."
         },
         {
             "name": "Tokai Teio",
-            "text": "\"She?\" Oh, you mean Scarlet? She's not just your roommate but \nyour rival as well, of course you'd be worried about her!"
+            "text": "Maksud lo \"cuma lo\" apaan!? …Vodka, lo gak asik banget akhir-akhir ini."
         },
         {
             "name": "Vodka",
-            "text": "N-no, man… It's not that…"
+            "text": "Bukan apa-apa… Beneran deh."
+        },
+        {
+            "name": "Vodka",
+            "text": "Cuma… dia terus-terusan masang muka kecewa kayak gitu…"
         },
         {
             "name": "Tokai Teio",
-            "text": "But yeah, she does look pretty down. Did losing to you in the \nSelection Race really bum her out that bad?"
+            "text": "\"Dia?\" Oh, maksud lo Scarlet? Dia kan bukan cuma teman sekamar lo, tapi juga rival lo, wajar dong lo khawatir sama dia!"
         },
         {
             "name": "Vodka",
-            "text": "…I never thought she was the kind to \nlet that sort of thing get her down."
+            "text": "G-gak, bro… Bukan gitu…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Tapi ya, dia kelihatan sedih banget. Apa kalah dari lo di Lomba Seleksi beneran bikin dia sejatuh itu?"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Gue gak pernah nyangka dia bakal segitunya gara-gara hal kayak gitu."
         },
         {
             "name": "Tokai Teio",
@@ -218,14 +222,14 @@
         },
         {
             "name": "Vodka",
-            "text": "Tch, whatever man. I just can't imagine myself losing to her if \nshe's being like that. That's all."
+            "text": "Tch, bodo amat. Gue gak bisa bayangin diri gue kalah dari dia kalo dia terus-terusan kayak gitu. Itu aja."
         },
         {
             "name": "Tokai Teio",
-            "text": "Ahh, hey! Vodka, wait up!!"
+            "text": "Ahh, hey! Vodka, tungguin!!"
         },
         {
-            "text": "―I think I just came up with a good idea."
+            "text": "―Aku rasa aku baru aja dapet ide bagus."
         }
     ]
 }
