@@ -3,19 +3,15 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Here you can strenghten your horsegirls \nand support cards, as well as manage \nyour finished \"Hall of Fame\" horsegirls \nafter training."
+            "text": "Di sini kamu bisa naikin level Uma Musume dan Kartu Support, serta ngatur Uma Musume yang udah selesai kamu latih dan masuk ke 'Hall of Fame'."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Strenghtening your horsegirls or support \ncards before training with them will lead to \nbetter results!"
+            "text": "Naikin level Uma Musume atau Kartu Support sebelum latihan bareng mereka bakal bikin hasilnya jadi lebih bagus, lho!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Also, you can obtain the materials \nrequired mostly from races.",
-            "color_text_info_list": [
-                "obtain the materials",
-                "from races"
-            ]
+            "text": "Oh ya, kamu juga bisa dapetin materialnya, kebanyakan dari balapan."
         }
     ]
 }
