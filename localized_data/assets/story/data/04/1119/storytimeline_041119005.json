@@ -2,137 +2,70 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "While listening to the sound of pouring rain, I stared \nat the monitor――I was looking over Dream Journey's data.",
-            "choice_data_list": [
-                "Training is going well……"
-            ]
+            "text": "Sambil mendengarkan suara hujan yang turun, aku menatap monitor――Aku sedang melihat data Dream Journey."
         },
         {
-            "text": "It had been a short while since I had become her trainer. So far \nthere haven't been any problems. It was going almost too smoothly."
+            "text": "Sudah beberapa saat sejak aku menjadi pelatihnya. Sejauh ini tidak ada masalah. Semuanya berjalan terlalu mulus."
         },
         {
-            "text": "But that's why――"
+            "text": "Tapi justru itulah sebabnya――"
         },
         {
             "name": "Dream Journey",
-            "text": "My memory is on the good side, I'd say. \nWhen I enrolled and first saw you……I knew exactly who you were."
+            "text": "Kurasa ingatanku cukup bagus. Saat aku mendaftar dan pertama kali melihatmu……aku langsung tahu siapa kamu."
         },
         {
             "name": "Dream Journey",
-            "text": "Someone who would give up your spot to some unknown \ngirl, honestly open up about themselves when talking \nto others……It left quite an impression."
+            "text": "Seseorang yang rela memberikan tempatnya pada gadis yang tidak dikenal, yang jujur saat berbicara dengan orang lain……Itu meninggalkan kesan yang mendalam."
         },
         {
             "name": "Dream Journey",
-            "text": "There was noone that could have been more desirable. \nAs the kind of trainer I would want……"
+            "text": "Tidak ada orang yang lebih diinginkan. Sebagai pelatih yang kuinginkan……"
         },
         {
-            "text": "Maybe I was just dancing in the palm of her hand…… \nthat was the thought that crossed my mind."
+            "text": "Mungkin aku hanya menari dalam telapak tangannya……itulah pikiran yang melintas di benakku."
         },
         {
-            "text": "I thought back to the plan she showed me when \nwe first formed a contract. It was a thoroughly \nthought out, perfectly planned three years.",
-            "choice_data_list": [
-                "……I need to find a purpose."
-            ]
+            "text": "Aku teringat kembali pada rencana yang dia tunjukkan saat kami pertama kali membuat kontrak. Itu adalah tiga tahun yang dipikirkan dengan matang, terencana dengan sempurna."
         },
         {
-            "text": "『Easy to handle』 \n――I don't agree with that. I couldn't."
+            "text": "『Mudah diatur』\n――Aku tidak setuju dengan itu. Aku tidak bisa."
         },
         {
-            "text": "I need to find some way to be valuable to her. \nIn a real sense, I needed to find a way to be necessary."
+            "text": "Aku harus menemukan cara untuk menjadi berharga baginya. Dalam arti yang sebenarnya, aku harus menemukan cara untuk menjadi sosok yang dibutuhkan."
         },
         {
-            "text": "To do that, I would need to put in more effort \nthan an average person. I needed to learn alot, \nexperience a lot, and then maybe someday――",
-            "choice_data_list": [
-                "Enough to shock her……!"
-            ]
+            "text": "Untuk melakukannya, aku harus berusaha lebih keras dari orang biasa. Aku harus banyak belajar, banyak mengalami, dan mungkin suatu hari nanti――"
         },
         {
-            "text": "I took the first page of her plans, folded it neatly and put it \nin my wallet. I'd use it as a charm to remind me of my decision."
+            "text": "Aku mengambil halaman pertama dari rencananya, melipatnya dengan rapi dan memasukkannya ke dalam dompetku. Aku akan menggunakannya sebagai pengingat keputusanku."
         },
         {
             "name": "Dream Journey",
-            "text": "So you're here today too."
+            "text": "Jadi, kamu di sini lagi hari ini."
         },
         {
             "name": "Dream Journey",
-            "text": "Lately, you've been coming to the library pretty often…… \nIs there something that you're interested in?",
-            "choice_data_list": [
-                "……No, just studying.",
-                "……No, just studying."
-            ]
+            "text": "Akhir-akhir ini, kamu sering datang ke perpustakaan……Apa ada sesuatu yang kamu minati?"
         },
         {
             "name": "Dream Journey",
-            "text": "I see. \nTrainer-san is really passionate about studying, huh?"
+            "text": "Oh, begitu. Trainer-san benar-benar bersemangat dalam belajar, ya?"
         },
         {
             "name": "Dream Journey",
-            "text": "That being said, please don't push yourself too hard. Perhaps \nit's because of the rain, but today is just a little chilly……"
+            "text": "Meskipun begitu, jangan memaksakan diri terlalu keras. Mungkin karena hujan, tapi hari ini agak sedikit dingin……"
         },
         {
             "name": "Dream Journey",
-            "text": "So I hope you don't catch a cold. \nIf you were to collapse, it would all be for naught."
+            "text": "Jadi, kuharap kamu tidak masuk angin. Kalau kamu sampai tumbang, semuanya akan sia-sia."
         },
         {
             "name": "Dream Journey",
-            "text": "If there are any problems, let me know. Let's \nthink about them together. Personally, I would \nlike to see you rewarded for your efforts."
+            "text": "Jika ada masalah, beri tahu aku. Mari kita pikirkan bersama. Secara pribadi, aku ingin melihat usahamu membuahkan hasil."
         },
         {
-            "text": "Her words and voice overflowed with concern for me. \nNormally, I would take her words at face value, but……"
-        },
-        {
-            "text": "I couldn't help but think about her true \nintentions behind those word. I looked to \nthe stack of books on the desk and shook my head.",
-            "choice_data_list": [
-                "Thanks for worrying about me."
-            ]
-        },
-        {
-            "name": "Dream Journey",
-            "text": "…………"
-        },
-        {
-            "name": "Dream Journey",
-            "text": "It's nothing worth mentioning, Trainer-san."
-        },
-        {
-            "text": "When I looked out of the window, the rain had \nstopped and the sun was setting. I roll my shoulders \nand then stand up to go home. When I do――"
-        },
-        {
-            "text": "There was a thermos with warm coffee on the desk. Next \nto it was a note saying 『Thanks for your hard work』.",
-            "choice_data_list": [
-                "……Journey?"
-            ]
-        },
-        {
-            "name": "Dream Journey",
-            "text": "…………"
-        },
-        {
-            "name": "Dream Journey",
-            "text": "……honest, kind, sincere, and hardworking. \nQuite the appealing person."
-        },
-        {
-            "name": "Dream Journey",
-            "text": "I had quite the wonderful encounter."
-        },
-        {
-            "text": "『……Because I'm easy to handle』"
-        },
-        {
-            "name": "Dream Journey",
-            "text": "Please don't belittle yourself like that. \nYou're an amazing trainer."
-        },
-        {
-            "name": "Dream Journey",
-            "text": "(……Yes, truly. It's not a lie, I believe it wholeheartedly.)"
-        },
-        {
-            "name": "Dream Journey",
-            "text": "That's why, I hope you don't change."
-        },
-        {
-            "name": "Dream Journey",
-            "text": "No matter what kind of journey this becomes. \nI hope you stay the way you were……back when we first met."
+            "text": "Kata-kata dan suaranya penuh dengan perhatian untukku. Biasanya..."
         }
     ]
 }
