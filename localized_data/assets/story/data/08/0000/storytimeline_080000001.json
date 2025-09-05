@@ -2,80 +2,80 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "—— This is Tracen Academy.",
+            "text": "—— Ini adalah Akademi Tracen.",
             "color_text_info_list": [
-                "Tracen Academy"
+                "Akademi Tracen"
             ]
         },
         {
-            "text": "Many promising young horsegirls \ngather here, dreaming of running \nin the prestigious Twinkle Series…",
+            "text": "Banyak Uma Musume muda yang menjanjikan\nberkumpul di sini, bermimpi untuk berlari\ndi Twinkle Series yang bergengsi…",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
-            "text": "They spend their days studying together, \ntraining their bodies and minds…"
+            "text": "Mereka menghabiskan hari-hari mereka belajar bersama,\nmelatih tubuh dan pikiran mereka…"
         },
         {
-            "text": "…Yet, one day ——"
+            "text": "…Namun, suatu hari ——"
         },
         {
-            "name": "Director Akikawa",
-            "text": "Emergency!!!!!"
+            "name": "Direktur Akikawa",
+            "text": "Gawat!!!!!"
         },
         {
-            "name": "Director Akikawa",
-            "text": "This cannot go oooon!!!!"
+            "name": "Direktur Akikawa",
+            "text": "Ini tidak bisa diteruskaaann!!!!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Wh-What's the matter, Director?"
+            "text": "A-Ada apa, Direktur?"
         },
         {
-            "name": "Director Akikawa",
-            "text": "Tazuna! As director of Tracen Academy, \nI love horsegirls with all my heart…",
+            "name": "Direktur Akikawa",
+            "text": "Tazuna! Sebagai direktur Akademi Tracen,\naku mencintai para Uma Musume dengan sepenuh hatiku…",
             "color_text_info_list": [
                 "Tazuna"
             ]
         },
         {
-            "name": "Director Akikawa",
-            "text": "Concern!! Many of them currently \ndon't have a chance to fully shine! \nThis situation greatly worries me!!"
+            "name": "Direktur Akikawa",
+            "text": "Perhatian!! Banyak dari mereka saat ini\ntidak punya kesempatan untuk bersinar sepenuhnya!\nSituasi ini sangat membuatku khawatir!!"
         },
         {
-            "name": "Director Akikawa",
-            "text": "Which! Is! Why!"
+            "name": "Direktur Akikawa",
+            "text": "Itu! Lah! Sebabnya!"
         },
         {
-            "name": "Director Akikawa",
-            "text": "Proposal! I will organize an \nentirely new racing event!!",
+            "name": "Direktur Akikawa",
+            "text": "Usul! Aku akan menyelenggarakan\nacara balapan yang benar-benar baru!!",
             "color_text_info_list": [
-                "new racing event"
+                "acara balapan yang benar-benar baru"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "What!? A… A new racing event…!?"
+            "text": "Apa!? Se… Sebuah acara balapan baru…!?"
         },
         {
-            "name": "Director Akikawa",
-            "text": "Affirmation!! A set of races in addition \nto the beloved Twinkle Series!"
+            "name": "Direktur Akikawa",
+            "text": "Benar!! Serangkaian balapan sebagai tambahan\ndari Twinkle Series tercinta!"
         },
         {
-            "name": "Director Akikawa",
-            "text": "Including all distances, all courses! \nA racing event unlike any other!!",
+            "name": "Direktur Akikawa",
+            "text": "Mencakup semua jarak, semua lintasan!\nAcara balapan yang tiada duanya!!",
             "color_text_info_list": [
-                "all distances",
-                "all courses"
+                "semua jarak",
+                "semua lintasan"
             ]
         },
         {
-            "name": "Director Akikawa",
-            "text": "I will call it…"
+            "name": "Direktur Akikawa",
+            "text": "Akan kunamakan…"
         },
         {
-            "name": "Director Akikawa",
-            "text": "The URA Finale!",
+            "name": "Direktur Akikawa",
+            "text": "URA Finale!",
             "color_text_info_list": [
                 "URA Finale"
             ]
@@ -85,32 +85,32 @@
             "text": "URA… Finale…!!"
         },
         {
-            "name": "Director Akikawa",
-            "text": "Prepare yourself, Tazuna! \nWe're about to get very busy!!"
+            "name": "Direktur Akikawa",
+            "text": "Siapkan dirimu, Tazuna!\nKita bakal sibuk banget!!"
         },
         {
-            "name": "Director Akikawa",
-            "text": "Haste!! We must schedule a press \nconference to let everybody know!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Director…!"
+            "name": "Direktur Akikawa",
+            "text": "Cepat!! Kita harus menjadwalkan konferensi pers\nagar semua orang tahu!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "—— Understood. I'll make the arrangements!"
+            "text": "Direktur…!"
         },
         {
-            "text": "…Thus, a new racing event, \nthe URA Finale, was born."
+            "name": "Hayakawa Tazuna",
+            "text": "—— Baik. Akan saya siapkan semuanya!"
         },
         {
-            "text": "This event, created as a stage on which \nall horsegirls could shine…"
+            "text": "…Maka, sebuah acara balapan baru,\nURA Finale, pun lahir."
         },
         {
-            "text": "…Would also be the trigger to your \nvery own story with your trainee!"
+            "text": "Acara ini, dibuat sebagai panggung di mana\nsemua Uma Musume bisa bersinar…"
         },
         {
-            "text": "…Would also be the trigger to your \nvery own story with your trainee!"
+            "text": "…Juga akan menjadi pemicu dari kisahmu\nsendiri bersama anak didikmu!"
+        },
+        {
+            "text": "…Juga akan menjadi pemicu dari kisahmu\nsendiri bersama anak didikmu!"
         }
     ]
 }
