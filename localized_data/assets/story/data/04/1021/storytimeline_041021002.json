@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Udah beberapa hari sejak Tamamo Cross ikut Selection Race, tapi \naku ga bisa berhenti mikirin percakapan terakhir kita…"
+            "text": "Sudah beberapa hari sejak Tamamo Cross ikut Selection Race, tapi \naku tidak bisa berhenti mikirin percakapan terakhir kita…"
         },
         {
             "name": "Tamamo Cross",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "…Gue ga tahan lagi. 'Dengan keadaan begini, kamu ga bisa menang', \nmungkin itu yang mereka pikirin tentang gue… gara-gara lari gue \nyang setengah-setengah."
+            "text": "…gue ga tahan lagi. 'Dengan keadaan begini, kamu ga bisa menang', \nmungkin itu yang mereka pikirin tentang gue… gara-gara lari gue \nyang setengah-setengah."
         },
         {
             "name": "Tamamo Cross",
@@ -83,7 +83,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Alasan gue datang ke akademi ini, karena gue punya \nmimpi yang harus gue wujudin di Twinkle Series."
+            "text": "Alasan gue datang ke akademi ini, karena gue punya \nmimpi yang harus gue wujudkan di Seri Twinkle."
         },
         {
             "name": "Tamamo Cross",
@@ -196,7 +196,7 @@
             "name": "Tamamo Cross",
             "text": "—Nah, apa yang pertama? \nTunjukin apa yang lo punya buat gue."
             "choice_data_list": [
-                "Here's the upcoming menu"
+                "Ini menu latihan buat kedepannya"
             ]
         },
         {
