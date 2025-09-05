@@ -2,65 +2,65 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Commentator",
-            "text": "Ladies and gentlemen, the Aoharu Hai \nis about to begin!",
+            "name": "Komentator",
+            "text": "Hadirin sekalian, Aoharu Hai \nakan segera dimulai!",
             "color_text_info_list": [
                 "Aoharu Hai"
             ]
         },
         {
-            "text": "The Aoharu Hai was a different kind of \nspectacle, which would run in parallel \nto the Twinkle Series.",
+            "text": "Aoharu Hai adalah tontonan yang \nberbeda, dan berlangsung paralel \ndengan Twinkle Series.",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
-            "name": "Commentator",
-            "text": "This team competition, organized by \nTracen Academy, emphasizes team \nplay over individual ability!",
+            "name": "Komentator",
+            "text": "Kompetisi tim yang diselenggarakan \noleh Tracen Academy ini, \nmenekankan kerja sama tim di atas \nkemampuan individu!",
             "color_text_info_list": [
                 "Tracen Academy"
             ]
         },
         {
-            "text": "This, however, wasn't an \nordinary racing event!"
+            "text": "Ini bukanlah balapan biasa!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "We must save our academy from \nthe crisis it faces!"
+            "text": "Kita harus menyelamatkan akademi kita \ndari krisis yang dihadapi!"
         },
         {
             "name": "Haru Urara",
-            "text": "Hey, are we going to become heroes?!"
+            "text": "Hei, apakah kita akan menjadi pahlawan?!"
         },
         {
             "name": "Rice Shower",
-            "text": "I… don't know if I can do it…"
+            "text": "Aku... tidak tahu apakah aku bisa melakukannya..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "We can do it, together! \nGo, team… gooo!"
+            "text": "Kita bisa melakukannya, bersama-sama! \nAyo, tim... ayooo!"
         },
         {
-            "name": "Team Members",
-            "text": "Gooo!"
+            "name": "Seluruh Anggota Tim",
+            "text": "Ayoo!"
         },
         {
             "name": "Little Cocon",
-            "text": "Heh… If that's all it took to \nwin, nobody would struggle."
+            "text": "Heh... kalau cuma begitu aja \nbuat menang, gak akan ada yang kesusahan."
         },
         {
             "name": "Bitter Glasse",
-            "text": "Yeah, you said it!"
+            "text": "Iya, benar banget!"
         },
         {
             "name": "Acting Chair Kashimoto",
-            "text": "—— Do you people think you \ncan defeat my team?"
+            "text": "—— Apa kalian pikir bisa \nmengalahkan timku?"
         },
         {
-            "text": "The tumultuous team story surrounding \nthe Aoharu Hai awaits!"
+            "text": "Kisah tim yang kacau balau di sekitar \nAoharu Hai sudah menunggu!"
         },
         {
-            "text": "The tumultuous team story surrounding \nthe Aoharu Hai awaits!"
+            "text": "Kisah tim yang kacau balau di sekitar \nAoharu Hai sudah menunggu!"
         }
     ]
 }
