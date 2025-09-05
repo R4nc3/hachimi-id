@@ -13,6 +13,7 @@ Terjemahan-terjemahan di sini berasal dari [sumber-sumber ini](#translation-sour
 [![Papah-Chan](https://github.com/FahriAdison.png?size=100)](https://github.com/FahriAdison)
 
 > ` For help me create this project translation`
+> `And Thanks To Avura,Arekyuu,Crystant`
 
 ---
 
