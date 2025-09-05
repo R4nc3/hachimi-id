@@ -3,90 +3,61 @@
     "text_block_list": [
         {
             "name": "Dream Journey",
-            "text": "Well then, I'll see you again at training after school. \nI'm looking forward to it.",
-            "choice_data_list": [
-                "Yeah……",
-                "Yeah……"
-            ]
+            "text": "Kalau begitu, sampai ketemu lagi di latihan sepulang sekolah. Aku menantikannya."
         },
         {
             "name": "Dream Journey",
-            "text": "Excuse me……are you tired, perhaps? \nMake sure to get a nice long rest. ……Well then.",
-            "choice_data_list": [
-                "T-thank you……Good work!"
-            ]
+            "text": "Maaf……apa kamu lelah? Pastikan untuk istirahat yang cukup. ……Kalau begitu."
         },
         {
-            "text": "It had been a few days since I signed that contract with \nDream Journey. Everything was going well and she was even \nlooking after me……that atmosphere from a few days ago was gone.",
-            "choice_data_list": [
-                "(It must have been my imagination)",
-                "(It must have been my imagination)"
-            ]
+            "text": "Sudah beberapa hari sejak aku menandatangani kontrak dengan Dream Journey. Semuanya berjalan lancar dan dia bahkan menjagaku……suasana dari beberapa hari yang lalu sudah hilang."
         },
         {
             "name": "Uma Musume A",
-            "text": "Um, Trainer-san!",
-            "choice_data_list": [
-                "! You're……",
-                "! You're……"
-            ]
+            "text": "Um, Trainer-san!"
         },
         {
-            "text": "It was the girl I had planned on talking to \nbefore. In the end, I was never able to contact \nher after that and I was a little worried……"
+            "text": "Itu adalah gadis yang tadinya aku rencanakan untuk diajak bicara. Pada akhirnya, aku tidak pernah bisa menghubunginya setelah itu dan aku sedikit khawatir……"
         },
         {
             "name": "Uma Musume A",
-            "text": "I completely forgot to send you a message…… \nI just wanted to apologize for that. But, as I \nthought, you're looking after Journey-san. I'm glad!",
-            "choice_data_list": [
-                "What do you mean……?"
-            ]
+            "text": "Aku benar-benar lupa mengirimimu pesan……Aku hanya ingin minta maaf untuk itu. Tapi, seperti yang kupikirkan, kamu sedang menjaga Journey-san. Aku senang!"
         },
         {
             "name": "Uma Musume A",
-            "text": "Huh, Journey-san told you didn't she? \nShe helped change which trainer would be instructing me!"
+            "text": "Hah, Journey-san sudah memberitahumu, kan? Dia membantu mengubah pelatih yang akan mengajariku!"
         },
         {
             "name": "Uma Musume A",
-            "text": "On that day, Journey-san……had an appointment with a \npopular trainer. Super famous and with an amazing career!"
+            "text": "Pada hari itu, Journey-san……memiliki janji dengan pelatih populer. Super terkenal dan dengan karir yang luar biasa!"
         },
         {
             "name": "Uma Musume A",
-            "text": "When I told Journey-san how amazing it was, she offered to \nswitch trainers! She said she'd talk to you herself, and then……――",
-            "choice_data_list": [
-                "(But, at the time, Journey……)"
-            ]
+            "text": "Ketika aku memberi tahu Journey-san betapa menakjubkannya itu, dia menawarkan untuk bertukar pelatih! Dia bilang dia akan berbicara denganmu sendiri, dan kemudian……――"
         },
         {
             "name": "Dream Journey",
-            "text": "I also don't think I'm lacking. However……if there \nisn't a trainer that can see that, then I can't debut."
+            "text": "Aku juga tidak merasa kurang. Namun……jika tidak ada pelatih yang bisa melihat itu, maka aku tidak bisa debut."
         },
         {
-            "text": "――That scent once again came to mind……This time, stronger than \nbefore. She had, without a doubt……\"lied\" at that moment."
+            "text": "――Aroma itu sekali lagi terlintas dalam pikiranku……Kali ini, lebih kuat dari sebelumnya. Dia, tanpa ragu……\"berbohong\" pada saat itu."
         },
         {
-            "text": "I wasn't sure if I should ask her, but……there \nmight not be any deep meaning behind it so I decided \nto ask her directly after school. And then――"
-        },
-        {
-            "name": "Dream Journey",
-            "text": "I'm sorry……for not mentioning it. I thought it \nwould be better that way. Because she……well, \nshe had chosen a trainer other than you after all."
+            "text": "Aku tidak yakin apakah harus menanyakannya, tapi……mungkin tidak ada arti yang mendalam di baliknya, jadi aku memutuskan untuk menanyakannya langsung sepulang sekolah. Dan kemudian――"
         },
         {
             "name": "Dream Journey",
-            "text": "If you learned the truth, I thought it might hurt you, but……on \nthe contrary, I seemed to have cause some confusion……I'm sorry."
+            "text": "Maaf……karena tidak menyebutkannya. Aku pikir akan lebih baik seperti itu. Karena dia……yah, dia telah memilih pelatih selain kamu."
         },
         {
-            "text": "I suppose it was out of kindness. \nHowever, there was still something that was on my mind.",
-            "choice_data_list": [
-                "Are you……fine with this?",
-                "Are you……fine with this?"
-            ]
+            "name": "Dream Journey",
+            "text": "Jika kamu tahu kebenarannya, aku pikir itu mungkin menyakitimu, tapi……sebaliknya, aku sepertinya telah menyebabkan kebingungan……maaf."
         },
         {
-            "text": "Compared to a rookie like me, a trainer with a good record \nwould have been more helpful. However, she……hadn't chosen that.",
-            "choice_data_list": [
-                "Why did you……choose me――",
-                "Why did you……choose me――"
-            ]
+            "text": "Kurasa itu karena kebaikan. Namun, masih ada sesuatu yang menggangguku."
+        },
+        {
+            "text": "Dibandingkan dengan pemula sepertiku, pelatih dengan rekor bagus akan lebih membantu. Namun, dia……tidak memilih itu."
         },
         {
             "name": "Dream Journey",
@@ -94,49 +65,36 @@
         },
         {
             "name": "Big Uma Musume",
-            "text": "――Well what do you know? Her trainer's here too. But, \nwell……we finally found you, didn't we, \"Onee-chan\"?"
+            "text": "――Wah, lihat siapa yang ada di sini? Pelatihnya juga ada di sini. Tapi, yah……akhirnya kami menemukanmu, kan, \"Onee-chan\"?"
         },
         {
-            "text": "In that moment, 2 Uma Musume surrounded Dream Journey. \nTheir larger build made them give off an intimidating aura."
+            "text": "Pada saat itu, 2 Uma Musume mengepung Dream Journey. Postur tubuh mereka yang lebih besar membuat mereka memancarkan aura yang mengintimidasi."
         },
         {
             "name": "Dream Journey",
-            "text": "……Do you have some business with me? \nI'm in the middle of a conversation right now……"
+            "text": "……Apa ada urusan denganku? Aku sedang berbicara sekarang……"
         },
         {
             "name": "Sketchy Uma Musume",
-            "text": "Sorry, it's kind of urgent, you see? It's your little sister…… \nabout Orfevre. She's just so full of herself. That attitude \nis probably the only thing strong about her, right?"
+            "text": "Maaf, ini sedikit mendesak, tahu? Ini tentang adikmu……tentang Orfevre. Dia benar-benar sombong. Sikapnya mungkin satu-satunya hal yang kuat darinya, kan?"
         },
         {
             "name": "Sketchy Uma Musume",
-            "text": "But you see, her \"Onee-chan\" on the other hand, seems \nlike she's just sooooo kind, right? She won't listen to \na word we say, so we just wanted your cooperation, you see?"
+            "text": "Tapi, kau tahu, \"Onee-chan\"-nya, di sisi lain, sepertinya sangat baik, kan? Dia tidak mau mendengarkan kata-kata kami, jadi kami hanya ingin kerja sama darimu, tahu?"
         },
         {
             "name": "Big Uma Musume",
-            "text": "Even that overbearing little sister……would be troubled if \nanything happened to her older sister, don't you think?",
-            "choice_data_list": [
-                "W-wait……!"
-            ]
+            "text": "Bahkan adik kecil yang angkuh itu……akan bermasalah jika terjadi sesuatu pada kakak perempuannya, bukan begitu?"
         },
         {
-            "text": "I didn't know all the details, but it seems \nlike they were directing their frustrations \nwith Orfevre at her sister, Dream Journey.",
-            "choice_data_list": [
-                "Have you talked to Orfevre already?",
-                "Have you talked to Orfevre already?"
-            ]
+            "text": "Aku tidak tahu semua detailnya, tapi sepertinya mereka mengarahkan rasa frustrasi mereka pada Orfevre kepada kakaknya, Dream Journey."
         },
         {
             "name": "Sketchy Uma Musume",
-            "text": "Huh? Don't you know anything about her? She can barely \nhold a conversation. No matter what we say, it's pointless!",
-            "choice_data_list": [
-                "(Her aura was certainly strong, but……)"
-            ]
+            "text": "Hah? Apa kamu tidak tahu apa-apa tentang dia? Dia hampir tidak bisa diajak bicara. Tidak peduli apa yang kami katakan, itu tidak ada gunanya!"
         },
         {
-            "text": "Seeing her in person, it felt more like she was \noverflowing with dignity. Behind that gaze was \nsomething that could see through everything……",
-            "choice_data_list": [
-                "She didn't seem that way……"
-            ]
+            "text": "Melihatnya secara langsung, rasanya dia lebih memancarkan martabat. Di balik tatapan itu ada sesuatu yang bisa melihat semuanya……"
         },
         {
             "name": "Dream Journey",
@@ -144,22 +102,19 @@
         },
         {
             "name": "Dream Journey",
-            "text": "I understand. \nLet me get this straight."
+            "text": "Aku mengerti. Mari kita luruskan ini."
         },
         {
             "name": "Dream Journey",
-            "text": "Both of you say that you don't like my little \nsister. Because she doesn't have much ability \nand still acts full of herself……is that right?"
+            "text": "Kalian berdua bilang bahwa kalian tidak menyukai adikku. Karena dia tidak punya banyak kemampuan dan masih bertingkah sombong……apa itu benar?"
         },
         {
             "name": "Dream Journey",
-            "text": "And you want me to do something about it…… \nYes, I understand. Rather, I'd say I'm \nthankful for that. I can finally get to work.",
-            "choice_data_list": [
-                "Journey……?"
-            ]
+            "text": "Dan kalian ingin aku melakukan sesuatu tentang itu……Ya, aku mengerti. Malah, aku harus berterima kasih untuk itu. Aku akhirnya bisa bekerja."
         },
         {
             "name": "Dream Journey",
-            "text": "Well then――how about a race? \nAs her older sister……I'll \"finish\" this."
+            "text": "Kalau begitu――bagaimana kalau balapan? Sebagai kakak perempuannya……aku akan \"menyelesaikan\" ini."
         },
         {
             "name": "Dream Journey",
@@ -167,13 +122,13 @@
         },
         {
             "name": "Sketchy Uma Musume",
-            "text": "Tch, this is so annoying! Let's just show her the \ndifference between us and get this over with! Haaaaa!"
+            "text": "Cih, ini sangat menyebalkan! Ayo kita tunjukkan saja perbedaan antara kita dan selesaikan ini! Haaaaa!"
         },
         {
-            "text": "They were boasting about their strength, and their running \nwas powerful. They started pulling away on the long straight……"
+            "text": "Mereka membual tentang kekuatan mereka, dan lari mereka sangat kuat. Mereka mulai menjauh di jalur lurus panjang……"
         },
         {
-            "text": "On the other hand, Dream Journey was staying in the back, \nintently observing both of them. That gaze felt somewhat empty――"
+            "text": "Di sisi lain, Dream Journey tetap di belakang, dengan saksama mengamati mereka berdua. Tatapan itu terasa agak kosong――"
         },
         {
             "name": "Dream Journey",
@@ -181,62 +136,50 @@
         },
         {
             "name": "Big Uma Musume",
-            "text": "……! W-what's with her……so creepy……! \nWe're moving ahead further on the straight!!"
+            "text": "……! A-ada apa dengannya……sangat menyeramkan……! Kita bergerak lebih jauh di jalur lurus!!"
         },
         {
             "name": "Dream Journey",
-            "text": "――Yes. Acknowledged. \n……!!!!",
-            "choice_data_list": [
-                "……!!"
-            ]
+            "text": "――Ya. Diterima. ……!!!!"
         },
         {
-            "text": "My breathing stopped. Dream Journey accelerated instantly…… \nwith a tremendous number of steps, before I realized it――"
+            "text": "Nafasku terhenti. Dream Journey berakselerasi seketika……dengan langkah yang luar biasa, sebelum aku menyadarinya――"
         },
         {
             "name": "Dream Journey",
-            "text": "And――we're done here."
+            "text": "Dan――kita selesai di sini."
         },
         {
-            "text": "She soared past them, and with a difference of one length, Dream \nJourney crossed the goal. I could feel my heart pounding――"
+            "text": "Dia melesat melewati mereka, dan dengan selisih satu panjang, Dream Journey melewati garis finis. Aku bisa merasakan jantungku berdebar kencang――"
         },
         {
-            "text": "――I was reminded of something in the past. It suddenly \ncame to me, along with the memory of her scent……",
-            "choice_data_list": [
-                "(How could I have forgotten?)"
-            ]
+            "text": "――Aku teringat sesuatu di masa lalu. Tiba-tiba itu muncul di benakku, bersamaan dengan ingatan akan aromanya……"
         },
         {
-            "text": "It was……after the Uma Musume I had been cheering on had \nfinally won……After a long, long time, at a major race."
+            "text": "Itu adalah……setelah Uma Musume yang kukungguli akhirnya menang……Setelah waktu yang sangat, sangat lama, di balapan besar."
         },
         {
-            "text": "The clouds overhead were dark and heavy. However, \nthat Uma Musume's fans had packed the racetrack on \na rainy Saturday, praying for her first victory."
+            "text": "Awan di atas kepala gelap dan berat. Namun, para penggemar Uma Musume itu telah memadati lintasan balap pada hari Sabtu yang hujan, berdoa untuk kemenangan pertamanya."
         },
         {
-            "text": "I was there too, hoping for the same thing, waiting \nanxiously for the race to start…… Suddenly, I spotted \na small Uma Musume looking for a place to watch from.",
-            "choice_data_list": [
-                "……It's easier to see from here, wanna switch?"
-            ]
+            "text": "Aku juga di sana, berharap hal yang sama, menunggu dengan cemas balapan dimulai……Tiba-tiba, aku melihat Uma Musume kecil mencari tempat untuk menonton."
         },
         {
             "name": "???",
             "text": "Eh……――"
         },
         {
-            "text": "I let her take my spot, and started chatting \nwith her……I found out she was here to cheer on \nthe same Uma Musume, and the conversation grew lively.",
-            "choice_data_list": [
-                "I believe today she'll win for sure!"
-            ]
+            "text": "Aku membiarkannya mengambil tempatku, dan mulai mengobrol dengannya……Aku mengetahui bahwa dia di sini untuk mendukung Uma Musume yang sama, dan percakapan menjadi hidup."
         },
         {
             "name": "???",
-            "text": "Yeah, of course. \nAnego――won't lose."
+            "text": "Ya, tentu saja. Anego――tidak akan kalah."
         },
         {
-            "text": "Were those words prophetic……? She ended up defying \nthe competition and won her first victory in a while \nresponding to the cheers of the fans――"
+            "text": "Apakah kata-kata itu seperti ramalan……? Dia akhirnya mengalahkan persaingan dan memenangkan kemenangan pertamanya dalam beberapa saat sebagai tanggapan atas sorakan para penggemar――"
         },
         {
-            "text": "After getting swept up in the emotion, I suddenly \nlooked next to me……she wasn't there anymore. \n――The only thing left behind was a distinctive scent."
+            "text": "Setelah terbawa emosi, aku tiba-tiba melihat ke sampingku……dia sudah tidak ada di sana lagi. ――Satu-satunya yang tertinggal adalah aroma yang khas."
         }
     ]
 }
