@@ -2,16 +2,16 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Akhirnya, minggu depan bakal ada Selection Race...! \nSebagai pelatih baru, ini bakal jadi yang pertama kali buatku."
+            "text": "Akhirnya, minggu depan bakal ada Balapan Seleksi...! \nSebagai Trainer baru, ini bakal jadi yang pertama kali buatku."
         },
         {
-            "text": "Selection Race adalah tempat buat para Uma Musume \ndemo kemampuan mereka, dan buat pelatih \nnyari-nyari mereka. Penting banget buat dua-duanya."
+            "text": "Balapan Seleksi adalah tempat buat para Uma Musume \nmendemonstrasikan kemampuan mereka, dan buat Trainer \n untuk menscout mereka. Penting banget buat kedua-duanya."
         },
         {
-            "text": "Padahal masih sisa beberapa hari, tapi aku deg-degan \nbanget dan nggak bisa tenang... Buat ngalihin pikiran, \naku mutusin buat jalan-jalan."
+            "text": "Padahal masih sisa beberapa hari, tapi aku deg-degan \nbanget dan nggak bisa tenang... Buat mengalihkan pikiran, \naku putuskann buat jalan-jalan."
         },
         {
-            "text": "Pas lewatin taman deket akademi, aku denger suara \nanak-anak lagi main. Pas aku liat ke arah situ-"
+            "text": "Pas melewati taman dekat akademi, aku denger suara \nanak-anak lagi main. Pas aku liat ke arah situ-"
         },
         {
             "name": "Tamamo Cross",
@@ -42,7 +42,7 @@
             "text": "Maksud kalian, lagi!? Duh, kayaknya aku nggak ada pilihan, \nsedikit aja ya, ngerti? Ayo, mundur sana! \nNanti kalian bisa luka!"
         },
         {
-            "name": "Children",
+            "name": "Anak-anak",
             "text": "Okeeey!"
         },
         {
@@ -62,14 +62,14 @@
         },
         {
             "name": "Boy A",
-            "text": "Kereeeen!~! Cepet bangaaat~!"
+            "text": "Kereeeen!~! Cepat bangeeet~!"
         },
         {
             "name": "Girl A",
             "text": "Kak Tamamo, keren bangett-!!"
         },
         {
-            "text": "Jujur, lariannya kuat banget, walaupun dia keliatan ceria... \ntapi yang paling bikin aku merhatiin, itu tenaga ledaknya yang luar biasa. \nHampir kayak-",
+            "text": "Jujur, larinya kuat banget, walaupun dia keliatan ceria... \ntapi yang paling bikin aku merhatiin, itu tenaga ledaknya yang luar biasa. \nHampir kayak-",
             "choice_data_list": [
                 "Petir…",
                 "Petir…"
@@ -80,7 +80,7 @@
             "text": "- Kamu bilang apa? \nTunggu, kamu siapa?!"
         },
         {
-            "text": "Mungkin saking senengnya liat dia lari, \naku sampe ngomong tanpa mikir! \nSemua orang di sana langsung liatin aku.",
+            "text": "Mungkin saking senangnya liat dia lari, \naku sampai ngomong tanpa mikir! \nSemua orang di sana langsung lihat ke diriku.",
             "choice_data_list": [
                 "A-Aku bukan orang yang mencurigakan kok…"
             ]
@@ -98,7 +98,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Kebetulan banget sih. Kamu pelatih baru kan? \nAku juga, aku Uma Musume yang belum debut."
+            "text": "Kebetulan banget sih. Kamu Trainer baru kan? \nAku juga, aku Uma Musume yang belum debut."
         },
         {
             "name": "Boy A",
@@ -113,13 +113,13 @@
             "text": "Namaku Tamamo Cross. Pasti takdir kan? \nSebagai pemula, kita harus lakuin yang terbaik! \nSampai nanti!"
         },
         {
-            "text": "Nanti pas dia debut, kira-kira larian kayak apa yang bakal dia tunjukkin? \nSambil mikir gitu, aku pergi dari sana dengan perasaan segar."
+            "text": "Nanti pas dia debut, kira-kira lari kayak apa yang bakal dia tunjukkin? \nSambil berpikir begitu, aku pergi dari sana dengan perasaan segar."
         },
         {
             "text": "Dan, seminggu kemudian."
         },
         {
-            "text": "Akhirnya, hari Selection Race tiba. \nPas aku liat Uma Musume yang ikutan-"
+            "text": "Akhirnya, hari Balapan Seleksi tiba. \nPas aku lihat Uma Musume yang ikutan-"
         },
         {
             "name": "Tamamo Cross",
@@ -134,7 +134,7 @@
             "text": "-Harus menang. Di tempat kayak gini... \nharus dipastikan menang...!"
         },
         {
-            "text": "Tamamo Cross keliatan sedikit beda dari pas \npertama kali ketemu, dan itu sedikit ganggu pikiranku, \ntapi balapannya sudah mau mulai-"
+            "text": "Tamamo Cross keliatan sedikit beda dari pas \npertama kali ketemu, dan itu sedikit mengganggu pikiranku, \ntapi balapannya sudah mau mulai-"
         },
         {
             "name": "Tamamo Cross",
@@ -149,22 +149,22 @@
             "text": "Ku…!!"
         },
         {
-            "text": "Pada akhirnya, Tamamo Cross nggak bisa finis di \nposisi 5 besar. Buatku, lariannya kayak ada yang aneh... \nkayak dia nggak punya kelonggaran sama sekali."
+            "text": "Pada akhirnya, Tamamo Cross tidak bisa finish di \nposisi 5 besar. Buatku, larinya kayak ada yang aneh... \nkayak dia nggak punya kelonggaran sama sekali."
         },
         {
-            "name": "Experienced Trainer A",
+            "name": "Trainer Berpengalaman A",
             "text": "Tamamo Cross, kan? Di awal dia nunjukin semangat yang \nmengesankan, tapi dia terlalu terburu-buru dan gagal \nbuat ngatur kecepatannya dengan baik…"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "Semangatnya buat bertarung nggak jelek. Tapi dengan tubuh \nyang kecil itu, bertanding sama yang lain di akhir balapan \nmungkin terlalu berat."
+            "name": "Trainer Veteran A",
+            "text": "Semangatnya buat bertarung tidak jelek. Tapi dengan tubuh \nyang kecil itu, bertanding sama yang lain di akhir balapan \nmungkin terlalu berat."
         },
         {
             "name": "Tamamo Cross",
             "text": "Sial …… sial, sial, sial ……! Aku ini lagi ngapain sih ……!"
         },
         {
-            "name": "Experienced Trainer B",
+            "name": "Trainer Berpengalaman B",
             "text": "-Tamamo Cross. Maaf mengganggu saat kamu masih \nlelah dari balapanmu, tapi bisakah aku minta waktumu sebentar?"
         },
         {
@@ -172,16 +172,16 @@
             "text": "Eh?… a-apa…?"
         },
         {
-            "name": "Experienced Trainer B",
-            "text": "Aku akan singkat aja. Aku mau nyari kamu. \nMasih agak kurang, tapi larianmu nggak jelek."
+            "name": "Trainer Berpengalaman B",
+            "text": "Aku akan singkat aja. Aku mau scout kamu. \nMasih agak kurang, tapi larimu tidak jelek."
         },
         {
             "name": "Tamamo Cross",
             "text": "S-seriusan?!"
         },
         {
-            "name": "Experienced Trainer B",
-            "text": "Iya. Kalo kamu gabung timku, kamu bisa sampe balapan \nMajor. Kalo semua lancar, kamu mungkin bahkan bisa \nbersaing. Gimana?"
+            "name": "Trainer Berpengalaman B",
+            "text": "Iya. Kalo kamu gabung timku, kamu bisa sampai balapan \nMajor. Kalau semua lancar, kamu mungkin bahkan bisa \nbersaing. Gimana?"
         },
         {
             "name": "Tamamo Cross",
@@ -192,8 +192,8 @@
             "text": "… [mungkin bahkan bisa bersaing] gitu ya? \nMaksudnya, aku mungkin punya kesempatan menang G1?"
         },
         {
-            "name": "Experienced Trainer B",
-            "text": "Itu... sesuatu yang nggak bisa aku jamin. \nSemua tergantung sama kamu, itu cuma kemungkinan-"
+            "name": "Trainer Berpengalaman B",
+            "text": "Itu... sesuatu yang tidak bisa aku jamin. \nSemua tergantung sama kamu, itu cuma kemungkinan-"
         },
         {
             "name": "Tamamo Cross",
@@ -208,11 +208,11 @@
             "text": "Cuma \"mungkin bisa bersaing\" kamu bilang?! \nAda batasnya ya bisa ngerendahin orang! Aku- nggak bakal \nlakuin ini dengan perasaan setengah-setengah!!"
         },
         {
-            "name": "Experienced Trainer B",
+            "name": "Trainer Berpengalaman B",
             "text": "…kayaknya temperamennya terlalu berlebihan buatku."
         },
         {
-            "text": "Setelah Tamamo Cross lari, nggak ada yang ngejar dia. \nTapi buatku, semangatnya yang kuat buat menang itu \nbener-bener berkesan."
+            "text": "Setelah Tamamo Cross lari, tidak ada yang mengejar dia. \nTapi buatku, semangatnya yang kuat buat menang itu \nbener-bener berkesan."
             "choice_data_list": [
                 "(… Ayo kejar dia!)"
             ]
@@ -232,8 +232,8 @@
             "name": "Tamamo Cross",
             "text": "Kamu, kalo nggak salah... dari yang di taman itu ya...",
             "choice_data_list": [
-                "Aku mau cari kamu!",
-                "Aku mau cari kamu!"
+                "Aku mau scout kamu!",
+                "Aku mau scout kamu!"
             ]
         },
         {
@@ -242,7 +242,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "…Kamu pelatih baru kan? Kamu nggak punya pengalaman \natau pun hasil, gimana dengan tekad?"
+            "text": "…Kamu Trainer baru kan? Kamu nggak punya pengalaman \natau pun hasil, gimana dengan tekad?"
         },
         {
             "name": "Tamamo Cross",
@@ -259,7 +259,7 @@
             "text": "…udah lah. \nKita berdua, sampe sini aja-"
         },
         {
-            "text": "…Setelah dia pergi, satu-satunya yang bisa aku pikirin \nadalah, betapa nyeselnya aku nggak bisa \nbahkan bales kata-katanya sama sekali…"
+            "text": "…Setelah dia pergi, satu-satunya yang bisa aku pikirin \nadalah, betapa menyesalnya aku tidak bisa \nbahkan balas kata-katanya sama sekali…"
         }
     ]
 }
