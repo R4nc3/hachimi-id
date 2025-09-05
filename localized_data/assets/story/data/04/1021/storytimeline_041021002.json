@@ -2,31 +2,31 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It's been a few days since Tamamo Cross' Selection Race, but I \ncan't help thinking back about that last exchange we had…"
+            "text": "Sudah beberapa hari sejak Tamamo Cross ikut Selection Race, tapi \naku tidak bisa berhenti mikirin percakapan terakhir kita…"
         },
         {
             "name": "Tamamo Cross",
-            "text": "…Yer, a rookie trainer ain't ya? Ya got no experience or even \nresults to yer name, how 'bout resolve?"
+            "text": "…Lo, trainer baru, kan? Ga punya pengalaman \natau hasil apa pun, gimana dengan tekad?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Believin' in my victory, trainin' me, and winnin' \nG1s! The resolve ta be th' best in Japan! Do \nya really have tha' kinda resolve?!"
+            "text": "Percaya sama kemenangan gue, latih gue, dan menang \nG1! Tekad buat jadi yang terbaik di Jepang! Beneran \npunya tekad kayak gitu ga?!"
         },
         {
-            "text": "…believing in her chances at victory, and having that much \nresolve. At that time, I couldn't comprehend that strength.",
+            "text": "…percaya sama kemungkinannya buat menang, dan punya tekad \nyang kuat banget. Waktu itu, aku ga bisa ngerti kekuatan itu.",
             "choice_data_list": [
-                "(I want to speak with her properly next time…!)"
+                "(Aku pengen ngobrol sama dia beneran nanti…!)"
             ]
         },
         {
-            "text": "I made up my mind and started searching for Tamamo \nCross. I looked all around the academy until I \nfinally made it to the Training Course-"
+            "text": "Aku mutusin buat nyari Tamamo Cross. Aku keliling \nakademi sampai akhirnya sampai di Lapangan Latihan—"
         },
         {
             "name": "Tamamo Cross",
             "text": "Haa… haa… haa…!"
         },
         {
-            "text": "I found Tamamo Cross alone, running deperately, \nas if she was possessed."
+            "text": "Aku nemuin Tamamo Cross sendirian, lari \nkaya lagi kesetanan."
         },
         {
             "name": "Tamamo Cross",
@@ -34,188 +34,188 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Haaa… haa… haa… Damnit… This ain't like me…!",
+            "text": "Haaa… haa… haa… Sial… Ini ga kayak gue…!",
             "choice_data_list": [
                 "Tamamo Cross!"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ah, yer-",
+            "text": "Ah, lo—",
             "choice_data_list": [
-                "About before, I wanted to talk-"
+                "Soal tadi, aku pengen ngomong—"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "-I'm sorry about before!",
+            "text": "—Maaf soal yang tadi!",
             "choice_data_list": [
-                "Eh?"
+                "Hah?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ya went out of yer way and chased after me, tried ta talk to me, \nand I jus' flipped out on ya. Fer that… I'm sorry!",
+            "text": "Lo udah jauh-jauh ngejar gue, coba ngajak ngobrol, \ndan gue malah marah-marah ke lo. Buat itu… gue minta maaf!",
             "choice_data_list": [
-                "…you were just that angry, right?",
-                "…you were just that angry, right?"
+                "…kamu cuma lagi marah banget aja, kan?",
+                "…kamu cuma lagi marah banget aja, kan?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "…I just couldn't take no more. \"As it is, you can't win\", is \nprobably what they think of me… cuz of my half-assed run."
+            "text": "…gue ga tahan lagi. 'Dengan keadaan begini, kamu ga bisa menang', \nmungkin itu yang mereka pikirin tentang gue… gara-gara lari gue \nyang setengah-setengah."
         },
         {
             "name": "Tamamo Cross",
-            "text": "-cuz of my height, most people one-sidedly underestimate me."
+            "text": "—gara-gara tinggi gue, kebanyakan orang langsung \nmenganggap remeh gue."
         },
         {
             "name": "Tamamo Cross",
-            "text": "[That physique is a disadvantage] [Best in Japan is reckless] \n[Set a more realistic goal], things like that."
+            "text": "[Fisik itu merugikan] [Terbaik di Jepang itu cuma nekat] \n[Tetapkan tujuan yang lebih realistis], hal-hal kaya gitu."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Tha's why, I wanted ta prove it at th' Selection Race. \nThat I'mma… Uma Musume that can \"Win like hell\"."
+            "text": "Makanya, gue pengen buktiin itu di Selection Race. \nKalau gue ini… Uma Musume yang bisa 'Menang \nkayak orang gila'."
         },
         {
             "name": "Tamamo Cross",
-            "text": "But… as ya saw earlier. With some lame runnin' \nI lost, again… I was restricted."
+            "text": "Tapi… kaya yang lo liat tadi. Dengan lari \nyang payah, gue kalah, lagi… Gue kaya terkekang."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Th' reason I came a knockin' on th' gates of this academy, was \ncuz I had a dream that I had ta fulfill in th' Twinkle Series."
+            "text": "Alasan gue datang ke akademi ini, karena gue punya \nmimpi yang harus gue wujudkan di Seri Twinkle."
         },
         {
             "name": "Tamamo Cross",
-            "text": "To do that, just runnin' ain't enough. Winnin', \nand winnin' like hell! Witha roar o' wind and light, \nloud enough ta overturn th' heavens."
+            "text": "Buat ngelakuin itu, cuma lari aja ga cukup. Menang, \ndan menang kayak orang gila! Dengan raungan angin dan \ncahaya, yang cukup keras buat jungkir balikkin langit."
         },
         {
             "name": "Tamamo Cross",
-            "text": "…Sorry. I wanna practice a bit more. \nNext time, I'll win th' Selection Race fer sure. That's why-",
+            "text": "…Maaf. Gue pengen latihan lagi. \nNanti, gue pasti bakal menangin Selection Race. Makanya—",
             "choice_data_list": [
-                "If it's you, you'll win the Selection Race.",
-                "If it's you, you'll win the Selection Race."
+                "Kalau kamu, pasti bisa menangin Selection Race.",
+                "Kalau kamu, pasti bisa menangin Selection Race."
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "…th' heck are ya sayin'? \nI don't need yer pity, if that's what yer doin'.",
+            "text": "…ngomong apaan lo? \nGue ga butuh belas kasihan lo, kalo itu yang lo lakuin.",
             "choice_data_list": [
-                "It's not pity"
+                "Ini bukan belas kasihan"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Y-ya saw my last race didn't ya?! \nWith tha' lame run… I just got marked as an also-ran!"
+            "text": "L-lo liat balapan gue tadi, kan?! \nDengan lari payah itu… gue cuma dianggap pelengkap!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "I talked a big game, but in th' end, it was jus' talk… \nEven now, I've got… no inkling of what I ought to be doin'…",
+            "text": "Gue ngomong gede, tapi pada akhirnya, cuma omongan… \nBahkan sekarang, gue ga punya… petunjuk apa pun \nyang harus gue lakuin…"
             "choice_data_list": [
-                "Your desire to win, is second to none",
-                "Your desire to win, is second to none"
-            ]
+                "Keinginanmu untuk menang, tidak ada duanya",
+                "Keinginanmu untuk menang, tidak ada duanya"
+            ],
         },
         {
             "name": "Tamamo Cross",
             "text": "…!"
         },
         {
-            "text": "She was more frustrated than anyone, but also had the strongest \ndesire to win. That quality was much more necessary than being \nblessed with a good physique."
+            "text": "Dia lebih frustrasi daripada siapa pun, tapi juga punya keinginan \nterkuat untuk menang. Sifat itu jauh lebih penting daripada \ndiberkahi fisik yang bagus."
         },
         {
-            "text": "-Especially if your goal is to win and become Japan's best."
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "…what? Jus' by seein' me run once, and chattin' \nwith me a bit, how can ya be so sure…?"
+            "text": "—Terutama kalau tujuanmu adalah menang dan jadi yang terbaik di Jepang."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Yer… a weird guy."
+            "text": "…apaan? Cuma dengan liat gue lari sekali, dan ngobrol \nsama gue sebentar, gimana lo bisa yakin banget…?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "…Hey, let's move somewhere else. It's startin' \nta get cold, and we stand out like a sore thumb \njust chattin' away here. Sound good?"
-        },
-        {
-            "text": "It felt like Tamamo Cross' mood had lightened a bit. \nI nodded, and we changed locations."
+            "text": "Lo… orang aneh."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Just now, ya said that someone like me could win, right?"
+            "text": "…Hei, pindah tempat aja yuk. Mulai \ndingin, dan kita jadi pusat perhatian kalo cuma \nngobrol di sini. Gimana?"
+        },
+        {
+            "text": "Rasanya suasana hati Tamamo Cross sedikit membaik. \nAku mengangguk, dan kami pindah tempat."
         },
         {
             "name": "Tamamo Cross",
-            "text": "If yer willin' to say that much… then prove that I can win.",
+            "text": "Barusan, lo bilang kan kalau orang kaya gue bisa menang?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Kalo lo mau bilang gitu… buktiin kalau gue bisa menang.",
             "choice_data_list": [
-                "By that you mean-"
+                "Maksudmu—"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Honestly, on my own, I feel like I'm at my wit's end. \nBut I wanna win! No matter what…!"
+            "text": "Jujur aja, sendiri, gue ngerasa udah di ujung tanduk. \nTapi gue pengen menang! Apa pun yang terjadi…!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Tha's why, right now… I'll take my chances with ya."
+            "text": "Makanya, sekarang… gue bakal ambil risiko sama lo."
         },
         {
             "name": "Tamamo Cross",
-            "text": "I'll see if ya can live up ta yer words, to \nyer resolve. In exchange, I'll show ya that \nI'm an Uma Musume tha' can really win."
+            "text": "Gue bakal liat apa lo bisa nepatin omongan lo, \nke tekad lo. Sebagai gantinya, gue bakal tunjukin \nkalau gue ini Uma Musume yang beneran bisa menang."
         },
         {
             "name": "Tamamo Cross",
-            "text": "It'll be one of those \"provisional contracts\", I'll be troublin' \nya until the next Selection Race… I'll show ya-",
+            "text": "Ini bakal jadi 'kontrak sementara', gue bakal ngerepotin \nlo sampai Selection Race berikutnya… Gue bakal tunjukin—",
             "choice_data_list": [
-                "I look forward to working with you!"
+                "Senang bisa kerja sama denganmu!"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "-what I can- wait! So fast! Ya didn't let me finish! Have ya \nnever heard about this thing called th' tempo of a conversation?!",
+            "text": "—apa yang bisa—tunggu! Cepet banget! Lo ga biarin \ngue selesai ngomong! Lo ga pernah denger soal yang namanya \ntempo percakapan?!"
             "choice_data_list": [
-                "I was just overjoyed, so…"
+                "Aku cuma terlalu senang, jadi…"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Frank, ain't ya?! It's embarassin'!"
+            "text": "Terus terang banget, sih?! Malu-maluin!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "But, well… thanks! It kinda happened fast, but, \nI'll be relyin' on ya startin' tomorrow!"
+            "text": "Tapi, yaudah deh… makasih! Agak cepet kejadiannya, tapi, \ngue bakal andelin lo mulai besok!"
         },
         {
-            "text": "And so, following Tamamo Cross' suggestion, we formed a \n\"provisional contract\" for her Selection Race revenge match."
+            "text": "Dan jadi, ngikutin saran Tamamo Cross, kami bikin 'kontrak sementara' \nbuat pertandingan balas dendam Selection Race-nya."
         },
         {
-            "text": "The next day, Tamamo Cross' first training day-"
+            "text": "Besoknya, hari latihan pertama Tamamo Cross—"
         },
         {
             "name": "Tamamo Cross",
-            "text": "-Well then, what's up first? \nShow me what ya got for me.",
+            "text": "—Nah, apa yang pertama? \nTunjukin apa yang lo punya buat gue."
             "choice_data_list": [
-                "Here's the upcoming menu"
+                "Ini menu latihan buat kedepannya"
             ]
         },
         {
-            "text": "I desperately spent last night making a training \nmenu tailored for her in preparation for her \nSelection Race, which I showed her."
+            "text": "Aku begadang semalam suntuk buat bikin menu latihan \nyang disesuaikan buat dia, sebagai persiapan Selection Race, \nlalu aku tunjukin ke dia."
         },
         {
             "name": "Tamamo Cross",
-            "text": "This…… is a lot of stuff. And it's so detailed…… You didn't make \nall of this yesterday, did you?",
+            "text": "Ini…… banyak banget. Dan detail banget…… Lo ga bikin \nsemua ini kemarin, kan?",
             "choice_data_list": [
-                "I was happy to sign a tentative contract."
+                "Aku senang bisa tanda tangan kontrak sementara."
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Frank, ain't ya?! Yer so direct, it's makin' me worry!!"
+            "text": "Terus terang banget, sih?! Lo bikin gue khawatir!!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "But, it's gettin' me fired up. I can tell yer serious too. \n-Alright, let's get going! No slackin'! "
+            "text": "Tapi, ini bikin gue semangat. Gue bisa ngerasa lo juga serius. \n—Oke, ayo mulai! Jangan leha-leha!"
         }
     ]
 }

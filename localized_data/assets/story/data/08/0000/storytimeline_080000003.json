@@ -2,59 +2,59 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Horsegirl A",
-            "text": "One day, I want to stand on the stage \nof a victory concert, and show my fans \nhow much I love them!"
+            "name": "Uma Musume A",
+            "text": "Suatu hari, aku ingin berdiri di atas panggung \nkonser kemenangan, dan menunjukkan pada para \nfans betapa aku menyayangi mereka!"
         },
         {
-            "name": "Horsegirl B",
-            "text": "I wish I could stand in the center of that \nstage, singing out my thanks from the \nbottom of my heart!"
+            "name": "Uma Musume B",
+            "text": "Aku berharap bisa berdiri di tengah panggung \nitu, menyanyikan rasa terima kasihku dari \nlubuk hati!"
         },
         {
-            "name": "Horsegirl C",
-            "text": "Some day… I'll have my chance!"
+            "name": "Uma Musume C",
+            "text": "Suatu hari nanti… aku pasti dapat \nkesempatan!"
         },
         {
-            "name": "Horsegirl",
-            "text": "…Sorry. I'm so sorry…… \nI couldn't win… again……!"
-        },
-        {
-            "name": "Light Hello",
-            "text": "…Regardless of when, or if, they will \ncome true, all horsegirls harbor their \nown dreams."
+            "name": "Uma Musume",
+            "text": "…Maaf. Aku sungguh minta maaf…… \nAku tidak bisa menang… lagi……!"
         },
         {
             "name": "Light Hello",
-            "text": "The bright spotlights don't lend their \nsparkling glow to every part of the stage."
+            "text": "…Terlepas dari kapan, atau jika, impian itu \nakan menjadi kenyataan, semua Uma Musume \npunya impiannya sendiri."
         },
         {
             "name": "Light Hello",
-            "text": "And I…"
+            "text": "Sinar lampu sorot yang terang tidak \nmenyinari setiap bagian panggung."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Dan aku…"
         },
         {
             "name": "Smart Falcon",
-            "text": "A Grand Live revival project…?"
+            "text": "Sebuah proyek kebangkitan Grand Live…?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmm, well, why not! The live concert \nelement is worth closer analysis!"
+            "text": "Hmm, ya sudah, kenapa tidak! Elemen \nkonser live layak untuk dianalisis lebih dekat!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "…I will execute the instructions received."
+            "text": "…Aku akan melaksanakan instruksi yang \nditerima."
         },
         {
             "name": "Silence Suzuka",
-            "text": "……I, umm…"
+            "text": "……Aku, umm…"
         },
         {
             "name": "Silence Suzuka",
-            "text": "I'm… not really sure. \nDo we even really need concerts…?"
+            "text": "Aku… tidak terlalu yakin. \nApa kita benar-benar butuh konser…?"
         },
         {
             "name": "Light Hello",
-            "text": "I'd like this Grand Live… \nto bring people together."
+            "text": "Aku ingin Grand Live ini… \nbisa menyatukan semua orang."
         },
         {
-            "text": "Link hands & shine bright. \nOur Grand Live!"
+            "text": "Berpegangan tangan & bersinar terang. \nGrand Live kita!"
         }
     ]
 }
