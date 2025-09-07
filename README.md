@@ -42,23 +42,3 @@ Selain terjemahan normal, ada 2 versi alternatif lainnya:
 
 # Cara Update
 Hachimi bakal otomatis ngecek *update* pas kamu mulai game. Kalau ada *update* baru, kamu akan ditanya apakah mau mengunduhnya, dan *update* itu akan langsung diterapkan tanpa perlu *restart* game.
-
-# Filosofi Kami
-kami berusaha memberikan terjemahan yang natural, akurat, dan lengkap, bahkan untuk bagian-bagian game yang jarang diakses. Kami tidak terlalu memusingkan penggunaan istilah yang sudah lama atau historis di komunitas. Meskipun stabilitas jangka panjang tetap jadi tujuan ideal, kami tidak akan ragu mengubah istilah yang sudah ada atau bahkan yang sudah mapan demi meningkatkan kualitas terjemahan kami. Itu juga kenapa kami banyak menggunakan terjemahannya sendiri. Istilah resmi bisa saja kami pakai kalau memang mendukung filosofi ini.
-Untuk pengalaman bermain, kami menyertakan versi modifikasi dari font asli game, dengan beberapa penyesuaian untuk penggunaan bahasa indonesia, format, dan optimasi ruang yang terbatas.
-
-# Sumber Terjemahan
-Kami banyak melakukan terjemahannya sendiri dan merupakan sumber orisinal. Sisa terjemahan lainnya berasal dari berbagai anggota & proyek komunitas fan.
-Cek [kredit lengkapnya di wiki](../../wiki/Translation-Progress) dan dukung para kontributornya kalau kamu bisa!
-
-UmaTL adalah proyek terjemahan game secara penuh yang pertama, dan terjemahannya sudah banyak dipinjam oleh proyek-proyek lain selama bertahun-tahun.
-Ini termasuk Hachimi: terjemahan bawaannya sebagian besar diimpor dari materi UmaTL yang lebih lama.
-
-# Berkontribusi Terjemahan
-Gunakan *tools* [IndoTL] dan kontribusikan terjemahan di sana (nanti saya yang akan mengurus pemindahannya), atau pakai [Carotene] atau [ZokuZoku] atau [UmaTL] dan kontribusikan berkas format Hachimi di sini sebagai PR (Pull Request). Bergabunglah ke Discord kami atau buka *Issue* untuk diskusi lebih lanjut atau bantuan.
-
-[IndoTL] : https://github.com/FahriAdison/hachimi-id
-[UmaTL]: https://github.com/noccu/umamusu-translate
-[Hachimi]: https://hachimi.leadrdrk.com/
-[ZokuZoku]: https://marketplace.visualstudio.com/items?itemName=LeadRDRK.zokuzoku
-[Carotene]: https://github.com/KevinVG207/Uma-Carotene-TL
