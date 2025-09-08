@@ -2,220 +2,220 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "A few days after forming a provisional \ncontract with Tamamo Cross-"
+            "text": "Beberapa hari setelah menandatangani kontrak \nsementara dengan Tamamo Cross-"
         },
         {
             "name": "Tamamo Cross",
-            "text": "-Fuu. Time?",
+            "text": "-Fuu. Waktunya?",
             "choice_data_list": [
-                "Another personal best!",
-                "Another personal best!"
+                "Lagi-lagi rekor pribadi!",
+                "Lagi-lagi rekor pribadi!"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Alright!! Even after that run, \nI still got gas in the tank… lookin' good, huh?!"
+            "text": "Siiip!! Setelah lari kayak gitu, aku masih punya \nbanyak energi... Keren, kan?!"
         },
         {
-            "text": "Due to the frantic training she's been doing lately, it seems \nlike she's truly growing stronger. If she's doing this well, she \nshould probably try another real race…",
+            "text": "Karena latihan intensif yang dia lakukan akhir-akhir ini, \ndia tampaknya benar-benar menjadi lebih kuat. Kalau dia \nsejago ini, dia harusnya coba balapan sungguhan lagi..."
             "choice_data_list": [
-                "How about trying out a mock race?",
-                "How about trying out a mock race?"
+                "Gimana kalau kita coba balapan tiruan?",
+                "Gimana kalau kita coba balapan tiruan?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Testin' out my power before th' Selection Race? \nBring it on! I wanna see how far I've come!"
+            "text": "Uji kekuatanku sebelum Balapan Seleksi? \nAyolah! Aku pengen lihat seberapa jauh aku udah berkembang!"
         },
         {
-            "text": "The way Tamamo Cross is now, she'll win for sure. \nThat way we can head in to the Selection Race with momentum."
+            "text": "Tamamo Cross yang sekarang pasti bakal menang. \nDengan begitu kita bisa masuk Balapan Seleksi dengan semangat."
         },
         {
-            "text": "That's what I thought, but-"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Win… Win… Win…! \nI need ta win, right here, right now…!"
-        },
-        {
-            "name": "Commentator",
-            "text": "We're almost at the final stretch! The lead isn't changing! \nIs there an Uma Musume that can pull away?!"
+            "text": "Begitulah pikirku, tapi-"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Damnit… why…?! My legs feel heavy…! \nEven though… I wanna win this…!"
+            "text": "Menang... Menang... Menang...! \nAku harus menang, di sini, sekarang juga...!"
         },
         {
-            "name": "Commentator",
-            "text": "Tamamo Cross was able to catch up but can't pull ahead! \nIs it already too late?! The lead isn't changing! It's over!!"
-        },
-        {
-            "text": "Tamamo Cross' mock race that was supposed to be just warm-up, \nended with a bitter also-ran result."
+            "name": "Komentator",
+            "text": "Kita hampir sampai di lintasan terakhir! Posisi terdepan \ntidak berubah! Apakah ada Uma yang bisa \nmenyalip?!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Why… why do I keep havin' these pathetic results…!?",
+            "text": "Sial... kenapa?! Kaki-kakiku terasa berat...! \nPadahal... aku pengen menang ini...!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Tamamo Cross berhasil mengejar tapi tidak bisa menyalip! \nApakah sudah terlambat?! Posisi terdepan tidak berubah! \nSudah berakhir!!"
+        },
+        {
+            "text": "Balapan tiruan Tamamo Cross yang seharusnya hanya \npemanasan, berakhir dengan hasil 'juga lari' yang pahit."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Kenapa... kenapa aku terus-terusan dapat hasil menyedihkan kayak gini...?!",
             "choice_data_list": [
-                "Tamamo Cross…"
+                "Tamamo Cross..."
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "…Sorry. Let's call it a day. \nI need ta go cool my head…"
+            "text": "...Maaf. Ayo kita sudahi hari ini. \nAku butuh menenangkan diri..."
         },
         {
-            "text": "Tamamo Cross being unable to display her full \npower, there has to be a reason for it. I was \nwalking alone while thinking this, when-"
+            "text": "Tamamo Cross tidak bisa menunjukkan kekuatan \npenuhnya, pasti ada alasannya. Aku berjalan \nsendiri sambil memikirkan ini, ketika-"
         },
         {
-            "text": "Before I realized it, I was at the park where I \nfirst met Tamamo Cross. Even now, it was still \nfilled with the sounds of children playing."
+            "text": "Tanpa kusadari, aku sudah berada di taman tempat \npertama kali aku bertemu Tamamo Cross. Bahkan sekarang, \ntaman itu masih dipenuhi suara anak-anak bermain."
         },
         {
-            "name": "Girl A",
-            "text": "-Tama-oneechan! Over here!"
+            "name": "Gadis A",
+            "text": "-Tama-oneechan! Ke sini!"
         },
         {
-            "name": "Boy A",
-            "text": "C'mon, hurry!"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Geez, I told ya I didn't come here ta play! \nReally, whenever ya see me, ya just come a runnin'-"
+            "name": "Anak Laki-laki A",
+            "text": "Ayo, buruan!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ah…",
+            "text": "Astaga, kan udah kubilang aku nggak ke sini buat main! \nSungguh, setiap kali kalian lihat aku, kalian langsung lari-"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ah...",
             "choice_data_list": [
-                "…Do you come here often?",
-                "…Do you come here often?"
+                "...Apa kamu sering ke sini?",
+                "...Apa kamu sering ke sini?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "…This park, it's a lot like th' one back home. That's why… \nwhenever I'm feelin' a little blue… I end up here…"
+            "text": "...Taman ini, mirip banget sama yang di rumah. Makanya... \nsetiap kali aku lagi sedih... aku berakhir di sini..."
         },
         {
-            "name": "Boy A",
-            "text": "Tama-neechan? What're you doing-?"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Ah- I got it, I got it! I've gotta talk to this guy first! \nJus' play with each other fer now!"
+            "name": "Anak Laki-laki A",
+            "text": "Tama-neechan? Kamu lagi ngapain-?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "…they're about th' same age as the brats- \nmy siblings, back home."
+            "text": "Ah- iya iya! Aku harus ngobrol sama orang ini dulu! \nMain aja dulu sana!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "…Wonder if they're doin' okay. \nDad and Mom too… hopefully they're doin' well too…",
+            "text": "...Mereka seumuran sama anak-anak- \nsaudara-saudaraku di rumah."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...Kira-kira mereka baik-baik aja nggak ya. \nAyah dan Ibu juga... semoga mereka juga baik-baik aja...",
             "choice_data_list": [
-                "You care alot about your family, huh?",
-                "You care alot about your family, huh?"
+                "Kamu sayang banget sama keluarga ya?",
+                "Kamu sayang banget sama keluarga ya?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "…They're important. \nMore than anythin'-"
+            "text": "...Mereka penting. \nLebih dari apa pun-"
         },
         {
             "name": "Tamamo Cross",
-            "text": "My family, ya see… we're broke. \nBut, with everyone smilin' happily, every day was fun."
+            "text": "Keluargaku, lho... kita miskin. \nTapi, dengan semua orang senyum bahagia, setiap hari \nitu menyenangkan."
         },
         {
             "name": "Tamamo Cross",
-            "text": "But… Dad and Mom, ta make sure we had enough ta eat, worked \nthemselves ta the bone… I wanted ta help 'em out."
+            "text": "Tapi... Ayah dan Ibu, biar kita punya cukup makanan, \nmereka kerja keras banget... Aku pengen bantu mereka."
         },
         {
-            "name": "Tamamo's Little Brother",
-            "text": "Neene- Tama-neene-! \nLet's buy some candy~. I'm really hungry~."
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "No way, bein' wasteful ain't good. 'sides tonight's special is… \nhanpen steak! Gotta make sure yer not full, so ya can enjoy it!"
-        },
-        {
-            "name": "Tamamo's Little Sister",
-            "text": "Waa! Tama-neene's hanpen steak!"
-        },
-        {
-            "name": "Tamamo's Little Brother",
-            "text": "Yaaay-! Neene! I'll wait until we get home then-!"
+            "name": "Adik Laki-laki Tamamo",
+            "text": "Neene- Tama-neene-! \nAyo beli permen~. Aku laper banget~."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Oh, how admirable! C'mon, \nDad and Mom are waitin' at home, let's get goin'!"
+            "text": "Nggak ah, boros itu nggak baik. Lagipula menu spesial \nmalam ini... steak hanpen! Kamu harus pastikan perutmu \nnggak kenyang, biar bisa nikmatin!"
+        },
+        {
+            "name": "Adik Perempuan Tamamo",
+            "text": "Waa! Steak hanpen Tama-neene!"
+        },
+        {
+            "name": "Adik Laki-laki Tamamo",
+            "text": "Horeee-! Neene! Aku akan tunggu sampai di rumah kalau gitu-!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "(…Jus' wait. Buyin' candy, fillin' yer bellies with real \nsteak… someday I'm gonna make tha' come true.)"
+            "text": "Oh, sungguh terpuji! Ayo, \nAyah dan Ibu udah nunggu di rumah, ayo kita berangkat!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "-I thought 'bout it alot. 'Bout what I could do ta make life \neasier for 'em. An' it finally hit me… th' Twinkle Series. "
+            "text": "(...Tunggu aja. Beli permen, isi perut kalian dengan \nsteak sungguhan... suatu hari nanti aku akan wujudkan itu.)"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Win a whole buncha races, get famous as th' best in Japan. \nDoin' that, fer sure, would make life easier for 'em."
+            "text": "-Aku banyak mikir. Tentang apa yang bisa kulakukan \nbuat bikin hidup mereka lebih mudah. Dan akhirnya aku \nmenemukan jawabannya... Seri Twinkle."
         },
         {
             "name": "Tamamo Cross",
-            "text": "'Cuz they helped me get ta Tracen Academy, I can't go on losin'! \nIt ain't good if I can't win! But even then-"
+            "text": "Menang banyak balapan, jadi terkenal sebagai yang terbaik \ndi Jepang. Melakukan itu, pastinya, akan membuat hidup mereka \nlebih mudah."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Right now, I ain't done nothin' but lose a buncha times. \nStartin' ta feel a lil' stupid… kinda depressin'."
-        },
-        {
-            "name": "Girl A",
-            "text": "-Tama-oneechan, are you okay?"
+            "text": "Karena mereka bantu aku sampai di Akademi Tracen, aku \nnggak bisa terus-terusan kalah! Nggak baik kalau aku nggak bisa \nmenang! Tapi meskipun begitu-"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Oh, what's up? Ya came back? \nDidn't I tell ya to go play with th' others?"
+            "text": "Sekarang, aku nggak ngapa-ngapain selain kalah berkali-kali. \nMulai merasa bodoh... agak menyedihkan."
         },
         {
-            "name": "Boy A",
-            "text": "But, we wanna see Tama-neechan run! \nShow us again!"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Geez, yer really rough on yer Uma Musume ain't ya? \nGuess it can't be helped, I'll show ya jus' a bit, so step back!"
+            "name": "Gadis A",
+            "text": "-Tama-oneechan, kamu baik-baik aja?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Here I go~… -Fuu!!"
+            "text": "Oh, ada apa? Kamu balik lagi? \nBukankah aku suruh kalian main sama yang lain?"
         },
         {
-            "text": "She ran as if to cut through the evening sky. \nShe was running with the same quickness as the \nfirst time I saw her, like \"lightning\"."
-        },
-        {
-            "name": "Boy A",
-            "text": "No way~!! Tama-neechan, you got a lot faster!! \nYou looked super strong!"
-        },
-        {
-            "name": "Girl A",
-            "text": "And, Tama-oneechan looked like she was having fun~!"
+            "name": "Anak Laki-laki A",
+            "text": "Tapi, kami pengen lihat Tama-neechan lari! \nTunjukin lagi ke kami!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Got that right! That's- the \"White Lightning\" for ya!",
+            "text": "Astaga, kalian kasar banget ya sama Uma kalian? \nKurasa nggak bisa ditolak, aku akan tunjukin sedikit, \nminggir sana!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ini dia~... -Fuu!!"
+        },
+        {
+            "text": "Dia berlari seolah membelah langit senja. \nDia berlari dengan kecepatan yang sama seperti saat \npertama kali aku melihatnya, seperti \"kilat\"."
+        },
+        {
+            "name": "Anak Laki-laki A",
+            "text": "Nggak mungkin~!! Tama-neechan, kamu jadi jauh lebih \ncepat!! Kamu kelihatan super kuat!"
+        },
+        {
+            "name": "Gadis A",
+            "text": "Dan, Tama-oneechan kelihatan seneng banget~!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Bener banget! Itulah- si \"Kilat Putih\"!",
             "choice_data_list": [
-                "…\"White Lightning\"?"
+                "...\"Kilat Putih\"?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "…A long time ago, Dad used ta say that while I was runnin'. \n[Faster and havin' more fun than anyone, yer just like \"White \nLightning\", Tama] she'd say."
+            "text": "...Dulu banget, Ayah biasa bilang itu pas aku lari. \n[Lebih cepat dan lebih bahagia daripada siapa pun, kamu \npersis kayak \"Kilat Putih\", Tama] katanya."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Everyone back home, believes that \"White Lightning\" will be th' \nbest in Japan. Tha' feelin'… I don't wanna disappoint 'em.",
+            "text": "Semua orang di rumah, percaya kalau \"Kilat Putih\" \nbakal jadi yang terbaik di Jepang. Perasaan itu... aku \nnggak mau bikin mereka kecewa.",
             "choice_data_list": [
-                "(Having more fun than anyone… running faster-)"
+                "(Lebih bahagia dari siapa pun... berlari lebih cepat-)"
             ]
         },
         {
-            "text": "At that moment, one possibility as to why Tamamo Cross couldn't \nrealize her full power floated to the front of my mind…"
+            "text": "Saat itu, sebuah kemungkinan kenapa Tamamo Cross \ntidak bisa mengeluarkan kekuatan penuhnya muncul \ndi benakku..."
         }
     ]
 }
