@@ -3,150 +3,150 @@
     "text_block_list": [
         {
             "name": "Tamamo Cross",
-            "text": "Hmm hmm… Dad, ya never change, do ya? \nHahaa, even th' brats are tsukkomi-ing."
+            "text": "Hmm hmm… Ayah, gak berubah ya? \nHahaa, bahkan bocil-bocil juga pada nge-tsukkomi."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Looks like they're enjoyin' the souvenirs too!",
+            "text": "Kelihatannya mereka juga suka sama oleh-olehnya!",
             "choice_data_list": [
-                "A letter from your family?"
+                "Surat dari keluargamu?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Yep. They also wrote somethin' for ya. Take a look."
+            "text": "Yep. Mereka juga nulis sesuatu buatmu. Coba liat deh."
         },
         {
-            "text": "Several different handwritings were in the letter. The sentences \nwritten mainly in hiragana were probably Tamamo Cross' siblings'."
+            "text": "Ada beberapa tulisan tangan yang berbeda di surat itu. Kalimat-kalimat \nyang kebanyakan ditulis dalam hiragana mungkin tulisan adik-adiknya Tamamo Cross."
         },
         {
-            "text": "A few days ago, [Tracen Academy, Enrolled for a Day!] had aired \non TV. Tamamo Cross had appeared in it while running, and they \nhad written their impressions about that."
+            "text": "Beberapa hari yang lalu, [Akademi Tracen, Mendaftar untuk Sehari!] tayang \ndi TV. Tamamo Cross muncul di acara itu pas lagi lari, dan mereka \nnulis kesan-kesan mereka tentang itu."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Th' script said ta run side-by-side with Oguri 'n \nInari. They told us ta jus' take it easy, but that \nain't us so we ended up goin' full throttle.",
+            "text": "Di naskahnya disuruh lari barengan sama Oguri 'n \nInari. Katanya sih santai aja, tapi itu \nbukan gaya kita, jadi akhirnya kita tancap gas pol.",
             "choice_data_list": [
-                "So the scene turned in to a competition",
-                "So the scene turned in to a competition"
+                "Jadi adegannya berubah jadi kompetisi",
+                "Jadi adegannya berubah jadi kompetisi"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Yeah. Dad was impressed by ya too. \nYer th' reason she's become so amazin', she said."
+            "text": "Iya. Ayah juga terkesan sama kamu. \nKatanya, kamu alesan dia bisa jadi sehebat ini."
         },
         {
             "name": "Tamamo Cross",
-            "text": "[Trainer and \"White Lightning\", quake th' heavens with thunder], \nshe said! Don' go betrayin' Dad's expectations, ya hear!",
+            "text": "[Pelatih dan \"Kilat Putih\", guncangkan langit dengan guntur], \nkatanya! Jangan sampai ngecewain harapan Ayah, denger ya!",
             "choice_data_list": [
-                "Bring it on!"
+                "Siapa takut!"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Hahahaa, if that's th' case, I'll write 'em that."
+            "text": "Hahahaa, kalau gitu, nanti aku tulisin ke mereka."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Right, I'll send the brats some more snacks. \nMeanin' some shoppin', wanna come with?"
+            "text": "Oh iya, aku mau kirim lagi jajanan buat bocil-bocil. \nArtinya mau belanja, mau ikut?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Help me pick some snacks ta send 'em. I'll let 'em know in th' \nletter, and it'll do for an introduction, don't ya think?",
+            "text": "Bantuin aku pilih jajanan buat dikirim. Nanti aku kasih tau di surat, \nsekalian buat perkenalan, gimana menurutmu?",
             "choice_data_list": [
-                "Absolutely!"
+                "Tentu saja!"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Let's see… last time they said this chocolate snack was good. \nThere's even a limited edition peach flavor?"
+            "text": "Coba kita lihat... terakhir kali mereka bilang snack cokelat ini enak. \nBahkan ada rasa persik edisi terbatas?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ah, these cookies're great, there's alot in there! \nTh' red box makes 'em look real fancy!"
+            "text": "Ah, kue kering ini mantap, isinya banyak! \nKotak merahnya bikin keliatan mewah banget!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Now that I get a good look, there's lotsa new brands ain't there? \n…Trainer, got any suggestions?",
+            "text": "Kalau diliat-liat, banyak merek baru ya? \n...Trainer, ada saran?",
             "choice_data_list": [
-                "The cookies in that red box are great!"
+                "Kue kering yang di kotak merah itu bagus!"
             ]
         },
         {
-            "text": "Her siblings probably have a hearty appetite. If that's the case, \nthen snacks with quantity are probably best, so I suggest that."
+            "text": "Adik-adiknya mungkin nafsu makannya besar. Kalau begitu, \njajanan yang isinya banyak mungkin yang terbaik, jadi aku menyarankan itu."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Got it! In tha' case, th' cookies and a family size \npack of rice crackers are th' right choice…"
+            "text": "Ngerti! Kalau gitu, kue kering sama kerupuk beras \nukuran keluarga pilihan yang pas…"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Hmmmm… maybe I should get 'em th' one they liked last time too. \nIf I'm thrifty this month, I can probably get them both th' \nregular an' peach flavor ones.",
+            "text": "Hmmmm... mungkin aku beliin juga yang mereka suka terakhir kali. \nKalau aku hemat bulan ini, kayaknya bisa deh beliin mereka yang rasa \nbiasa sama yang rasa persik.",
             "choice_data_list": [
-                "Don't force yourself if your budget's tight…"
-            ]
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "I ain't forcin' myself. I only have to be a little thrifty. \nNo different from how it is normally."
-        },
-        {
-            "text": "But… thinking back on the contents \nof that letter she showed me-"
-        },
-        {
-            "name": "Letter",
-            "text": "[Thanks fer th' snacks. They were tasty. Tama had some too right? \nEven without th' souvenirs, it's fine if ya just give us a call]"
-        },
-        {
-            "text": "Tamamo Cross' family wrote they were fine without souvenirs. \nThey've probably already realized how tight her budget is."
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Alright! Let's go with these 4!",
-            "choice_data_list": [
-                "Not buying any for yourself?",
-                "Not buying any for yourself?"
+                "Jangan maksain diri kalau budgetmu mepet…"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "I'm fine, I already get ta eat my fill of good food. \n'Cuz of Tracen Academy, everyday I get ta eat a feast!"
+            "text": "Aku gak maksain diri. Cuma perlu sedikit hemat aja. \nGak beda dari biasanya kok."
+        },
+        {
+            "text": "Tapi... kalau diingat-ingat lagi isi \nsurat yang dia tunjukin ke aku-"
+        },
+        {
+            "name": "Surat",
+            "text": "[Makasih ya jajanannya. Enak banget. Tama juga makan kan? \nNggak usah pake oleh-oleh juga nggak apa-apa, telepon aja kami udah seneng]"
+        },
+        {
+            "text": "Keluarga Tamamo Cross nulis kalau mereka nggak apa-apa tanpa oleh-oleh. \nMereka mungkin udah sadar betapa mepetnya budget dia."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Any more luxury than this and I'll be in for a reckonin'."
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Tha's why, rather than me, \nI wanna give my family somethin' tasty."
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "-I thought 'bout it alot. 'Bout what I could do ta make life \neasier for 'em. An' it finally hit me… th' Twinkle Series."
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "'Cuz they helped me get ta Tracen Academy, I can't go on losin'! \nIt ain't good if I can't win! But even then-"
-        },
-        {
-            "text": "Letting her attend Tracen Academy was a blessing, \nand in return her inclination was to prioritize \nher family over everything else.",
+            "text": "Oke! Kita ambil 4 ini!",
             "choice_data_list": [
-                "Don't overdo it by being thrifty",
-                "Don't overdo it by being thrifty"
+                "Gak beli buat dirimu sendiri?",
+                "Gak beli buat dirimu sendiri?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Are ya stupid? My thriftiness is Pro-level! \nAnd what's this all of a sudden? Are ya my mom?!",
+            "text": "Aku nggak apa-apa, aku udah bisa makan enak sampai kenyang kok. \nGara-gara Akademi Tracen, setiap hari aku bisa makan enak!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Kalau lebih mewah dari ini, nanti aku bisa kena batunya."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Makanya, daripada buat aku, \naku mau kasih keluargaku sesuatu yang enak."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "-Aku udah banyak mikir. Tentang apa yang bisa aku lakuin buat bikin hidup \nmereka lebih mudah. Dan akhirnya aku kepikiran... Twinkle Series."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Karena mereka udah bantu aku masuk Akademi Tracen, aku gak boleh kalah! \nGak bagus kalau aku gak bisa menang! Tapi meskipun begitu-"
+        },
+        {
+            "text": "Membiarkannya masuk Akademi Tracen adalah sebuah berkah, \ndan sebagai balasannya, dia cenderung memprioritaskan \nkeluarganya di atas segalanya.",
             "choice_data_list": [
-                "But I'm worried about you!"
+                "Jangan berlebihan hematnya",
+                "Jangan berlebihan hematnya"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Frank, ain't ya!? \nDon't say tha' with such a straight face, it's embarassin'!"
+            "text": "Kamu ini bodoh? Hematku ini udah level Pro! \nDan tiba-tiba kenapa sih? Kamu ibuku?!",
+            "choice_data_list": [
+                "Tapi aku khawatir sama kamu!"
+            ]
         },
         {
-            "text": "For the sake of her family is what drives her. But, it would be \nfine to spoil herself just a little… is what I thought."
+            "name": "Tamamo Cross",
+            "text": "Jujur banget, sih!? \nJangan ngomong gitu dengan muka lurus, malu-maluin tau!"
+        },
+        {
+            "text": "Demi keluarganya adalah hal yang memotivasinya. Tapi, sepertinya tidak apa-apa \nuntuk memanjakan dirinya sendiri sedikit... begitulah pikirku."
         }
     ]
 }

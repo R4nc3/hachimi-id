@@ -2,105 +2,105 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "On a day off, while I was out shopping, I happened to see Tamamo \nCross. She was just standing there, spacing out.",
+            "text": "Di hari libur, pas aku lagi belanja, aku gak sengaja liat Tamamo \nCross. Dia cuma diem aja di sana, bengong.",
             "choice_data_list": [
                 "Tamamo Cross?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "!! T-t-t-…Traineeeeer!!"
+            "text": "!! T-t-t-……Traineeeeer!!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Yer here! Yer reeeeally here, thanks!! \nI've reeeeeally been hopin' you'd show up!!",
+            "text": "Kau di sini! Beneran di sini, makasih!! \nAku beneeeeran ngarep kau bakal muncul!!",
             "choice_data_list": [
-                "I-it's just a coincidence though…?",
-                "I-it's just a coincidence though…?"
+                "T-tapi ini cuma kebetulan lho…?",
+                "T-tapi ini cuma kebetulan lho…?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Tha's fine! Ya see, \nI'm jus' really strugglin' with this on my own!"
+            "text": "Gak apa-apa! Soalnya, \naku beneran lagi kesulitan ngadepin ini sendirian!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ya see, I've never been in one 'a these fancy stores ta buy \nanything before, right? I don' even know where ta enter, and th' \nsun'll be settin' by the time I do!"
+            "text": "Soalnya, aku belum pernah masuk ke toko mewah kayak gini buat beli \napa-apa sebelumnya, kan? Aku bahkan gak tau masuknya lewat mana, dan \nmatahari bisa keburu terbenam pas aku berhasil masuk!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "I beg of ya! Can ya help me find a present \nfer my parents' weddin' anniversary?!"
+            "text": "Aku mohon! Bisa bantu aku cariin kado \nbuat ulang tahun pernikahan orang tuaku?!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "-and, it sounds like th' brats are gonna make some okonomiyaki ta \ncelebrate. Since I can't help 'em, I thought it'd be better ta \nbuy somethin' and send it."
+            "text": "-dan, kayaknya bocah-bocah bakal bikin okonomiyaki buat \nngerayain. Karena aku gak bisa bantu mereka, aku pikir lebih baik \nbeli sesuatu terus dikirim."
         },
         {
             "name": "Tamamo Cross",
-            "text": "With my budget, I can't really send 'em anything \ntoo pricey but… got any good ideas?"
+            "text": "Dengan budgetku, aku gak bisa ngirim yang \nmahal-mahal sih tapi… ada ide bagus?"
         },
         {
-            "text": "She just said something about this being fancy but, \nthese stores were normally reasonable for a student's \nbudget. If that's expensive to her-",
+            "text": "Dia baru aja bilang ini mewah tapi, \ntoko-toko ini biasanya harganya wajar buat kantong \npelajar. Kalau itu mahal buat dia-",
             "choice_data_list": [
-                "How about some really good snacks?",
-                "How about some really good snacks?"
+                "Gimana kalau cemilan yang enak banget?",
+                "Gimana kalau cemilan yang enak banget?"
             ]
         },
         {
-            "text": "There are plenty of snacks that are low budget but look \nextravagant. They tend to be happily given away at gift \nexchanges, so maybe it'll feel a bit celebratory."
+            "text": "Banyak kok cemilan yang harganya murah tapi kelihatannya \nmewah. Biasanya cemilan kayak gitu seneng diterima pas tukeran \nkado, jadi mungkin bakal kerasa lebih meriah."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Looks fancy but is a decent price? Sounds great! And if it's \nsnacks, th' brats can enjoy 'em too… Yeah, let's do that!"
+            "text": "Kelihatan mewah tapi harganya pas? Kedengerannya bagus! Dan kalau \ncemilan, bocah-bocah juga bisa ikut nikmatin… Iya, ayo kita lakuin itu!"
         },
         {
-            "text": "And with that, we ended up in a place that sells sweets, but-"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "N-no way… isn't tha' one digit too many…?"
+            "text": "Dan akhirnya, kita sampai di tempat yang jual makanan manis, tapi-"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Wha-… this… this 1 piece costs \nmore than 5 boxes of chocolate!?"
+            "text": "G-gak mungkin… itu nolnya gak kebanyakan satu ya…?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "One month's worth of allowance, gone in one bite… tha's insane!"
+            "text": "Ap-… ini… 1 potong ini harganya \nlebih dari 5 kotak cokelat!?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Unbelievable… inconceivable… \ndo people normally eat somethin' this expensive…?",
+            "text": "Uang jajan sebulan, hilang dalam sekali gigit… gila banget!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Gak bisa dipercaya… gak masuk akal… \napa orang-orang biasanya makan sesuatu semahal ini…?",
             "choice_data_list": [
-                "Maybe just for special occasions"
+                "Mungkin cuma buat acara spesial aja"
             ]
         },
         {
-            "text": "I explain that they're normally used as gifts and \nnot something for everyday. High-class sweets are \nspecial, so maybe as a way to reward yourself."
+            "text": "Aku jelasin kalau itu biasanya dijadiin hadiah dan \nbukan sesuatu buat dimakan sehari-hari. Makanan manis kelas atas itu \nspesial, jadi mungkin sebagai cara buat ngehargain diri sendiri."
         },
         {
             "name": "Tamamo Cross",
-            "text": "A reward fer yerself…?"
+            "text": "Hadiah buat diri sendiri…?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "I've heard 'bout tha' before, but people actually do that? \nEh, isn't tha' wasteful? They don't save it? So weird…"
+            "text": "Aku pernah dengar soal itu sebelumnya, tapi orang beneran ngelakuin itu? \nEh, bukannya itu boros? Gak ditabung? Aneh banget…"
         },
         {
             "name": "Tamamo Cross",
-            "text": "But, really, this price… \nnow I seriously have no idea what ta get…",
+            "text": "Tapi, beneran deh, harga ini… \nsekarang aku beneran gak tau mau beli apa…",
             "choice_data_list": [
-                "How about a short break?",
-                "How about a short break?"
+                "Gimana kalau kita istirahat sebentar?",
+                "Gimana kalau kita istirahat sebentar?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "…yeah. I wanna calm down a bit an' think about it."
+            "text": "…iya. Aku mau nenangin diri dulu sambil mikir."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Fuuuuuu… I can finally take a breather. \nOkay, what should I order~."
+            "text": "Fuuuuuu… akhirnya aku bisa napas lega. \nOke, aku harus pesan apa ya~."
         },
         {
             "name": "Tamamo Cross",
@@ -108,56 +108,56 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "…pancakes are THIS much?! \nI still need ta buy a present, so I'd rather spend it on that."
+            "text": "…pancake harganya SEGINI?! \nAku kan masih harus beli kado, jadi mending uangnya buat itu."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ah-, I'm fine with jus' water! I'm not tha' hungry anyways~."
+            "text": "Ah-, aku air putih aja! Lagian aku gak begitu lapar~."
         },
         {
             "name": "Café Employee",
-            "text": "Pardon me. Have you decided on your order?",
+            "text": "Permisi. Apa sudah mau pesan?",
             "choice_data_list": [
-                "Pancakes and juice for two"
+                "Pancake sama jusnya dua"
             ]
         },
         {
             "name": "Café Employee",
-            "text": "Two orders of pancakes and juice. Certainly."
+            "text": "Dua porsi pancake dan jus. Baik."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Wait! Why are ya orderin' for me?!",
+            "text": "Tunggu! Kok kau pesenin buat aku?!",
             "choice_data_list": [
-                "A reward for you and me",
-                "A reward for you and me"
+                "Hadiah buat kamu dan aku",
+                "Hadiah buat kamu dan aku"
             ]
         },
         {
-            "text": "Tamamo Cross and I have been working hard day in and day out. \nI tell her they're a reward for me too, and she should join me."
+            "text": "Aku dan Tamamo Cross udah kerja keras setiap hari. \nAku bilang ke dia ini hadiah buatku juga, dan dia harus ikut."
         },
         {
-            "text": "Besides, it's not just for this spring. Hopefully she'll eat this \nand get the motiviation to work even harder moving forward."
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "…I can guess what yer thinkin'. \nYa want me ta try out this \"rewardin' yerself\" thing fer myself."
+            "text": "Lagian, ini bukan cuma buat musim semi ini. Semoga dia makan ini \ndan jadi termotivasi buat kerja lebih keras lagi ke depannya."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Since I can't really grasp what rewardin' yerself means… \nI ain't gotta reason ta refuse then. I'll try it fer myself!"
+            "text": "…Aku bisa nebak apa yang kau pikirin. \nKau mau aku nyobain sendiri yang namanya \"menghadiahi diri sendiri\" ini."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Fuu Fuu Fuu… gettin' ta enjoy such expensive \npancakes for free, today's my lucky day!"
+            "text": "Karena aku gak begitu ngerti apa artinya menghadiahi diri sendiri… \nberarti aku gak punya alasan buat nolak. Aku akan coba sendiri!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Fuu Fuu Fuu… bisa nikmatin pancake mahal \nkayak gini gratis, hari ini aku beruntung banget!"
         },
         {
             "name": "Café Employee",
-            "text": "Sorry for the wait, pancakes and juice. \nPlease take your time~."
+            "text": "Maaf menunggu lama, ini pancake dan jusnya. \nSilakan dinikmati~."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Oh, it's here!…it's really fluffy isn't it? \nSo how is it…?"
+            "text": "Oh, udah datang!…empuk banget ya? \nJadi, gimana rasanya…?"
         },
         {
             "name": "Tamamo Cross",
@@ -165,88 +165,88 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "(The moment I put it in my mouth, it melted an' \nth' flavor of eggs spread all through my mouth… \nand it was gone in an instant…)"
+            "text": "(Begitu aku masukin ke mulut, langsung lumer dan \nrasa telurnya nyebar ke seluruh mulutku… \ndan hilang dalam sekejap…)"
         },
         {
             "name": "Tamamo Cross",
-            "text": "(The salty taste of th' butter goes real well \nwith th' cream… and such a light aftertaste… \nI could eat these foreeeeeever…!)"
+            "text": "(Rasa asin dari menteganya cocok banget \nsama krimnya… dan aftertaste-nya ringan banget… \nAku bisa makan ini selamanyaaaaa…!)"
         },
         {
             "name": "Tamamo Cross",
-            "text": "SOOOO GOOD!!"
+            "text": "ENAAAAAK BANGET!!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Trainer, these… are amazin'!!"
+            "text": "Pelatih, ini… luar biasa!!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "…fer sure, I'd want ta eat this again. I think I see why ya'd \nwant ta stretch yer budget for somethin' like this!"
+            "text": "…pasti, aku pengen makan ini lagi. Kayaknya aku ngerti kenapa kau \nrela ngeluarin uang lebih buat sesuatu kayak gini!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "…so tha's why it's called \"rewardin' yerself\"…"
+            "text": "…jadi ini alasannya disebut \"menghadiahi diri sendiri\"…"
         },
         {
             "name": "Tamamo Cross",
-            "text": "…But, I want my family to eat somethin' like this too. \nI want ta reward my parents and th' brats, too.",
+            "text": "…Tapi, aku juga mau keluargaku makan yang kayak gini. \nAku mau ngasih hadiah buat orang tuaku dan bocah-bocah juga.",
             "choice_data_list": [
-                "I'm sure they feel the same way"
+                "Aku yakin mereka juga ngerasain hal yang sama"
             ]
         },
         {
-            "text": "Tamamo Cross' family, probably want to treat her \nto something tasty like this too, feeling like \nit would be a reward for working so hard."
+            "text": "Keluarga Tamamo Cross, mungkin juga mau nraktir dia \nmakanan enak kayak gini, ngerasa itu \nsebagai hadiah karena udah kerja keras."
         },
         {
             "name": "Tamamo Cross",
-            "text": "My family wanting ta reward me… \n…now that I think about it-"
+            "text": "Keluargaku mau ngasih aku hadiah… \n…sekarang kalau dipikir-pikir-"
         },
         {
             "name": "Tamamo's Little Brother",
-            "text": "Ah-! Neene is the only one with 1 extra croquette! Why-?"
+            "text": "Ah-! Cuma Neene yang dapet kroketnya nambah 1! Kenapa-?"
         },
         {
             "name": "Tamamo Cross' Father",
-            "text": "Tha's Tama's reward! 'Cuz she won first place! \nTama, eat up so ya can run well in th' next one too!"
+            "text": "Itu hadiahnya Tama! Soalnya dia juara satu! \nTama, makan yang banyak biar lari berikutnya makin kenceng!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Tha's right… I've gotten rewarded before…"
+            "text": "Benar juga… aku pernah dapet hadiah sebelumnya…"
         },
         {
             "name": "Tamamo Cross",
-            "text": "My family and me feel th' same… it's so obvious ain't it? \nNot good… I was gettin' tunnel vision again…",
+            "text": "Aku dan keluargaku ngerasain hal yang sama… jelas banget kan? \nGak bagus nih… aku jadi fokus ke satu hal lagi…",
             "choice_data_list": [
-                "Every now and then, how about spoiling yourself?"
+                "Sesekali, gimana kalau manjain diri sendiri?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "…I've been spoiled more than enough… but I'll think about it."
+            "text": "…Aku udah lebih dari cukup dimanjain… tapi aku bakal pikirin."
         },
         {
             "name": "Tamamo Cross",
-            "text": "…well then. Gonna have some more of these pancakes! \nDon't wanna leave any leftovers of somethin' this tasty!"
+            "text": "…ya udah deh. Mau makan pancake-nya lagi! \nGak mau ninggalin sisa makanan seenak ini!"
         },
         {
-            "text": "After saying that, Tamamo Cross continued stuffing \nherself with the pancakes with surprising vigor, \nsaying how tasty it was the whole time.",
+            "text": "Setelah bilang gitu, Tamamo Cross lanjut \nngelahap pancake-nya dengan semangat yang mengejutkan, \nsambil bilang enak terus-terusan.",
             "choice_data_list": [
-                "There's no need to hurry…"
+                "Gak perlu buru-buru…"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "I wanna finish it!! I wanna savor it! \nBut, my limit… my limit is already approachin'…!",
+            "text": "Aku mau habisin!! Aku mau nikmatin! \nTapi, batasku… batasku udah deket…!",
             "choice_data_list": [
-                "Limit?"
+                "Batas?"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "…I think I'm cappin' out on this unfamiliar luxury… \nnow, my back is covered in cold sweat… I'm feelin' faint…"
+            "text": "…kayaknya aku udah mentok sama kemewahan yang asing ini… \nsekarang, punggungku keringat dingin… aku ngerasa mau pingsan…"
         },
         {
-            "text": "-I never thought her tolerance for high-class food \nwould be this low. But, even while in a cold sweat, \nshe continued to stuff her mouth with pancake."
+            "text": "-Aku gak pernah nyangka toleransinya sama makanan kelas atas \nserendah ini. Tapi, walaupun keringat dingin, \ndia terus aja masukin pancake ke mulutnya."
         }
     ]
 }
