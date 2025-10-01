@@ -1,7 +1,7 @@
 {
   "debug_mode": false,
   "translator_mode": false,
-  "disable_gui": false,
+  "disable_gui": true,
   "localized_data_dir": "localized_data",
   "target_fps": null,
   "open_browser_url": "https://www.google.com/",
